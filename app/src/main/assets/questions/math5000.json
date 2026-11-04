@@ -1,0 +1,4188 @@
+{
+
+
+  "Math": [
+    {
+      "question": "Evaluate: 12 × 15",
+      "choices": ["120", "150", "180", "200"],
+      "correctAnswer": "180"
+    },
+    {
+      "question": "Solve for x: 2x + 5 = 17",
+      "choices": ["5", "6", "7", "8"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Find the value of √144",
+      "choices": ["10", "11", "12", "13"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Simplify: 3(2x – 4)",
+      "choices": ["6x – 12", "6x + 12", "5x – 4", "2x – 12"],
+      "correctAnswer": "6x – 12"
+    },
+    {
+      "question": "What is the HCF of 12 and 30?",
+      "choices": ["2", "3", "6", "12"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Convert 0.75 to a fraction",
+      "choices": ["1/2", "3/4", "2/5", "4/5"],
+      "correctAnswer": "3/4"
+    },
+    {
+      "question": "If a triangle has angles 40°, 60°, the third angle is:",
+      "choices": ["40°", "60°", "80°", "100°"],
+      "correctAnswer": "80°"
+    },
+    {
+      "question": "Solve: 8x = 64",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Find the median of 3, 7, 9, 15, 20",
+      "choices": ["7", "9", "15", "20"],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Simplify: (x²)(x³)",
+      "choices": ["x²", "x³", "x⁵", "x⁶"],
+      "correctAnswer": "x⁵"
+    },
+
+    {
+      "question": "What is the simple interest on ₦4,000 at 5% for 2 years?",
+      "choices": ["₦200", "₦300", "₦400", "₦500"],
+      "correctAnswer": "₦400"
+    },
+    {
+      "question": "Solve: 3x − 9 = 0",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Find the perimeter of a square of side 9 cm",
+      "choices": ["18 cm", "27 cm", "36 cm", "45 cm"],
+      "correctAnswer": "36 cm"
+    },
+    {
+      "question": "Convert 3/5 to decimal",
+      "choices": ["0.3", "0.4", "0.5", "0.6"],
+      "correctAnswer": "0.6"
+    },
+    {
+      "question": "Factorize: x² – 25",
+      "choices": ["(x – 5)(x + 5)", "(x − 25)", "x(x − 5)", "(x + 25)"],
+      "correctAnswer": "(x – 5)(x + 5)"
+    },
+    {
+      "question": "Find the area of a triangle with base 10 cm and height 8 cm",
+      "choices": ["20 cm²", "30 cm²", "40 cm²", "50 cm²"],
+      "correctAnswer": "40 cm²"
+    },
+    {
+      "question": "Solve: 4² × 2³",
+      "choices": ["16", "32", "64", "128"],
+      "correctAnswer": "128"
+    },
+    {
+      "question": "What is the mode of: 2, 3, 3, 4, 6, 6, 6, 7?",
+      "choices": ["3", "4", "6", "7"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Find the gradient of a line passing through (2,3) and (4,7)",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Solve: x/3 = 9",
+      "choices": ["9", "18", "21", "27"],
+      "correctAnswer": "27"
+    },
+
+    {
+      "question": "If a bag contains 5 red and 3 blue balls, probability of red is:",
+      "choices": ["5/3", "5/8", "3/8", "1/5"],
+      "correctAnswer": "5/8"
+    },
+    {
+      "question": "Expand: (x + 4)(x + 2)",
+      "choices": ["x² + 6x + 8", "x² + 8x + 6", "x² + 4x + 2", "x² + 2x + 6"],
+      "correctAnswer": "x² + 6x + 8"
+    },
+    {
+      "question": "Solve for x: x² = 49",
+      "choices": ["–7", "7", "±7", "0"],
+      "correctAnswer": "±7"
+    },
+    {
+      "question": "Find the LCM of 6 and 8",
+      "choices": ["12", "18", "24", "48"],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "What is 15% of 200?",
+      "choices": ["20", "25", "30", "40"],
+      "correctAnswer": "30"
+    },
+    {
+      "question": "Simplify: 3/4 ÷ 1/2",
+      "choices": ["3/2", "1/2", "3/4", "2/3"],
+      "correctAnswer": "3/2"
+    },
+    {
+      "question": "Find the interior angle sum of a pentagon",
+      "choices": ["360°", "450°", "540°", "720°"],
+      "correctAnswer": "540°"
+    },
+    {
+      "question": "Find log₁₀(1000)",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Solve: 7x + 3 = 31",
+      "choices": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Convert 2.75 to fraction",
+      "choices": ["11/4", "7/4", "5/2", "9/4"],
+      "correctAnswer": "11/4"
+    },
+
+    {
+      "question": "If the radius of a circle is 7 cm, find its diameter",
+      "choices": ["7 cm", "14 cm", "21 cm", "28 cm"],
+      "correctAnswer": "14 cm"
+    },
+    {
+      "question": "Simplify: (2x)(3x²)",
+      "choices": ["5x²", "6x²", "6x³", "3x²"],
+      "correctAnswer": "6x³"
+    },
+    {
+      "question": "A man bought a shirt for ₦2,000 and sold it for ₦2,500. Profit is:",
+      "choices": ["₦200", "₦300", "₦400", "₦500"],
+      "correctAnswer": "₦500"
+    },
+    {
+      "question": "Solve: x − 9 = 4",
+      "choices": ["10", "11", "12", "13"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "Differentiate: d/dx (5x²)",
+      "choices": ["5x", "10x", "5x²", "25x"],
+      "correctAnswer": "10x"
+    },
+    {
+      "question": "Evaluate: 25 × 14",
+      "choices": ["250", "300", "325", "350"],
+      "correctAnswer": "350"
+    },
+    {
+      "question": "Solve for x: 3x − 7 = 20",
+      "choices": ["7", "8", "9", "10"],
+      "correctAnswer": "9"
+    },
+    {
+      "question": "Find √289",
+      "choices": ["15", "16", "17", "18"],
+      "correctAnswer": "17"
+    },
+    {
+      "question": "Simplify: 6(2x − 5)",
+      "choices": ["12x − 30", "12x + 30", "10x − 5", "4x − 5"],
+      "correctAnswer": "12x − 30"
+    },
+    {
+      "question": "Find the HCF of 18 and 45",
+      "choices": ["3", "6", "9", "18"],
+      "correctAnswer": "9"
+    },
+
+    {
+      "question": "Convert 0.875 to fraction",
+      "choices": ["1/2", "3/4", "7/8", "9/8"],
+      "correctAnswer": "7/8"
+    },
+    {
+      "question": "A triangle has angles 30° and 85°. Find the third angle.",
+      "choices": ["50°", "55°", "65°", "70°"],
+      "correctAnswer": "65°"
+    },
+    {
+      "question": "Solve: 14x = 196",
+      "choices": ["10", "12", "14", "16"],
+      "correctAnswer": "14"
+    },
+    {
+      "question": "Find the median of 6, 9, 12, 18, 27",
+      "choices": ["9", "12", "18", "27"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Simplify: (x⁵)(x³)",
+      "choices": ["x⁶", "x⁸", "x⁵", "x³"],
+      "correctAnswer": "x⁸"
+    },
+
+    {
+      "question": "A piece of cloth is bought for ₦8,000 and sold for ₦9,600. Find the profit.",
+      "choices": ["₦800", "₦1,000", "₦1,200", "₦1,600"],
+      "correctAnswer": "₦1,600"
+    },
+    {
+      "question": "Solve: 5x − 3 = 22",
+      "choices": ["3", "4", "5", "6"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Find the perimeter of a square of side 11 cm",
+      "choices": ["22 cm", "33 cm", "44 cm", "55 cm"],
+      "correctAnswer": "44 cm"
+    },
+    {
+      "question": "Convert 7/20 to decimal",
+      "choices": ["0.25", "0.30", "0.35", "0.40"],
+      "correctAnswer": "0.35"
+    },
+    {
+      "question": "Factorize: x² − 9x + 20",
+      "choices": ["(x − 5)(x − 4)", "(x − 6)(x − 3)", "(x + 5)(x − 4)", "(x + 5)(x + 4)"],
+      "correctAnswer": "(x − 5)(x − 4)"
+    },
+
+    {
+      "question": "Find the area of a trapezium with parallel sides 10 cm and 14 cm, height 6 cm",
+      "choices": ["48 cm²", "72 cm²", "84 cm²", "96 cm²"],
+      "correctAnswer": "72 cm²"
+    },
+    {
+      "question": "Evaluate: 2⁵ × 3³",
+      "choices": ["96", "108", "192", "864"],
+      "correctAnswer": "864"
+    },
+    {
+      "question": "Find the mode of 2, 2, 5, 7, 7, 7, 8",
+      "choices": ["2", "5", "7", "8"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Find the gradient of the line joining (2,5) and (10,21)",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Solve: x/7 = 15",
+      "choices": ["105", "85", "90", "110"],
+      "correctAnswer": "105"
+    },
+
+    {
+      "question": "A bag contains 9 blue and 6 green balls. P(blue) = ?",
+      "choices": ["1/2", "3/5", "3/4", "2/3"],
+      "correctAnswer": "3/5"
+    },
+    {
+      "question": "Expand: (x + 7)(x − 4)",
+      "choices": ["x² + 3x − 28", "x² − 3x − 28", "x² + 28", "x² − 11x"],
+      "correctAnswer": "x² + 3x − 28"
+    },
+    {
+      "question": "Solve: x² = 196",
+      "choices": ["14", "-14", "±14", "0"],
+      "correctAnswer": "±14"
+    },
+    {
+      "question": "Find the LCM of 12, 18 and 30",
+      "choices": ["60", "90", "120", "180"],
+      "correctAnswer": "180"
+    },
+    {
+      "question": "What is 25% of 480?",
+      "choices": ["90", "100", "110", "120"],
+      "correctAnswer": "120"
+    },
+
+    {
+      "question": "Simplify: 7/8 ÷ 1/4",
+      "choices": ["7/32", "7/2", "7/4", "14"],
+      "correctAnswer": "7/2"
+    },
+    {
+      "question": "Find the interior angle of a regular nonagon (9-sided polygon)",
+      "choices": ["120°", "140°", "160°", "180°"],
+      "correctAnswer": "140°"
+    },
+    {
+      "question": "Evaluate log₁₀(0.001)",
+      "choices": ["–1", "–2", "–3", "–4"],
+      "correctAnswer": "–3"
+    },
+    {
+      "question": "Solve: 4x + 1 = 49",
+      "choices": ["10", "11", "12", "13"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Convert 1.875 to fraction",
+      "choices": ["15/8", "13/8", "7/4", "9/4"],
+      "correctAnswer": "15/8"
+    },
+
+    {
+      "question": "The radius of a circle is 15 cm. Find its diameter.",
+      "choices": ["15 cm", "20 cm", "25 cm", "30 cm"],
+      "correctAnswer": "30 cm"
+    },
+    {
+      "question": "Simplify: (7x)(2x²)",
+      "choices": ["9x²", "14x²", "14x³", "9x³"],
+      "correctAnswer": "14x³"
+    },
+    {
+      "question": "A trader sells goods worth ₦18,000 after making a 20% profit. Find the cost price.",
+      "choices": ["₦12,000", "₦13,000", "₦14,000", "₦15,000"],
+      "correctAnswer": "₦15,000"
+    },
+    {
+      "question": "Solve: x − 20 = −5",
+      "choices": ["10", "12", "14", "15"],
+      "correctAnswer": "15"
+    },
+    {
+      "question": "Differentiate: d/dx (9x³)",
+      "choices": ["27x²", "18x²", "9x²", "3x²"],
+      "correctAnswer": "27x²"
+    },
+
+    {
+      "question": "Compute the limit: lim (x → 0) (sin x / x)",
+      "choices": ["0", "1", "x", "undefined"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Integrate: ∫ 4x dx",
+      "choices": ["2x² + C", "4x² + C", "x² + C", "8x + C"],
+      "correctAnswer": "2x² + C"
+    },
+    {
+      "question": "Find dy/dx if y = 3x⁴",
+      "choices": ["12x²", "12x³", "6x⁴", "3x²"],
+      "correctAnswer": "12x³"
+    },
+    {
+      "question": "Evaluate: ∫ (6/x) dx",
+      "choices": ["6 ln x + C", "6/x + C", "x ln 6 + C", "6x + C"],
+      "correctAnswer": "6 ln x + C"
+    },
+    {
+      "question": "Find the sum: 1 + 2 + 3 + ... + 20",
+      "choices": ["190", "200", "210", "220"],
+      "correctAnswer": "210"
+    },
+    {
+      "question": "Evaluate: 18 × 16",
+      "choices": ["228", "256", "288", "306"],
+      "correctAnswer": "288"
+    },
+    {
+      "question": "Solve for x: 4x − 9 = 23",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Find √196",
+      "choices": ["12", "13", "14", "15"],
+      "correctAnswer": "14"
+    },
+    {
+      "question": "Simplify: 5(3x − 2)",
+      "choices": ["15x − 10", "15x − 7", "8x − 2", "10x − 5"],
+      "correctAnswer": "15x − 10"
+    },
+    {
+      "question": "Find the HCF of 24 and 60",
+      "choices": ["4", "6", "8", "12"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Convert 0.4 to a fraction",
+      "choices": ["1/4", "1/3", "2/5", "3/5"],
+      "correctAnswer": "2/5"
+    },
+    {
+      "question": "A triangle has angles 50° and 75°. Find the third angle.",
+      "choices": ["45°", "50°", "55°", "60°"],
+      "correctAnswer": "55°"
+    },
+    {
+      "question": "Solve: 9x = 117",
+      "choices": ["9", "11", "13", "15"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "Find the median of 4, 8, 10, 12, 15",
+      "choices": ["8", "10", "12", "15"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Simplify: (x³)(x⁴)",
+      "choices": ["x³", "x⁴", "x⁵", "x⁷"],
+      "correctAnswer": "x⁷"
+    },
+
+    {
+      "question": "A sum of ₦5,000 earns 6% simple interest per annum. Find the interest in 2 years.",
+      "choices": ["₦300", "₦400", "₦500", "₦600"],
+      "correctAnswer": "₦600"
+    },
+    {
+      "question": "Solve: 2x + 13 = 29",
+      "choices": ["6", "7", "8", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Find the perimeter of a rectangle of length 14 cm and breadth 9 cm",
+      "choices": ["23 cm", "28 cm", "34 cm", "46 cm"],
+      "correctAnswer": "46 cm"
+    },
+    {
+      "question": "Convert 9/20 to decimal",
+      "choices": ["0.35", "0.40", "0.45", "0.50"],
+      "correctAnswer": "0.45"
+    },
+    {
+      "question": "Factorize: x² − 4x − 21",
+      "choices": ["(x − 7)(x + 3)", "(x − 3)(x + 7)", "(x + 7)(x + 3)", "(x − 7)(x − 3)"],
+      "correctAnswer": "(x − 7)(x + 3)"
+    },
+    {
+      "question": "Find the area of a triangle with base 12 cm and height 7 cm",
+      "choices": ["36 cm²", "42 cm²", "72 cm²", "84 cm²"],
+      "correctAnswer": "42 cm²"
+    },
+    {
+      "question": "Evaluate: 3² × 5³",
+      "choices": ["75", "125", "225", "375"],
+      "correctAnswer": "1125"
+    },
+    {
+      "question": "What is the mode of 1, 3, 3, 4, 4, 4, 5, 6?",
+      "choices": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Find the gradient of the line joining (1,4) and (5,16)",
+      "choices": ["2", "3", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Solve: x/2 = 17",
+      "choices": ["17", "30", "34", "40"],
+      "correctAnswer": "34"
+    },
+
+    {
+      "question": "A box contains 8 red and 12 white balls. What is the probability of picking a red ball?",
+      "choices": ["2/5", "2/3", "1/2", "3/5"],
+      "correctAnswer": "2/5"
+    },
+    {
+      "question": "Expand: (x − 6)(x + 1)",
+      "choices": ["x² − 5x − 6", "x² − 5x + 6", "x² + 7x − 6", "x² − 7x + 6"],
+      "correctAnswer": "x² − 5x − 6"
+    },
+    {
+      "question": "Solve for x: x² = 256",
+      "choices": ["16", "−16", "±16", "0"],
+      "correctAnswer": "±16"
+    },
+    {
+      "question": "Find the LCM of 8, 12 and 15",
+      "choices": ["60", "120", "180", "240"],
+      "correctAnswer": "120"
+    },
+    {
+      "question": "What is 30% of 360?",
+      "choices": ["90", "100", "108", "120"],
+      "correctAnswer": "108"
+    },
+    {
+      "question": "Simplify: 5/12 ÷ 1/3",
+      "choices": ["5/36", "5/9", "5/4", "15/12"],
+      "correctAnswer": "5/4"
+    },
+    {
+      "question": "Find the interior angle sum of a heptagon",
+      "choices": ["540°", "720°", "900°", "1080°"],
+      "correctAnswer": "900°"
+    },
+    {
+      "question": "Evaluate log₁₀(1/100)",
+      "choices": ["−1", "−2", "1", "2"],
+      "correctAnswer": "−2"
+    },
+    {
+      "question": "Solve: 11x − 7 = 60",
+      "choices": ["5", "6", "7", "8"],
+      "correctAnswer": "6"
+    },
+    {
+      "question": "Convert 4.5 to fraction",
+      "choices": ["5/2", "7/2", "9/2", "11/2"],
+      "correctAnswer": "9/2"
+    },
+
+    {
+      "question": "The radius of a circle is 6 cm. Find its area (π = 22/7).",
+      "choices": ["36 cm²", "66 cm²", "99 cm²", "113.14 cm²"],
+      "correctAnswer": "113.14 cm²"
+    },
+    {
+      "question": "Simplify: (5x)(3x²)",
+      "choices": ["15x²", "15x³", "8x³", "8x²"],
+      "correctAnswer": "15x³"
+    },
+    {
+      "question": "A man bought a radio for ₦12,000 and sold it for ₦15,600. Find the profit percentage.",
+      "choices": ["20%", "25%", "30%", "35%"],
+      "correctAnswer": "30%"
+    },
+    {
+      "question": "Solve: x − 4 = 19",
+      "choices": ["21", "22", "23", "24"],
+      "correctAnswer": "23"
+    },
+    {
+      "question": "Differentiate: d/dx (6x²)",
+      "choices": ["6x", "12x", "3x²", "6x²"],
+      "correctAnswer": "12x"
+    },
+
+    {
+      "question": "Compute the limit: lim (x → ∞) (5x² / x²)",
+      "choices": ["0", "1", "5", "∞"],
+      "correctAnswer": "5"
+    },
+    {
+      "question": "Integrate: ∫ 10x dx",
+      "choices": ["5x² + C", "10x² + C", "x² + C", "20x + C"],
+      "correctAnswer": "5x² + C"
+    },
+    {
+      "question": "Find dy/dx if y = 7x³",
+      "choices": ["7x²", "14x²", "21x²", "21x³"],
+      "correctAnswer": "21x²"
+    },
+    {
+      "question": "Evaluate: ∫ (3/x) dx",
+      "choices": ["3 ln x + C", "3x + C", "x³ + C", "3/x + C"],
+      "correctAnswer": "3 ln x + C"
+    },
+    {
+      "question": "Find the sum of the first 15 natural numbers",
+      "choices": ["105", "110", "120", "135"],
+      "correctAnswer": "120"
+    },
+
+    {
+      "question": "Evaluate: 7² − 4²",
+      "choices": ["33", "35", "37", "45"],
+      "correctAnswer": "33"
+    },
+    {
+      "question": "Solve: 3(x + 5) = 27",
+      "choices": ["2", "3", "4", "5"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "If 3x = 5, find x to 2 decimal places.",
+      "choices": ["1.50", "1.60", "1.67", "1.75"],
+      "correctAnswer": "1.67"
+    },
+    {
+      "question": "Simplify: (2x − 3x) + 4",
+      "choices": ["x + 4", "−x + 4", "5x + 4", "x − 4"],
+      "correctAnswer": "−x + 4"
+    },
+    {
+      "question": "Find the value of 2⁴ × 2³",
+      "choices": ["2⁵", "2⁶", "2⁷", "2⁸"],
+      "correctAnswer": "2⁷"
+    },
+
+    {
+      "question": "If a student scored 60, 75, 80 and 85 in four tests, find the mean score.",
+      "choices": ["70", "75", "78", "80"],
+      "correctAnswer": "75"
+    },
+    {
+      "question": "A fair die is thrown once. What is the probability of getting an even number?",
+      "choices": ["1/2", "1/3", "2/3", "1/6"],
+      "correctAnswer": "1/2"
+    },
+    {
+      "question": "Solve: 5x + 2 = 3x + 10",
+      "choices": ["3", "4", "5", "6"],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Factorize completely: 2x² − 8x",
+      "choices": ["2x(x − 4)", "2(x − 4)", "x(2x − 8)", "2(x + 4)"],
+      "correctAnswer": "2x(x − 4)"
+    },
+    {
+      "question": "If sin θ = 1/2 and θ is acute, find θ.",
+      "choices": ["15°", "30°", "45°", "60°"],
+      "correctAnswer": "30°"
+    },
+
+    {
+      "question": "Find the value of cos 60°",
+      "choices": ["0", "1/4", "1/2", "1"],
+      "correctAnswer": "1/2"
+    },
+    {
+      "question": "The exterior angle of a regular polygon is 30°. How many sides has it?",
+      "choices": ["6", "8", "10", "12"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "A straight line passes through (0, 3) and has gradient 2. Find its equation.",
+      "choices": ["y = 2x + 3", "y = 2x − 3", "y = 3x + 2", "y = x + 2"],
+      "correctAnswer": "y = 2x + 3"
+    },
+    {
+      "question": "Given that 2log₁₀x = 4, find x.",
+      "choices": ["10", "50", "100", "1,000"],
+      "correctAnswer": "100"
+    },
+    {
+      "question": "Simplify: (x²y)(x³y²)",
+      "choices": ["x⁵y³", "x⁶y⁴", "x⁵y²", "x²y⁵"],
+      "correctAnswer": "x⁵y³"
+    },
+
+    {
+      "question": "Evaluate: (3/5) of 250",
+      "choices": ["100", "120", "130", "150"],
+      "correctAnswer": "150"
+    },
+    {
+      "question": "If the ratio of boys to girls in a class is 3:2 and there are 30 students, how many are girls?",
+      "choices": ["10", "12", "15", "18"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "The sum of the angles on a straight line is:",
+      "choices": ["90°", "120°", "180°", "360°"],
+      "correctAnswer": "180°"
+    },
+    {
+      "question": "Find the volume of a cube of side 5 cm",
+      "choices": ["25 cm³", "75 cm³", "100 cm³", "125 cm³"],
+      "correctAnswer": "125 cm³"
+    },
+    {
+      "question": "Integrate: ∫ (2x + 3) dx",
+      "choices": ["x² + 3x + C", "x² + 2x + C", "2x² + 3x + C", "x² + x + C"],
+      "correctAnswer": "x² + 3x + C"
+    },
+  {
+    "question": "Evaluate: 42 × 18",
+    "choices": ["626", "732", "756", "804"],
+    "correctAnswer": "756"
+  },
+  {
+    "question": "Solve for x: 7x − 15 = 41",
+    "choices": ["6", "7", "8", "9"],
+    "correctAnswer": "8"
+  },
+  {
+    "question": "Find √361",
+    "choices": ["17", "18", "19", "20"],
+    "correctAnswer": "19"
+  },
+  {
+    "question": "Simplify: 4(5x − 3)",
+    "choices": ["20x − 12", "20x + 12", "5x − 3", "8x − 3"],
+    "correctAnswer": "20x − 12"
+  },
+  {
+    "question": "Find the HCF of 32 and 40",
+    "choices": ["4", "6", "8", "10"],
+    "correctAnswer": "8"
+  },
+
+  {
+    "question": "Convert 0.08 to fraction",
+    "choices": ["2/25", "1/12", "4/25", "1/8"],
+    "correctAnswer": "2/25"
+  },
+  {
+    "question": "In a triangle, two angles are 48° and 82°. Find the third angle.",
+    "choices": ["40°", "42°", "50°", "52°"],
+    "correctAnswer": "50°"
+  },
+  {
+    "question": "Solve: 16x = 144",
+    "choices": ["7", "8", "9", "10"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "Find the median of 12, 15, 18, 25, 30",
+    "choices": ["15", "18", "25", "30"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "Simplify: (x⁶)(x³)",
+    "choices": ["x⁹", "x⁶", "x³", "x¹⁰"],
+    "correctAnswer": "x⁹"
+  },
+
+  {
+    "question": "Simple interest on ₦3,600 at 10% for 3 years is:",
+    "choices": ["₦360", "₦700", "₦900", "₦1080"],
+    "correctAnswer": "₦1080"
+  },
+  {
+    "question": "Solve: 9x − 4 = 50",
+    "choices": ["5", "6", "7", "8"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Find the perimeter of a square of side 16 cm",
+    "choices": ["32 cm", "48 cm", "64 cm", "80 cm"],
+    "correctAnswer": "64 cm"
+  },
+  {
+    "question": "Convert 11/20 to decimal",
+    "choices": ["0.45", "0.50", "0.55", "0.65"],
+    "correctAnswer": "0.55"
+  },
+  {
+    "question": "Factorize: x² − 14x + 45",
+    "choices": ["(x − 5)(x − 9)", "(x + 5)(x − 9)", "(x − 3)(x − 15)", "(x − 10)(x − 4)"],
+    "correctAnswer": "(x − 5)(x − 9)"
+  },
+
+  {
+    "question": "Area of a triangle with base 18 cm and height 14 cm",
+    "choices": ["84 cm²", "108 cm²", "126 cm²", "252 cm²"],
+    "correctAnswer": "126 cm²"
+  },
+  {
+    "question": "Evaluate: 4³ × 3²",
+    "choices": ["144", "172", "192", "216"],
+    "correctAnswer": "216"
+  },
+  {
+    "question": "The mode of 5, 7, 7, 7, 12, 12, 14 is:",
+    "choices": ["7", "12", "5", "14"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Find the gradient between (3, 8) and (9, 20)",
+    "choices": ["1", "2", "3", "4"],
+    "correctAnswer": "2"
+  },
+  {
+    "question": "Solve: x/4 = 11",
+    "choices": ["22", "33", "44", "55"],
+    "correctAnswer": "44"
+  },
+
+  {
+    "question": "Probability of picking a queen from a standard deck of 52 cards",
+    "choices": ["1/26", "1/13", "2/13", "4/52"],
+    "correctAnswer": "1/13"
+  },
+  {
+    "question": "Expand: (x + 9)(x − 2)",
+    "choices": ["x² + 7x − 18", "x² + 7x + 18", "x² − 7x − 18", "x² − 9x + 2"],
+    "correctAnswer": "x² + 7x − 18"
+  },
+  {
+    "question": "Solve for x: x² = 121",
+    "choices": ["11", "−11", "±11", "0"],
+    "correctAnswer": "±11"
+  },
+  {
+    "question": "Find the LCM of 10, 15 and 20",
+    "choices": ["30", "60", "120", "150"],
+    "correctAnswer": "60"
+  },
+  {
+    "question": "What is 12% of 450?",
+    "choices": ["40", "45", "50", "54"],
+    "correctAnswer": "54"
+  },
+
+  {
+    "question": "Simplify: 9/10 ÷ 3/5",
+    "choices": ["3/10", "3/4", "3/2", "2/3"],
+    "correctAnswer": "3/2"
+  },
+  {
+    "question": "Interior angle sum of an octagon",
+    "choices": ["720°", "900°", "1080°", "1260°"],
+    "correctAnswer": "1080°"
+  },
+  {
+    "question": "Evaluate log₁₀(0.01)",
+    "choices": ["−1", "−2", "1", "2"],
+    "correctAnswer": "−2"
+  },
+  {
+    "question": "Solve: 5x + 8 = 43",
+    "choices": ["5", "6", "7", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Convert 0.625 to fraction",
+    "choices": ["3/4", "5/8", "2/3", "7/8"],
+    "correctAnswer": "5/8"
+  },
+
+  {
+    "question": "A circle has radius 9 cm. Find the circumference (π = 22/7).",
+    "choices": ["18π", "27π", "36π", "54π"],
+    "correctAnswer": "54π"
+  },
+  {
+    "question": "Simplify: (8x)(2x²)",
+    "choices": ["10x²", "16x²", "16x³", "8x³"],
+    "correctAnswer": "16x³"
+  },
+  {
+    "question": "A laptop is sold for ₦72,000 at a loss of 10%. Find the cost price.",
+    "choices": ["₦75,000", "₦76,000", "₦80,000", "₦90,000"],
+    "correctAnswer": "₦80,000"
+  },
+  {
+    "question": "Solve: x − 14 = 23",
+    "choices": ["33", "35", "37", "39"],
+    "correctAnswer": "37"
+  },
+  {
+    "question": "Differentiate: d/dx (4x³)",
+    "choices": ["4x²", "8x²", "12x²", "16x²"],
+    "correctAnswer": "12x²"
+  },
+
+  {
+    "question": "Compute: lim (x → 0) (1 − cos x) / x²",
+    "choices": ["0", "1/2", "1", "2"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "Integrate: ∫ (7x²) dx",
+    "choices": ["7x³/3 + C", "7x³ + C", "x³ + C", "14x³ + C"],
+    "correctAnswer": "7x³/3 + C"
+  },
+  {
+    "question": "Find dy/dx if y = 10x⁴",
+    "choices": ["20x³", "30x³", "40x³", "50x³"],
+    "correctAnswer": "40x³"
+  },
+  {
+    "question": "Evaluate: ∫ (9/x) dx",
+    "choices": ["9 ln x + C", "9x + C", "x⁹ + C", "9/x + C"],
+    "correctAnswer": "9 ln x + C"
+  },
+  {
+    "question": "Sum of first 25 natural numbers",
+    "choices": ["250", "275", "300", "325"],
+    "correctAnswer": "325"
+  },
+
+  {
+    "question": "Evaluate: 5² − 3²",
+    "choices": ["12", "16", "20", "22"],
+    "correctAnswer": "16"
+  },
+  {
+    "question": "Solve: 6(x + 4) = 60",
+    "choices": ["4", "5", "6", "7"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "If 2x = 17.4, find x",
+    "choices": ["6.7", "7.7", "8.7", "9.7"],
+    "correctAnswer": "8.7"
+  },
+  {
+    "question": "Simplify: 7x − 9x + 4",
+    "choices": ["2x + 4", "−2x + 4", "−2x − 4", "2x − 4"],
+    "correctAnswer": "−2x + 4"
+  },
+  {
+    "question": "Simplify: 3⁴ × 3²",
+    "choices": ["3⁶", "3⁵", "3⁴", "3²"],
+    "correctAnswer": "3⁶"
+  },
+
+  {
+    "question": "Find the mean of 12, 18, 20, 25",
+    "choices": ["17", "18", "19", "20"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "If a die is tossed, probability of getting a number greater than 4",
+    "choices": ["1/6", "2/6", "3/6", "4/6"],
+    "correctAnswer": "2/6"
+  },
+  {
+    "question": "Solve: 4x + 9 = 25",
+    "choices": ["3", "4", "5", "6"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "Factorize: 9x² − 16",
+    "choices": ["(3x + 4)(3x − 4)", "(9x + 4)(x − 4)", "(3x − 4)(x − 4)", "(x + 4)(x − 4)"],
+    "correctAnswer": "(3x + 4)(3x − 4)"
+  },
+  {
+    "question": "If cos θ = √3/2, find θ (acute)",
+    "choices": ["15°", "30°", "45°", "60°"],
+    "correctAnswer": "30°"
+  },
+
+  {
+    "question": "Find sin 30°",
+    "choices": ["0", "1/2", "√3/2", "1"],
+    "correctAnswer": "1/2"
+  },
+  {
+    "question": "A regular polygon has interior angle 150°. How many sides?",
+    "choices": ["10", "12", "15", "18"],
+    "correctAnswer": "12"
+  },
+  {
+    "question": "Line passes through (1,2) with gradient 5. Find equation.",
+    "choices": ["y = 5x + 2", "y = 5x − 3", "y = 5x − 5", "y = x + 5"],
+    "correctAnswer": "y = 5x − 3"
+  },
+  {
+    "question": "If log₁₀x = 2.5, find x",
+    "choices": ["100", "200", "300", "316.23"],
+    "correctAnswer": "316.23"
+  },
+  {
+    "question": "Simplify: (x³y²)(x²y³)",
+    "choices": ["x⁵y⁵", "x⁵y⁶", "x⁶y⁵", "x⁶y⁶"],
+    "correctAnswer": "x⁵y⁵"
+  },
+
+  {
+    "question": "Find (2/3) of 270",
+    "choices": ["160", "170", "180", "190"],
+    "correctAnswer": "180"
+  },
+  {
+    "question": "Boys:girls = 4:3. Total = 35. Girls = ?",
+    "choices": ["12", "13", "14", "15"],
+    "correctAnswer": "15"
+  },
+  {
+    "question": "Sum of angles in a triangle",
+    "choices": ["90°", "120°", "180°", "360°"],
+    "correctAnswer": "180°"
+  },
+  {
+    "question": "Volume of cylinder: r = 7 cm, h = 10 cm",
+    "choices": ["1540 cm³", "1440 cm³", "1200 cm³", "1000 cm³"],
+    "correctAnswer": "1540 cm³"
+  },
+  {
+    "question": "Integrate: ∫ (3x² − 4x) dx",
+    "choices": ["x³ − 2x² + C", "x³ − 4x² + C", "3x³ − 4x² + C", "x³ + 4x² + C"],
+    "correctAnswer": "x³ − 2x² + C"
+  }
+  ],
+  
+  "English Language": [
+    {
+      "question": "Which of the following is a correct example of a simile?",
+      "choices": ["The man is as strong as an ox.", "The man is strong.", "The man is a lion.", "The man is mighty."],
+      "correctAnswer": "The man is as strong as an ox."
+    },
+    {
+      "question": "Choose the sentence that is grammatically correct.",
+      "choices": ["She don't go to school.", "She doesn't goes to school.", "She doesn't go to school.", "She don't goes to school."],
+      "correctAnswer": "She doesn't go to school."
+    },
+    {
+      "question": "What is the subject in the sentence: 'The cat chased the mouse across the yard.'?",
+      "choices": ["chased", "cat", "mouse", "across the yard"],
+      "correctAnswer": "cat"
+    },
+    {
+      "question": "Identify the type of sentence: 'Can you help me with this project?'",
+      "choices": ["Interrogative", "Exclamatory", "Imperative", "Declarative"],
+      "correctAnswer": "Interrogative"
+    },
+    {
+      "question": "What does the phrase 'break a leg' mean?",
+      "choices": ["To literally break your leg.", "To wish someone good luck.", "To fall into trouble.", "To get injured."],
+      "correctAnswer": "To wish someone good luck."
+    },
+    {
+      "question": "Choose the correct word: 'The teacher was very _____ with her students.'",
+      "choices": ["strict", "stressed", "stressful", "striking"],
+      "correctAnswer": "strict"
+    },
+    {
+      "question": "Which of the following is an example of an oxymoron?",
+      "choices": ["Jumbo shrimp", "Cold fire", "Deafening silence", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "Identify the correct sentence: 'Neither the teacher nor the students _____ ready.'",
+      "choices": ["is", "are", "was", "were"],
+      "correctAnswer": "are"
+    },
+
+
+    {
+      "question": "Choose the correctly spelt word:",
+      "choices": ["Comittee", "Committee", "Committe", "Committie"],
+      "correctAnswer": "Committee"
+    },
+    {
+      "question": "Pick the synonym of 'brave':",
+      "choices": ["cowardly", "timid", "courageous", "fearful"],
+      "correctAnswer": "courageous"
+    },
+    {
+      "question": "Which of the following is a noun?",
+      "choices": ["quickly", "beauty", "run", "happy"],
+      "correctAnswer": "beauty"
+    },
+    {
+      "question": "Choose the antonym of 'scarce':",
+      "choices": ["rare", "plentiful", "few", "limited"],
+      "correctAnswer": "plentiful"
+    },
+    {
+      "question": "Select the adjective in the sentence: 'The tall boy jumped.'",
+      "choices": ["tall", "boy", "jumped", "the"],
+      "correctAnswer": "tall"
+    },
+    {
+      "question": "Identify the verb: 'She dances well.'",
+      "choices": ["she", "dances", "well", "none"],
+      "correctAnswer": "dances"
+    },
+    {
+      "question": "Which word is an adverb?",
+      "choices": ["slowly", "slow", "slowness", "slower"],
+      "correctAnswer": "slowly"
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "choices": ["He don’t know.", "He doesn't knows.", "He doesn't know.", "He don't knows."],
+      "correctAnswer": "He doesn't know."
+    },
+    {
+      "question": "What is the plural of 'child'?",
+      "choices": ["childs", "children", "childes", "childrens"],
+      "correctAnswer": "children"
+    },
+    {
+      "question": "Choose the correct form: 'She ___ to the market yesterday.'",
+      "choices": ["go", "goes", "went", "going"],
+      "correctAnswer": "went"
+    },
+
+    {
+      "question": "Pick the synonym of 'tiny':",
+      "choices": ["huge", "big", "small", "giant"],
+      "correctAnswer": "small"
+    },
+    {
+      "question": "Choose the antonym of 'generous':",
+      "choices": ["kind", "selfish", "friendly", "gentle"],
+      "correctAnswer": "selfish"
+    },
+    {
+      "question": "Which is a pronoun?",
+      "choices": ["table", "quickly", "she", "beauty"],
+      "correctAnswer": "she"
+    },
+    {
+      "question": "Identify the preposition: 'The cat is under the table.'",
+      "choices": ["cat", "is", "under", "table"],
+      "correctAnswer": "under"
+    },
+    {
+      "question": "Choose the correct tense: 'They ___ football every Sunday.'",
+      "choices": ["play", "played", "playing", "plays"],
+      "correctAnswer": "play"
+    },
+    {
+      "question": "Choose the correctly punctuated sentence:",
+      "choices": ["Where are you.", "Where are you?", "Where are you!", "Where, are you?"],
+      "correctAnswer": "Where are you?"
+    },
+    {
+      "question": "Select the adjective: 'The movie was interesting.'",
+      "choices": ["movie", "was", "interesting", "the"],
+      "correctAnswer": "interesting"
+    },
+    {
+      "question": "Which is a compound word?",
+      "choices": ["black", "board", "blackboard", "boarded"],
+      "correctAnswer": "blackboard"
+    },
+    {
+      "question": "Pick the antonym of 'victory':",
+      "choices": ["win", "lose", "success", "praise"],
+      "correctAnswer": "lose"
+    },
+    {
+      "question": "Choose the synonym of 'reply':",
+      "choices": ["answer", "ask", "question", "ignore"],
+      "correctAnswer": "answer"
+    },
+
+    {
+      "question": "Choose the correct article: '___ apple a day keeps the doctor away.'",
+      "choices": ["A", "An", "The", "None"],
+      "correctAnswer": "An"
+    },
+    {
+      "question": "Which word is the opposite of 'polite'?",
+      "choices": ["kind", "rude", "gentle", "quiet"],
+      "correctAnswer": "rude"
+    },
+    {
+      "question": "Identify the noun: 'Honesty is the best policy.'",
+      "choices": ["best", "honesty", "is", "policy"],
+      "correctAnswer": "honesty"
+    },
+    {
+      "question": "Choose the correctly spelt word:",
+      "choices": ["Ocassion", "Occasion", "Occassion", "Ocasion"],
+      "correctAnswer": "Occasion"
+    },
+    {
+      "question": "Pick the verb: 'The baby cried loudly.'",
+      "choices": ["baby", "cried", "loudly", "the"],
+      "correctAnswer": "cried"
+    },
+
+    {
+      "question": "Which is an interrogative sentence?",
+      "choices": ["He is here.", "Come here!", "Where are you?", "I like books."],
+      "correctAnswer": "Where are you?"
+    },
+    {
+      "question": "Pick the synonym of 'purchase':",
+      "choices": ["sell", "borrow", "buy", "take"],
+      "correctAnswer": "buy"
+    },
+    {
+      "question": "Pick the antonym of 'ancient':",
+      "choices": ["old", "modern", "aged", "antique"],
+      "correctAnswer": "modern"
+    },
+    {
+      "question": "Which is a conjunction?",
+      "choices": ["and", "beautiful", "quickly", "child"],
+      "correctAnswer": "and"
+    },
+    {
+      "question": "Fill in the blank: 'Mary ___ singing.'",
+      "choices": ["is", "are", "were", "be"],
+      "correctAnswer": "is"
+    },
+
+    {
+      "question": "Choose the correct option: 'A group of lions is called a ___.",
+      "choices": ["flock", "pride", "herd", "school"],
+      "correctAnswer": "pride"
+    },
+    {
+      "question": "Pick the adjective: 'She wore a beautiful dress.'",
+      "choices": ["she", "wore", "beautiful", "dress"],
+      "correctAnswer": "beautiful"
+    },
+    {
+      "question": "Select the synonym of 'brief':",
+      "choices": ["short", "long", "wide", "deep"],
+      "correctAnswer": "short"
+    },
+    {
+      "question": "Choose the antonym of 'approve':",
+      "choices": ["accept", "agree", "reject", "permit"],
+      "correctAnswer": "reject"
+    },
+    {
+      "question": "Which is a verb?",
+      "choices": ["dance", "beautiful", "quick", "table"],
+      "correctAnswer": "dance"
+    },
+
+    {
+      "question": "Choose the correct option: 'Neither John ___ Peter was present.'",
+      "choices": ["or", "nor", "and", "but"],
+      "correctAnswer": "nor"
+    },
+    {
+      "question": "Pick the correctly spelt word:",
+      "choices": ["Definately", "Definitely", "Definatly", "Defenetely"],
+      "correctAnswer": "Definitely"
+    },
+    {
+      "question": "Pick the synonym of 'huge':",
+      "choices": ["big", "tiny", "small", "narrow"],
+      "correctAnswer": "big"
+    },
+    {
+      "question": "Pick the antonym of 'gain':",
+      "choices": ["profit", "win", "lose", "increase"],
+      "correctAnswer": "lose"
+    },
+    {
+      "question": "Identify the adverb: 'She sang beautifully.'",
+      "choices": ["she", "sang", "beautifully", "none"],
+      "correctAnswer": "beautifully"
+    },
+
+    {
+      "question": "Choose the correct pronoun: '___ is my book.'",
+      "choices": ["Me", "Mine", "I", "My"],
+      "correctAnswer": "Mine"
+    },
+    {
+      "question": "Choose the correct form: 'He ___ going now.'",
+      "choices": ["is", "are", "were", "be"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "Pick the synonym of 'rapid':",
+      "choices": ["slow", "quick", "quiet", "short"],
+      "correctAnswer": "quick"
+    },
+    {
+      "question": "Pick the antonym of 'expand':",
+      "choices": ["grow", "spread", "shrink", "increase"],
+      "correctAnswer": "shrink"
+    },
+    {
+      "question": "Identify the preposition: 'She walked across the road.'",
+      "choices": ["she", "walked", "across", "road"],
+      "correctAnswer": "across"
+    },
+
+    {
+      "question": "Choose the correct option: 'The plural of goose is ___.'",
+      "choices": ["gooses", "goose", "geese", "geeses"],
+      "correctAnswer": "geese"
+    },
+    {
+      "question": "Pick the correctly punctuated sentence:",
+      "choices": ["its raining.", "Its raining!", "It's raining.", "It’s raining"],
+      "correctAnswer": "It's raining."
+    },
+    {
+      "question": "Choose the synonym of 'begin':",
+      "choices": ["start", "stop", "finish", "pause"],
+      "correctAnswer": "start"
+    },
+    {
+      "question": "Choose the antonym of 'difficult':",
+      "choices": ["hard", "tough", "easy", "strong"],
+      "correctAnswer": "easy"
+    },
+    {
+      "question": "Which is an interjection?",
+      "choices": ["Wow!", "Run", "Beautiful", "Because"],
+      "correctAnswer": "Wow!"
+    },
+
+    {
+      "question": "Choose the correct option: 'He gave the book to ___.",
+      "choices": ["I", "me", "mine", "my"],
+      "correctAnswer": "me"
+    },
+    {
+      "question": "Choose the correctly spelt word:",
+      "choices": ["Febuary", "February", "Febraury", "Febuery"],
+      "correctAnswer": "February"
+    },
+    {
+      "question": "Pick the synonym of 'honest':",
+      "choices": ["truthful", "lying", "false", "fake"],
+      "correctAnswer": "truthful"
+    },
+    {
+      "question": "Pick the antonym of 'joy':",
+      "choices": ["happiness", "sorrow", "delight", "peace"],
+      "correctAnswer": "sorrow"
+    },
+    {
+      "question": "Choose the noun:",
+      "choices": ["run", "teach", "city", "quick"],
+      "correctAnswer": "city"
+    },
+
+    {
+      "question": "Choose the correct form: 'She ___ breakfast every morning.'",
+      "choices": ["eat", "eats", "ate", "eating"],
+      "correctAnswer": "eats"
+    },
+    {
+      "question": "Pick the synonym of 'assist':",
+      "choices": ["help", "delay", "harm", "refuse"],
+      "correctAnswer": "help"
+    },
+    {
+      "question": "Pick the antonym of 'bright':",
+      "choices": ["shiny", "smart", "dull", "glowing"],
+      "correctAnswer": "dull"
+    },
+    {
+      "question": "Identify the verb: 'The dog barked loudly.'",
+      "choices": ["dog", "barked", "loudly", "the"],
+      "correctAnswer": "barked"
+    },
+    {
+      "question": "Choose the correct option: 'A baby cat is called a ___.",
+      "choices": ["cub", "kitten", "pup", "calf"],
+      "correctAnswer": "kitten"
+    },
+
+    {
+      "question": "Choose the correct comparative form of 'good':",
+      "choices": ["gooder", "more good", "better", "best"],
+      "correctAnswer": "better"
+    },
+    {
+      "question": "Pick the correctly spelt word:",
+      "choices": ["Acommodate", "Accommodate", "Acomodate", "Accomodate"],
+      "correctAnswer": "Accommodate"
+    },
+    {
+      "question": "Pick the synonym of 'permit':",
+      "choices": ["allow", "refuse", "block", "deny"],
+      "correctAnswer": "allow"
+    },
+    {
+      "question": "Pick the antonym of 'arrive':",
+      "choices": ["reach", "come", "depart", "enter"],
+      "correctAnswer": "depart"
+    },
+    {
+      "question": "Choose the pronoun in the sentence: 'They are playing.'",
+      "choices": ["playing", "are", "they", "none"],
+      "correctAnswer": "they"
+    },
+
+    {
+      "question": "Choose the correct form: 'The boys ___ late yesterday.'",
+      "choices": ["come", "coming", "came", "comes"],
+      "correctAnswer": "came"
+    },
+    {
+      "question": "Pick the synonym of 'safe':",
+      "choices": ["dangerous", "secure", "risky", "harmful"],
+      "correctAnswer": "secure"
+    },
+    {
+      "question": "Pick the antonym of 'increase':",
+      "choices": ["reduce", "grow", "expand", "rise"],
+      "correctAnswer": "reduce"
+    },
+    {
+      "question": "Identify the adjective: 'The soup tastes delicious.'",
+      "choices": ["soup", "tastes", "delicious", "the"],
+      "correctAnswer": "delicious"
+    },
+    {
+      "question": "Choose the correct option: 'He shouted ___.'",
+      "choices": ["loud", "loudly", "louded", "louder"],
+      "correctAnswer": "loudly"
+    },
+        {
+      "question": "Choose the option that best completes the sentence: The manager, as well as his assistants, ___ present at the meeting.",
+      "choices": ["were", "are", "is", "have been"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "Choose the word that is opposite in meaning to: 'hostile'",
+      "choices": ["friendly", "aggressive", "harsh", "distant"],
+      "correctAnswer": "friendly"
+    },
+    {
+      "question": "Fill in the blank: If I ___ harder, I would have passed the exam.",
+      "choices": ["studied", "had studied", "study", "studying"],
+      "correctAnswer": "had studied"
+    },
+    {
+      "question": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "James said, “I will be late”.",
+        "James said “I will be late.”",
+        "James said, “I will be late.”",
+        "James said “I will be late”."
+      ],
+      "correctAnswer": "James said, “I will be late.”"
+    },
+    {
+      "question": "Select the option that best expresses the meaning: 'She takes after her mother.'",
+      "choices": ["She cares for her mother", "She resembles her mother", "She obeys her mother", "She lives with her mother"],
+      "correctAnswer": "She resembles her mother"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'meticulous'",
+      "choices": ["careful", "careless", "curious", "quick"],
+      "correctAnswer": "careful"
+    },
+    {
+      "question": "Choose the correct option: Neither the teachers nor the principal ___ aware.",
+      "choices": ["were", "are", "is", "have"],
+      "correctAnswer": "is"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: Hardly had he arrived ___ it started to rain.",
+      "choices": ["when", "than", "before", "after"],
+      "correctAnswer": "when"
+    },
+    {
+      "question": "Select the correct stress pattern for the word 'development'.",
+      "choices": ["DE-velopment", "de-VE-lopment", "deve-LOP-ment", "deve-lop-MENT"],
+      "correctAnswer": "de-VE-lopment"
+    },
+    {
+      "question": "Choose the correct option: The boy refused to admit ___ the window.",
+      "choices": ["break", "to break", "breaking", "broke"],
+      "correctAnswer": "breaking"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: The committee has not decided anything, ___?",
+      "choices": ["has it", "have they", "haven’t they", "did they"],
+      "correctAnswer": "has it"
+    },
+    {
+      "question": "Choose the word that is nearest in meaning to: 'provoke'",
+      "choices": ["encourage", "stimulate", "irritate", "calm"],
+      "correctAnswer": "irritate"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: The plane landed safely ___ the bad weather.",
+      "choices": ["despite", "because", "although", "even"],
+      "correctAnswer": "despite"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'transparent'",
+      "choices": ["opaque", "bright", "visible", "obvious"],
+      "correctAnswer": "opaque"
+    },
+    {
+      "question": "Select the appropriate preposition: He is good ___ mathematics.",
+      "choices": ["at", "in", "with", "on"],
+      "correctAnswer": "at"
+    },
+    {
+      "question": "Choose the option that best expresses the meaning: 'He turned a deaf ear to my complaints.'",
+      "choices": ["He ignored my complaints", "He listened carefully", "He was confused", "He became angry"],
+      "correctAnswer": "He ignored my complaints"
+    },
+    {
+      "question": "Choose the grammatically correct sentence.",
+      "choices": [
+        "Each of the boys have done their homework.",
+        "Each of the boys has done his homework.",
+        "Each of the boys have done his homework.",
+        "Each of the boys has done their homework."
+      ],
+      "correctAnswer": "Each of the boys has done his homework."
+    },
+    {
+      "question": "Choose the word nearest in meaning to: 'apathy'",
+      "choices": ["sadness", "lack of interest", "fear", "excitement"],
+      "correctAnswer": "lack of interest"
+    },
+    {
+      "question": "Fill in the gap: I prefer tea ___ coffee.",
+      "choices": ["than", "from", "to", "over"],
+      "correctAnswer": "to"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'diligent'",
+      "choices": ["lazy", "active", "strong", "careful"],
+      "correctAnswer": "lazy"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: Unless you study, you ___ pass.",
+      "choices": ["will", "will not", "would", "can"],
+      "correctAnswer": "will not"
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "choices": ["definately", "definitely", "definitly", "definetely"],
+      "correctAnswer": "definitely"
+    },
+    {
+      "question": "Choose the correct option: She insisted ___ paying for the meal.",
+      "choices": ["in", "on", "at", "for"],
+      "correctAnswer": "on"
+    },
+    {
+      "question": "Choose the word opposite in meaning to: 'scarce'",
+      "choices": ["rare", "plentiful", "small", "limited"],
+      "correctAnswer": "plentiful"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: The teacher advised him ___ late again.",
+      "choices": ["not to be", "to not be", "not be", "not being"],
+      "correctAnswer": "not to be"
+    },
+    {
+      "question": "Select the option nearest in meaning to: 'implode'",
+      "choices": ["explode inward", "explode outward", "break apart", "vibrate"],
+      "correctAnswer": "explode inward"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: He is the man ___ house was burgled.",
+      "choices": ["who", "whom", "whose", "which"],
+      "correctAnswer": "whose"
+    },
+    {
+      "question": "Choose the option that is most nearly opposite in meaning to: 'rigid'",
+      "choices": ["flexible", "hard", "strong", "narrow"],
+      "correctAnswer": "flexible"
+    },
+    {
+      "question": "Choose the correct interpretation: 'She let the cat out of the bag.'",
+      "choices": ["She released a cat", "She revealed a secret", "She made a mistake", "She bought a pet"],
+      "correctAnswer": "She revealed a secret"
+    },
+    {
+      "question": "Choose the correct option: We look forward ___ from you soon.",
+      "choices": ["to hear", "to hearing", "hearing", "for hearing"],
+      "correctAnswer": "to hearing"
+    },
+        {
+      "question": "Choose the word that is nearest in meaning to: 'adjourn'.",
+      "choices": ["postpone", "cancel", "stop", "delay slightly"],
+      "correctAnswer": "postpone"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: We were shocked ___ his behavior.",
+      "choices": ["at", "about", "with", "by"],
+      "correctAnswer": "at"
+    },
+    {
+      "question": "Select the option opposite in meaning to: 'vital'.",
+      "choices": ["important", "unnecessary", "serious", "useful"],
+      "correctAnswer": "unnecessary"
+    },
+    {
+      "question": "Choose the sentence that is grammatically correct.",
+      "choices": [
+        "The news are surprising.",
+        "The news is surprising.",
+        "The news were surprising.",
+        "The news have been surprising."
+      ],
+      "correctAnswer": "The news is surprising."
+    },
+    {
+      "question": "Fill in the gap: The man was accused ___ theft.",
+      "choices": ["of", "for", "with", "about"],
+      "correctAnswer": "of"
+    },
+    {
+      "question": "Choose the word nearest in meaning to: 'benevolent'.",
+      "choices": ["kind", "fearful", "strict", "angry"],
+      "correctAnswer": "kind"
+    },
+    {
+      "question": "Select the correct option: I will give you the money ___ you need it.",
+      "choices": ["if", "unless", "until", "because"],
+      "correctAnswer": "if"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'expand'.",
+      "choices": ["shrink", "grow", "increase", "spread"],
+      "correctAnswer": "shrink"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: He drove so fast that I was ___ with fear.",
+      "choices": ["trembling", "trembles", "tremble", "trembled"],
+      "correctAnswer": "trembling"
+    },
+    {
+      "question": "Select the word that is correctly spelled.",
+      "choices": ["accomodate", "accommodate", "acommodate", "accomondate"],
+      "correctAnswer": "accommodate"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'frantic'.",
+      "choices": ["calm", "anxious", "slow", "peaceful"],
+      "correctAnswer": "anxious"
+    },
+    {
+      "question": "Choose the correct option: The man has no intention ___ paying.",
+      "choices": ["for", "of", "in", "to"],
+      "correctAnswer": "of"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: He was accused ___ failing to keep his promise.",
+      "choices": ["in", "of", "about", "for"],
+      "correctAnswer": "of"
+    },
+    {
+      "question": "Choose the word opposite in meaning to: 'savage'.",
+      "choices": ["gentle", "cruel", "wild", "fierce"],
+      "correctAnswer": "gentle"
+    },
+    {
+      "question": "Select the option nearest in meaning to: 'obsolete'.",
+      "choices": ["modern", "outdated", "useful", "available"],
+      "correctAnswer": "outdated"
+    },
+    {
+      "question": "Choose the correct expression: 'To take the bull by the horns' means to ___",
+      "choices": [
+        "avoid a problem",
+        "face a problem boldly",
+        "create trouble",
+        "run away"
+      ],
+      "correctAnswer": "face a problem boldly"
+    },
+    {
+      "question": "Choose the correctly punctuated sentence.",
+      "choices": [
+        "“Where are you going”? he asked.",
+        "“Where are you going?” he asked.",
+        "He asked, “Where are you going”?",
+        "He asked “Where are you going?”"
+      ],
+      "correctAnswer": "“Where are you going?” he asked."
+    },
+    {
+      "question": "Choose the correct option: I wish I ___ taller.",
+      "choices": ["am", "were", "was", "be"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Choose the word opposite in meaning to: 'lenient'.",
+      "choices": ["strict", "soft", "gentle", "patient"],
+      "correctAnswer": "strict"
+    },
+    {
+      "question": "Fill in the blank: He was congratulated ___ his success.",
+      "choices": ["on", "at", "for", "with"],
+      "correctAnswer": "on"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'hasten'.",
+      "choices": ["slow down", "delay", "hurry", "postpone"],
+      "correctAnswer": "hurry"
+    },
+    {
+      "question": "Choose the correct option: He would have helped if he ___ about it.",
+      "choices": ["knew", "had known", "know", "knowing"],
+      "correctAnswer": "had known"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'permit'.",
+      "choices": ["allow", "deny", "accept", "approve"],
+      "correctAnswer": "deny"
+    },
+    {
+      "question": "Select the correct phrase: They arrived ___ the airport late.",
+      "choices": ["in", "at", "on", "to"],
+      "correctAnswer": "at"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'vivid'.",
+      "choices": ["clear", "dull", "weak", "barely visible"],
+      "correctAnswer": "clear"
+    },
+    {
+      "question": "Fill in the gap: She is not only brilliant ___ hardworking.",
+      "choices": ["but also", "and", "also", "but"],
+      "correctAnswer": "but also"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'liberate'.",
+      "choices": ["free", "detain", "release", "encourage"],
+      "correctAnswer": "detain"
+    },
+    {
+      "question": "Choose the correct option: The lecturer insisted that the assignment ___ submitted.",
+      "choices": ["be", "is", "was", "being"],
+      "correctAnswer": "be"
+    },
+    {
+      "question": "Choose the word nearest in meaning to: 'candid'.",
+      "choices": ["honest", "careful", "secretive", "shy"],
+      "correctAnswer": "honest"
+    },
+    {
+      "question": "Choose the option that best completes the sentence: We are confident ___ victory.",
+      "choices": ["for", "of", "about", "on"],
+      "correctAnswer": "of"
+    },
+
+        {
+      "question": "Choose the word that is nearest in meaning to: 'jeopardize'.",
+      "choices": ["endanger", "protect", "improve", "strengthen"],
+      "correctAnswer": "endanger"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'scarce'.",
+      "choices": ["rare", "plenty", "little", "thin"],
+      "correctAnswer": "plenty"
+    },
+    {
+      "question": "Fill in the blank: Neither the teacher nor the students ___ present.",
+      "choices": ["was", "were", "is", "be"],
+      "correctAnswer": "were"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'intrude'.",
+      "choices": ["interrupt", "assist", "avoid", "withdraw"],
+      "correctAnswer": "interrupt"
+    },
+    {
+      "question": "Choose the correct option: Hardly had he arrived ___ it started raining.",
+      "choices": ["when", "than", "before", "after"],
+      "correctAnswer": "when"
+    },
+    {
+      "question": "Select the word that is correctly spelled.",
+      "choices": ["commitee", "committee", "comittee", "commite"],
+      "correctAnswer": "committee"
+    },
+    {
+      "question": "Choose the word opposite in meaning to: 'transparent'.",
+      "choices": ["clear", "opaque", "plain", "simple"],
+      "correctAnswer": "opaque"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'devour'.",
+      "choices": ["eat greedily", "avoid eating", "cook lightly", "burn slowly"],
+      "correctAnswer": "eat greedily"
+    },
+    {
+      "question": "Fill in the blank: If he had worked harder, he ___ passed.",
+      "choices": ["will have", "would have", "will", "has"],
+      "correctAnswer": "would have"
+    },
+    {
+      "question": "Choose the option opposite in meaning to: 'admire'.",
+      "choices": ["dislike", "praise", "respect", "value"],
+      "correctAnswer": "dislike"
+    },
+    {
+      "question": "Identify the correct sentence.",
+      "choices": [
+        "Each of the boys are ready.",
+        "Each of the boys is ready.",
+        "Each of the boys were ready.",
+        "Each of the boys be ready."
+      ],
+      "correctAnswer": "Each of the boys is ready."
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'admonish'.",
+      "choices": ["warn", "praise", "ignore", "direct"],
+      "correctAnswer": "warn"
+    },
+    {
+      "question": "Choose the correct option: He prefers tea ___ coffee.",
+      "choices": ["than", "over", "to", "with"],
+      "correctAnswer": "to"
+    },
+    {
+      "question": "Choose the opposite of: 'rigid'.",
+      "choices": ["flexible", "strong", "hard", "narrow"],
+      "correctAnswer": "flexible"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'diligent'.",
+      "choices": ["lazy", "hardworking", "careless", "playful"],
+      "correctAnswer": "hardworking"
+    },
+    {
+      "question": "Choose the correct option to complete the sentence: I look forward ___ you soon.",
+      "choices": ["to see", "to seeing", "seeing", "see"],
+      "correctAnswer": "to seeing"
+    },
+    {
+      "question": "Select the word opposite in meaning to: 'rapid'.",
+      "choices": ["fast", "quick", "slow", "swift"],
+      "correctAnswer": "slow"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'vanish'.",
+      "choices": ["appear", "disappear", "reduce", "divide"],
+      "correctAnswer": "disappear"
+    },
+    {
+      "question": "Choose the correct expression: 'To cry over spilt milk' means:",
+      "choices": [
+        "complain about something that cannot be changed",
+        "cry when cooking",
+        "waste time crying",
+        "blame someone else"
+      ],
+      "correctAnswer": "complain about something that cannot be changed"
+    },
+    {
+      "question": "Choose the correct option: She is taller ___ her sister.",
+      "choices": ["than", "then", "to", "from"],
+      "correctAnswer": "than"
+    },
+    {
+      "question": "Choose the word nearest in meaning to: 'affirm'.",
+      "choices": ["deny", "confirm", "question", "delay"],
+      "correctAnswer": "confirm"
+    },
+    {
+      "question": "Choose the opposite in meaning to: 'fragile'.",
+      "choices": ["breakable", "strong", "weak", "light"],
+      "correctAnswer": "strong"
+    },
+    {
+      "question": "Fill in the blank: He congratulated her ___ her promotion.",
+      "choices": ["for", "on", "at", "with"],
+      "correctAnswer": "on"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'fabricate'.",
+      "choices": ["invent", "destroy", "repair", "scatter"],
+      "correctAnswer": "invent"
+    },
+    {
+      "question": "Choose the correct option: The students protested ___ the new rules.",
+      "choices": ["against", "for", "on", "with"],
+      "correctAnswer": "against"
+    },
+    {
+      "question": "Choose the opposite of: 'expand'.",
+      "choices": ["spread", "increase", "shrink", "grow"],
+      "correctAnswer": "shrink"
+    },
+    {
+      "question": "Choose the nearest in meaning to: 'obsolete'.",
+      "choices": ["new", "modern", "outdated", "strong"],
+      "correctAnswer": "outdated"
+    },
+    {
+      "question": "Choose the correct option: The workers demanded that their salaries ___ increased.",
+      "choices": ["be", "is", "are", "being"],
+      "correctAnswer": "be"
+    },
+    {
+      "question": "Choose the opposite of: 'compulsory'.",
+      "choices": ["mandatory", "voluntary", "required", "official"],
+      "correctAnswer": "voluntary"
+    },
+    {
+      "question": "Choose the nearest in meaning to: 'amiable'.",
+      "choices": ["friendly", "hostile", "rude", "quiet"],
+      "correctAnswer": "friendly"
+    },
+    {
+      "question": "Choose the correct option: He insisted ___ going.",
+      "choices": ["on", "for", "with", "in"],
+      "correctAnswer": "on"
+    },
+    {
+      "question": "Choose the opposite of: 'generous'.",
+      "choices": ["stingy", "kind", "helpful", "gentle"],
+      "correctAnswer": "stingy"
+    },
+    {
+      "question": "Choose the nearest in meaning to: 'confer'.",
+      "choices": ["discuss", "award", "remove", "doubt"],
+      "correctAnswer": "award"
+    },
+    {
+      "question": "Choose the correct option: The woman was accused ___ negligence.",
+      "choices": ["of", "for", "with", "on"],
+      "correctAnswer": "of"
+    },
+    {
+      "question": "Choose the opposite of: 'ancient'.",
+      "choices": ["old", "modern", "historic", "aged"],
+      "correctAnswer": "modern"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'mundane'.",
+      "choices": ["exciting", "ordinary", "dangerous", "rare"],
+      "correctAnswer": "ordinary"
+    },
+    {
+      "question": "Choose the correct option: We insisted that he ___ us immediately.",
+      "choices": ["call", "called", "calling", "calls"],
+      "correctAnswer": "call"
+    },
+    {
+      "question": "Choose the opposite of: 'scarcity'.",
+      "choices": ["abundance", "lack", "poverty", "decline"],
+      "correctAnswer": "abundance"
+    },
+    {
+      "question": "Choose the option nearest in meaning to: 'pursue'.",
+      "choices": ["chase", "ignore", "avoid", "delay"],
+      "correctAnswer": "chase"
+    }
+
+
+
+
+
+
+
+
+
+    ],
+
+  "Physics": [
+    {
+      "question": "What is the SI unit of force?",
+      "choices": ["Kilogram", "Meter", "Newton", "Joule"],
+      "correctAnswer": "Newton"
+    },
+    {
+      "question": "An object of mass 5 kg is moving with a velocity of 10 m/s. What is its kinetic energy?",
+      "choices": ["50 J", "100 J", "200 J", "500 J"],
+      "correctAnswer": "250 J"
+    },
+    {
+      "question": "Which of the following is true about gravitational force?",
+      "choices": ["It is always repulsive.", "It depends on the mass of the object.", "It does not act on Earth.", "It is inversely proportional to distance."],
+      "correctAnswer": "It depends on the mass of the object."
+    },
+    {
+      "question": "The pressure of a gas is inversely proportional to its volume. Which law does this describe?",
+      "choices": ["Boyle's Law", "Charles's Law", "Newton's Law", "Ohm's Law"],
+      "correctAnswer": "Boyle's Law"
+    },
+    {
+      "question": "What is the formula for calculating work done in physics?",
+      "choices": ["Work = Mass × Velocity", "Work = Force × Time", "Work = Force × Distance", "Work = Energy × Time"],
+      "correctAnswer": "Work = Force × Distance"
+    },
+    {
+      "question": "Which of the following is the most accurate definition of velocity?",
+      "choices": ["Speed with direction", "Change in speed", "Distance traveled in time", "Distance divided by time"],
+      "correctAnswer": "Speed with direction"
+    },
+    {
+      "question": "What is the relationship between force, mass, and acceleration according to Newton's second law?",
+      "choices": ["Force = Mass + Acceleration", "Force = Mass / Acceleration", "Force = Mass × Acceleration", "Force = Acceleration / Mass"],
+      "correctAnswer": "Force = Mass × Acceleration"
+     
+
+    },
+    {
+  "question": "Which law relates the potential difference across a conductor to the current through it?",
+  "choices": ["Coulomb’s law", "Faraday’s law", "Ohm’s law", "Lenz’s law"],
+  "correctAnswer": "Ohm’s law"
+},
+{
+  "question": "The ability of a material to return to its original shape after deformation is called:",
+  "choices": ["Plasticity", "Elasticity", "Rigidity", "Ductility"],
+  "correctAnswer": "Elasticity"
+},
+{
+  "question": "What is the function of a fuse in an electric circuit?",
+  "choices": ["To increase current", "To protect appliances", "To generate electricity", "To store charge"],
+  "correctAnswer": "To protect appliances"
+},
+{
+  "question": "What is the unit of electric charge?",
+  "choices": ["Volt", "Farad", "Coulomb", "Ampere"],
+  "correctAnswer": "Coulomb"
+},
+{
+  "question": "Which of the following is a scalar quantity?",
+  "choices": ["Velocity", "Momentum", "Force", "Temperature"],
+  "correctAnswer": "Temperature"
+},
+{
+  "question": "The force that keeps planets in orbit around the sun is:",
+  "choices": ["Frictional force", "Magnetic force", "Gravitational force", "Electric force"],
+  "correctAnswer": "Gravitational force"
+},
+{
+  "question": "Which instrument is used to detect electric current?",
+  "choices": ["Galvanometer", "Ammeter", "Voltmeter", "Potentiometer"],
+  "correctAnswer": "Galvanometer"
+},
+{
+  "question": "The splitting of white light into its component colours is known as:",
+  "choices": ["Reflection", "Diffraction", "Dispersion", "Polarization"],
+  "correctAnswer": "Dispersion"
+},
+{
+  "question": "What is the relationship between mass and weight?",
+  "choices": ["Weight is mass × density", "Mass is weight × g", "Weight is mass × g", "Weight equals mass"],
+  "correctAnswer": "Weight is mass × g"
+},
+{
+  "question": "A device that converts electrical energy to mechanical energy is called:",
+  "choices": ["Generator", "Transformer", "Electric motor", "Rectifier"],
+  "correctAnswer": "Electric motor"
+},
+{
+  "question": "Which of these is an example of a longitudinal wave?",
+  "choices": ["Light wave", "Water wave", "Sound wave", "Radio wave"],
+  "correctAnswer": "Sound wave"
+},
+{
+  "question": "What is the effect of increasing the temperature of a gas on its pressure?",
+  "choices": ["Pressure decreases", "Pressure becomes zero", "Pressure increases", "Pressure becomes infinite"],
+  "correctAnswer": "Pressure increases"
+},
+{
+  "question": "The time taken to complete one oscillation is called:",
+  "choices": ["Frequency", "Amplitude", "Period", "Phase"],
+  "correctAnswer": "Period"
+},
+{
+  "question": "The energy stored in a stretched spring is:",
+  "choices": ["Thermal energy", "Kinetic energy", "Elastic potential energy", "Chemical energy"],
+  "correctAnswer": "Elastic potential energy"
+},
+{
+  "question": "Which law explains electromagnetic induction?",
+  "choices": ["Newton’s law", "Archimedes’ principle", "Faraday’s law", "Hooke’s law"],
+  "correctAnswer": "Faraday’s law"
+},
+{
+  "question": "What type of mirror forms virtual, diminished images for all object positions?",
+  "choices": ["Plane mirror", "Concave mirror", "Convex mirror", "Cylindrical mirror"],
+  "correctAnswer": "Convex mirror"
+},
+{
+  "question": "Which of the following waves has the shortest wavelength?",
+  "choices": ["Radio waves", "Infrared waves", "X-rays", "Microwaves"],
+  "correctAnswer": "X-rays"
+},
+{
+  "question": "A car travelling at 30 m/s stops in 3 seconds. What is the deceleration?",
+  "choices": ["5 m/s²", "8 m/s²", "10 m/s²", "15 m/s²"],
+  "correctAnswer": "10 m/s²"
+},
+{
+  "question": "A material that allows the flow of electric current easily is called:",
+  "choices": ["Insulator", "Conductor", "Semi-metal", "Alloy"],
+  "correctAnswer": "Conductor"
+},
+{
+  "question": "The point in a lever where force is applied is called the:",
+  "choices": ["Pivot", "Fulcrum", "Load", "Effort"],
+  "correctAnswer": "Effort"
+},
+{
+  "question": "The unit of frequency is:",
+  "choices": ["Joule", "Newton", "Hertz", "Watt"],
+  "correctAnswer": "Hertz"
+},
+{
+  "question": "Which quantity remains constant in uniform circular motion?",
+  "choices": ["Velocity", "Speed", "Acceleration", "Momentum"],
+    "correctAnswer": "Speed"
+},
+{
+  "question": "The law that states that pressure is inversely proportional to volume is:",
+  "choices": ["Boyle’s law", "Charles’ law", "Hooke’s law", "Archimedes’ principle"],
+  "correctAnswer": "Boyle’s law"
+},
+{
+  "question": "The force of attraction between two masses is called:",
+  "choices": ["Electric force", "Nuclear force", "Gravitational force", "Magnetic force"],
+  "correctAnswer": "Gravitational force"
+},
+{
+  "question": "Electrical energy is measured in:",
+  "choices": ["Kilowatt-hour", "Coulomb", "Farad", "Tesla"],
+  "correctAnswer": "Kilowatt-hour"
+},
+{
+  "question": "What is the speed of light in vacuum?",
+  "choices": ["3 × 10⁴ m/s", "3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s"],
+  "correctAnswer": "3 × 10⁸ m/s"
+},
+{
+  "question": "What is the direction of magnetic field lines around a bar magnet?",
+  "choices": ["North to South", "South to North", "Random", "Circular only"],
+    "correctAnswer": "North to South"
+},
+{
+  "question": "Which of these factors increases the rate of evaporation?",
+  "choices": ["Low temperature", "High humidity", "Increase in surface area", "Lack of airflow"],
+  "correctAnswer": "Increase in surface area"
+},
+{
+  "question": "A device used to store charge is called:",
+  "choices": ["Inductor", "Capacitor", "Transformer", "Rectifier"],
+  "correctAnswer": "Capacitor"
+},
+{
+  "question": "The unit of electric power is:",
+  "choices": ["Ampere", "Volt", "Watt", "Ohm"],
+  "correctAnswer": "Watt"
+},
+{
+  "question": "Heat transfer through solids occurs mainly by:",
+  "choices": ["Convection", "Radiation", "Conduction", "Diffusion"],
+  "correctAnswer": "Conduction"
+},
+{
+  "question": "Which of these processes does NOT require a medium?",
+  "choices": ["Conduction", "Convection", "Radiation", "Sound propagation"],
+  "correctAnswer": "Radiation"
+},
+{
+  "question": "What happens to the density of a gas when compressed?",
+  "choices": ["Increases", "Decreases", "Remains constant", "Becomes zero"],
+  "correctAnswer": "Increases"
+},
+{
+  "question": "Which of these is a derived unit?",
+  "choices": ["Meter", "Second", "Kilogram", "Newton"],
+  "correctAnswer": "Newton"
+},
+{
+  "question": "A neutral atom becomes positively charged when it:",
+  "choices": ["Gains electrons", "Loses electrons", "Gains protons", "Loses protons"],
+  "correctAnswer": "Loses electrons"
+},
+{
+  "question": "Which of the following is an example of simple harmonic motion?",
+  "choices": ["Car accelerating", "Earth revolving", "Pendulum oscillation", "Ball thrown upward"],
+  "correctAnswer": "Pendulum oscillation"
+},
+{
+  "question": "The instrument used to measure relative humidity is:",
+  "choices": ["Thermometer", "Hydrometer", "Hygrometer", "Manometer"],
+  "correctAnswer": "Hygrometer"
+},
+{
+  "question": "Which of these is NOT a vector quantity?",
+  "choices": ["Force", "Velocity", "Speed", "Momentum"],
+  "correctAnswer": "Speed"
+},
+{
+  "question": "The point at which all the mass of a body can be considered to act is called:",
+  "choices": ["Centroid", "Center of mass", "Axis", "Focus"],
+  "correctAnswer": "Center of mass"
+},
+{
+  "question": "Which of the following is an example of kinetic energy?",
+  "choices": ["Compressed spring", "Moving car", "Stretched rubber band", "Battery"],
+  "correctAnswer": "Moving car"
+},
+{
+  "question": "What is the angle of incidence equal to in a plane mirror?",
+  "choices": ["Angle of reflection", "Angle of refraction", "90 degrees", "0 degrees"],
+  "correctAnswer": "Angle of reflection"
+},
+{
+  "question": "The resistance of a conductor depends on all EXCEPT:",
+  "choices": ["Length", "Cross-sectional area", "Material", "Voltage applied"],
+  "correctAnswer": "Voltage applied"
+},
+{
+  "question": "The instrument used to measure electric current in a circuit is:",
+  "choices": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"],
+  "correctAnswer": "Ammeter"
+},
+{
+  "question": "When light passes from air to water, it:",
+  "choices": ["Bends towards the normal", "Bends away from the normal", "Does not bend", "Reflects completely"],
+  "correctAnswer": "Bends towards the normal"
+},
+{
+  "question": "Which of these is a non-renewable source of energy?",
+  "choices": ["Solar energy", "Wind energy", "Coal", "Hydropower"],
+  "correctAnswer": "Coal"
+},
+{
+  "question": "The phenomenon of bouncing back of light when it strikes a surface is called:",
+  "choices": ["Refraction", "Reflection", "Diffraction", "Dispersion"],
+  "correctAnswer": "Reflection"
+},
+{
+  "question": "The product of mass and velocity of an object is called:",
+  "choices": ["Force", "Momentum", "Energy", "Impulse"],
+  "correctAnswer": "Momentum"
+},
+{
+  "question": "A body is said to be in equilibrium when:",
+  "choices": ["Net force is zero", "Velocity is zero", "Acceleration is maximum", "Momentum is changing"],
+  "correctAnswer": "Net force is zero"
+},
+{
+  "question": "Which of these devices converts mechanical energy into electrical energy?",
+  "choices": ["Electric motor", "Transformer", "Generator", "Battery"],
+  "correctAnswer": "Generator"
+},
+{
+  "question": "The bending of waves around obstacles is called:",
+  "choices": ["Reflection", "Diffraction", "Refraction", "Interference"],
+  "correctAnswer": "Diffraction"
+},
+{
+  "question": "Which quantity is measured in Joules?",
+  "choices": ["Power", "Energy", "Force", "Charge"],
+  "correctAnswer": "Energy"
+},
+{
+  "question": "The rate of change of velocity is called:",
+  "choices": ["Speed", "Acceleration", "Momentum", "Force"],
+  "correctAnswer": "Acceleration"
+},
+{
+  "question": "The unit of electric potential difference is:",
+  "choices": ["Volt", "Ampere", "Ohm", "Watt"],
+  "correctAnswer": "Volt"
+},
+{
+  "question": "The phenomenon where light spreads after passing through a narrow slit is called:",
+  "choices": ["Reflection", "Diffraction", "Refraction", "Dispersion"],
+  "correctAnswer": "Diffraction"
+},
+{
+  "question": "The pressure exerted by a fluid at rest is given by:",
+  "choices": ["P = ρgh", "P = mg", "P = F/A", "P = mv²/r"],
+  "correctAnswer": "P = ρgh"
+},
+{
+  "question": "What is the primary function of a transformer?",
+  "choices": ["Convert AC to DC", "Increase or decrease voltage", "Generate electricity", "Store charge"],
+  "correctAnswer": "Increase or decrease voltage"
+},
+{
+  "question": "The SI unit of magnetic field strength is:",
+  "choices": ["Tesla", "Gauss", "Weber", "Ampere"],
+  "correctAnswer": "Tesla"
+},
+{
+  "question": "Which of these quantities is conserved in an elastic collision?",
+  "choices": ["Momentum only", "Energy only", "Both momentum and kinetic energy", "Neither"],
+  "correctAnswer": "Both momentum and kinetic energy"
+},
+{
+  "question": "The turning effect of a force about a point is called:",
+  "choices": ["Torque", "Momentum", "Impulse", "Work"],
+  "correctAnswer": "Torque"
+},
+{
+  "question": "The rate of doing work is called:",
+  "choices": ["Power", "Energy", "Force", "Work"],
+  "correctAnswer": "Power"
+},
+{
+  "question": "Which of the following is a magnetic material?",
+  "choices": ["Copper", "Aluminium", "Iron", "Plastic"],
+  "correctAnswer": "Iron"
+},
+{
+  "question": "The phenomenon where two waves meet and produce a resultant wave is called:",
+  "choices": ["Diffraction", "Interference", "Refraction", "Polarization"],
+  "correctAnswer": "Interference"
+},
+{
+  "question": "The temperature at which a solid turns to liquid is called:",
+  "choices": ["Boiling point", "Freezing point", "Melting point", "Condensation point"],
+  "correctAnswer": "Melting point"
+},
+{
+  "question": "Which of these is a measure of disorder in a system?",
+  "choices": ["Energy", "Entropy", "Force", "Power"],
+  "correctAnswer": "Entropy"
+},
+{
+  "question": "The current in a series circuit is:",
+  "choices": ["Same everywhere", "Different in each component", "Zero", "Maximum at the last component"],
+  "correctAnswer": "Same everywhere"
+},
+{
+  "question": "A lens that converges light rays to a point is called:",
+  "choices": ["Concave lens", "Convex lens", "Plano-concave lens", "Plano-convex lens"],
+  "correctAnswer": "Convex lens"
+},
+{
+  "question": "The rate of flow of charge is called:",
+  "choices": ["Voltage", "Current", "Resistance", "Power"],
+  "correctAnswer": "Current"
+},
+{
+  "question": "The energy possessed by a body due to its motion is called:",
+  "choices": ["Potential energy", "Kinetic energy", "Thermal energy", "Chemical energy"],
+  "correctAnswer": "Kinetic energy"
+},
+{
+  "question": "The upward force exerted by a fluid on a submerged object is called:",
+  "choices": ["Gravity", "Buoyant force", "Friction", "Tension"],
+  "correctAnswer": "Buoyant force"
+},
+{
+  "question": "Which of these waves require a medium to travel?",
+  "choices": ["Light waves", "Sound waves", "Radio waves", "Gamma rays"],
+  "correctAnswer": "Sound waves"
+},
+{
+  "question": "A body falling under gravity accelerates at:",
+  "choices": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "Depends on mass"],
+  "correctAnswer": "9.8 m/s²"
+},
+{
+  "question": "The SI unit of force is:",
+  "choices": ["Joule", "Newton", "Watt", "Pascal"],
+  "correctAnswer": "Newton"
+},
+{
+  "question": "The bending of light as it passes from one medium to another is called:",
+  "choices": ["Reflection", "Refraction", "Diffraction", "Interference"],
+  "correctAnswer": "Refraction"
+},
+{
+  "question": "Which law explains the relationship between current, voltage, and resistance?",
+  "choices": ["Newton’s law", "Ohm’s law", "Faraday’s law", "Hooke’s law"],
+  "correctAnswer": "Ohm’s law"
+},
+{
+  "question": "The SI unit of work is:",
+  "choices": ["Joule", "Watt", "Newton", "Ampere"],
+  "correctAnswer": "Joule"
+},
+{
+  "question": "Which of these is an example of renewable energy?",
+  "choices": ["Coal", "Oil", "Solar", "Natural gas"],
+  "correctAnswer": "Solar"
+},
+{
+  "question": "The speed of sound in air is approximately:",
+  "choices": ["300 m/s", "340 m/s", "3 × 10⁸ m/s", "1500 m/s"],
+  "correctAnswer": "340 m/s"
+},
+{
+  "question": "The work done when a force moves an object through a distance in the direction of force is given by:",
+  "choices": ["Work = Force × Distance", "Work = Force / Distance", "Work = Mass × Acceleration", "Work = Pressure × Area"],
+  "correctAnswer": "Work = Force × Distance"
+},
+{
+  "question": "The SI unit of pressure is:",
+  "choices": ["Pascal", "Newton", "Joule", "Watt"],
+  "correctAnswer": "Pascal"
+}
+
+
+
+
+  ],
+  "Chemistry": [
+    {
+      "question": "Which of the following is a compound?",
+      "choices": ["Oxygen", "Water", "Nitrogen", "Helium"],
+      "correctAnswer": "Water"
+    },
+    {
+      "question": "What is the atomic number of Hydrogen?",
+      "choices": ["1", "2", "3", "4"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Which of the following is the pH of a neutral solution?",
+      "choices": ["0", "3", "7", "14"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "What is the general electronic configuration of an element in Group 18?",
+      "choices": ["ns² np⁶", "ns²", "ns² np⁴", "ns² np²"],
+      "correctAnswer": "ns² np⁶"
+    },
+    {
+      "question": "Which of the following substances is an example of an acid?",
+      "choices": ["Sodium hydroxide", "Sulfuric acid", "Calcium carbonate", "Ammonia"],
+      "correctAnswer": "Sulfuric acid"
+    },
+    {
+      "question": "Which of the following is a noble gas?",
+      "choices": ["Oxygen", "Chlorine", "Helium", "Nitrogen"],
+      "correctAnswer": "Helium"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid?",
+      "choices": ["H₂SO₄", "HCl", "HNO₃", "H₂O"],
+      "correctAnswer": "H₂SO₄"
+    },
+  
+
+
+  {
+    "question": "Which of the following is a noble gas?",
+    "choices": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"],
+    "correctAnswer": "Argon"
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "choices": ["H2O", "H2O2", "HO", "OH"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Which element has the atomic number 6?",
+    "choices": ["Carbon", "Oxygen", "Nitrogen", "Helium"],
+    "correctAnswer": "Carbon"
+  },
+  {
+    "question": "Which of these is an alkaline earth metal?",
+    "choices": ["Sodium", "Calcium", "Potassium", "Chlorine"],
+    "correctAnswer": "Calcium"
+  },
+  {
+    "question": "What is the pH of a neutral solution at 25°C?",
+    "choices": ["0", "7", "14", "1"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "Which of the following is an isotope of carbon?",
+    "choices": ["C-12", "O-16", "H-1", "N-14"],
+    "correctAnswer": "C-12"
+  },
+  {
+    "question": "What is the molar mass of CO2?",
+    "choices": ["44 g/mol", "28 g/mol", "32 g/mol", "12 g/mol"],
+    "correctAnswer": "44 g/mol"
+  },
+  {
+    "question": "Avogadro’s number is approximately:",
+    "choices": ["6.022 × 10^23", "3.00 × 10^8", "1.67 × 10^-24", "9.81"],
+    "correctAnswer": "6.022 × 10^23"
+  },
+  {
+    "question": "Which type of bond involves the sharing of electrons?",
+    "choices": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+    "correctAnswer": "Covalent"
+  },
+  {
+    "question": "Which of the following is a strong acid?",
+    "choices": ["HCl", "CH3COOH", "H2CO3", "NH3"],
+    "correctAnswer": "HCl"
+  },
+  {
+    "question": "The atomic mass of an element is the:",
+    "choices": ["Number of protons", "Number of neutrons", "Average mass of all isotopes", "Number of electrons"],
+    "correctAnswer": "Average mass of all isotopes"
+  },
+  {
+    "question": "Which gas is released when hydrochloric acid reacts with zinc?",
+    "choices": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "choices": ["Ethane", "Propane", "Methane", "Butane"],
+    "correctAnswer": "Methane"
+  },
+  {
+    "question": "Which of the following is an amphoteric oxide?",
+    "choices": ["Na2O", "Al2O3", "SO3", "CO2"],
+    "correctAnswer": "Al2O3"
+  },
+  {
+    "question": "What is the electron configuration of oxygen?",
+    "choices": ["1s2 2s2 2p4", "1s2 2s2 2p6", "1s2 2s1 2p3", "1s2 2s2"],
+    "correctAnswer": "1s2 2s2 2p4"
+  },
+  {
+    "question": "What type of reaction is: Zn + 2HCl → ZnCl2 + H2?",
+    "choices": ["Decomposition", "Single displacement", "Combustion", "Double displacement"],
+    "correctAnswer": "Single displacement"
+  },
+  {
+    "question": "Which element is most reactive in Group 1 of the periodic table?",
+    "choices": ["Lithium", "Sodium", "Potassium", "Rubidium"],
+    "correctAnswer": "Potassium"
+  },
+  {
+    "question": "What is the product of neutralization between an acid and a base?",
+    "choices": ["Water and salt", "Water only", "Salt only", "Gas"],
+    "correctAnswer": "Water and salt"
+  },
+  {
+    "question": "Which of the following is a transition metal?",
+    "choices": ["Sodium", "Iron", "Calcium", "Helium"],
+    "correctAnswer": "Iron"
+  },
+  {
+    "question": "Which of the following has the highest electronegativity?",
+    "choices": ["Fluorine", "Oxygen", "Nitrogen", "Chlorine"],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Carbon dioxide"
+  },
+  {
+    "question": "Which of the following is an example of a covalent compound?",
+    "choices": ["NaCl", "H2O", "KBr", "MgO"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "The process of converting a solid directly into a gas is called:",
+    "choices": ["Evaporation", "Condensation", "Sublimation", "Fusion"],
+    "correctAnswer": "Sublimation"
+  },
+  {
+    "question": "Which of these metals is liquid at room temperature?",
+    "choices": ["Mercury", "Sodium", "Calcium", "Copper"],
+    "correctAnswer": "Mercury"
+  },
+  {
+    "question": "What is the main type of bond in NaCl?",
+    "choices": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+    "correctAnswer": "Ionic"
+  },
+  {
+    "question": "Which of the following is a halogen?",
+    "choices": ["Chlorine", "Oxygen", "Nitrogen", "Sulfur"],
+    "correctAnswer": "Chlorine"
+  },
+  {
+    "question": "Which acid is found in vinegar?",
+    "choices": ["Citric acid", "Acetic acid", "Sulfuric acid", "Hydrochloric acid"],
+    "correctAnswer": "Acetic acid"
+  },
+  {
+    "question": "Which of the following elements is a metalloid?",
+    "choices": ["Boron", "Sodium", "Oxygen", "Calcium"],
+    "correctAnswer": "Boron"
+  },
+  {
+    "question": "Which process separates a mixture based on boiling points?",
+    "choices": ["Filtration", "Distillation", "Evaporation", "Crystallization"],
+    "correctAnswer": "Distillation"
+  },
+  {
+    "question": "Which of the following is a reducing agent?",
+    "choices": ["Oxygen", "Hydrogen", "Chlorine", "Fluorine"],
+    "correctAnswer": "Hydrogen"
+  },
+  {
+    "question": "Which of these is a polyatomic ion?",
+    "choices": ["Na+", "Cl−", "SO4^2−", "Mg2+"],
+    "correctAnswer": "SO4^2−"
+  },
+  {
+    "question": "Which element has the highest atomic radius?",
+    "choices": ["Lithium", "Beryllium", "Boron", "Carbon"],
+    "correctAnswer": "Lithium"
+  },
+  {
+    "question": "Which of these is an example of a base?",
+    "choices": ["HCl", "NaOH", "H2SO4", "CO2"],
+    "correctAnswer": "NaOH"
+  },
+  {
+    "question": "Which of the following is a product of combustion of hydrocarbons?",
+    "choices": ["CO2 and H2O", "O2 and H2O", "CO and O2", "CH4 and O2"],
+    "correctAnswer": "CO2 and H2O"
+  },
+  {
+    "question": "Which is the most abundant element in the Earth’s crust?",
+    "choices": ["Iron", "Oxygen", "Silicon", "Aluminum"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "question": "Which of the following compounds is soluble in water?",
+    "choices": ["NaCl", "AgCl", "BaSO4", "CaCO3"],
+    "correctAnswer": "NaCl"
+  },
+  {
+    "question": "The formula for calculating the number of moles is:",
+    "choices": ["Mass / Molar mass", "Mass × Molar mass", "Volume / Molar mass", "Mass − Molar mass"],
+    "correctAnswer": "Mass / Molar mass"
+  },
+  {
+    "question": "Which of these is an example of a saturated hydrocarbon?",
+    "choices": ["Ethene", "Ethyne", "Ethane", "Benzene"],
+    "correctAnswer": "Ethane"
+  },
+  {
+    "question": "Which of these processes is used to obtain pure solid from a solution?",
+    "choices": ["Filtration", "Crystallization", "Distillation", "Sublimation"],
+    "correctAnswer": "Crystallization"
+  },
+  {
+    "question": "What is the oxidation state of sulfur in H2SO4?",
+    "choices": ["+4", "+6", "+2", "-2"],
+    "correctAnswer": "+6"
+  },
+  {
+    "question": "Which of the following is a strong base?",
+    "choices": ["NaOH", "NH3", "CH3COONa", "Al(OH)3"],
+    "correctAnswer": "NaOH"
+  },
+  {
+    "question": "Which of these gases is used in the Haber process?",
+    "choices": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon dioxide"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "question": "Which of these is an example of an ester?",
+    "choices": ["CH3COOH", "CH3COOCH3", "CH4", "C2H5OH"],
+    "correctAnswer": "CH3COOCH3"
+  },
+  {
+    "question": "Which of the following is an example of an endothermic reaction?",
+    "choices": ["Combustion of methane", "Photosynthesis", "Neutralization of acid and base", "Respiration"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Which of these elements is a lanthanide?",
+    "choices": ["Cerium", "Calcium", "Cobalt", "Chlorine"],
+    "correctAnswer": "Cerium"
+  },
+  {
+    "question": "Which of these is used as a fuel in nuclear reactors?",
+    "choices": ["Uranium-235", "Plutonium-239", "Thorium-232", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of these is a halide ion?",
+    "choices": ["Cl−", "Na+", "Ca2+", "OH−"],
+    "correctAnswer": "Cl−"
+  },
+  {
+    "question": "Which of the following is a common laboratory acid?",
+    "choices": ["HCl", "NaOH", "KCl", "CaCO3"],
+    "correctAnswer": "HCl"
+  },
+  {
+    "question": "Which of these is formed when an acid reacts with a metal?",
+    "choices": ["Salt and water", "Salt and gas", "Salt only", "Water only"],
+    "correctAnswer": "Salt and gas"
+  },
+  {
+    "question": "Which of the following is an example of a halogenated hydrocarbon?",
+    "choices": ["CH3Cl", "CH4", "C2H6", "C2H4"],
+    "correctAnswer": "CH3Cl"
+  },
+  {
+    "question": "Which of the following metals reacts vigorously with water at room temperature?",
+    "choices": ["Sodium", "Magnesium", "Iron", "Copper"],
+    "correctAnswer": "Sodium"
+  },
+  {
+    "question": "Which of these is a naturally occurring polymer?",
+    "choices": ["Cellulose", "Nylon", "Teflon", "Polyethylene"],
+    "correctAnswer": "Cellulose"
+  },
+  {
+    "question": "Which of these is used as an oxidizing agent?",
+    "choices": ["KMnO4", "NaCl", "H2", "CH4"],
+    "correctAnswer": "KMnO4"
+  },
+  {
+    "question": "Which of these acids is diprotic?",
+    "choices": ["HCl", "H2SO4", "HNO3", "CH3COOH"],
+    "correctAnswer": "H2SO4"
+  },
+  {
+    "question": "Which of these is an example of a transition metal complex?",
+    "choices": ["[Fe(CN)6]4−", "NaCl", "MgO", "H2O"],
+    "correctAnswer": "[Fe(CN)6]4−"
+  },
+  {
+    "question": "Which of the following is a common oxidizing agent in organic chemistry?",
+    "choices": ["KMnO4", "NaOH", "HCl", "NaCl"],
+    "correctAnswer": "KMnO4"
+  },
+  {
+    "question": "Which of the following is used in making soap?",
+    "choices": ["Fat and alkali", "Salt and water", "Acid and alcohol", "Sugar and base"],
+    "correctAnswer": "Fat and alkali"
+  },
+  {
+    "question": "Which of the following elements is liquid at room temperature besides mercury?",
+    "choices": ["Bromine", "Gallium", "Cesium", "Francium"],
+    "correctAnswer": "Bromine"
+  },
+  {
+    "question": "Which of the following is a diatomic molecule?",
+    "choices": ["O2", "CO2", "H2O", "CH4"],
+    "correctAnswer": "O2"
+  },
+  {
+    "question": "Which of the following is used as a drying agent?",
+    "choices": ["CaCl2", "NaCl", "KCl", "MgCl2"],
+    "correctAnswer": "CaCl2"
+  },
+  {
+    "question": "Which of the following is an example of a physical change?",
+    "choices": ["Melting of ice", "Rusting of iron", "Burning of wood", "Cooking an egg"],
+    "correctAnswer": "Melting of ice"
+  },
+  {
+    "question": "Which of the following is an example of an exothermic reaction?",
+    "choices": ["Combustion of wood", "Photosynthesis", "Evaporation of water", "Dissolving salt in water"],
+    "correctAnswer": "Combustion of wood"
+  },
+  {
+    "question": "Which element is a noble gas?",
+    "choices": ["Neon", "Oxygen", "Nitrogen", "Chlorine"],
+    "correctAnswer": "Neon"
+  },
+  {
+    "question": "Which of these compounds is an alcohol?",
+    "choices": ["CH3OH", "CH4", "CH3COOH", "C2H4"],
+    "correctAnswer": "CH3OH"
+  },
+  {
+    "question": "Which of the following is a weak acid?",
+    "choices": ["HCl", "H2SO4", "CH3COOH", "HNO3"],
+    "correctAnswer": "CH3COOH"
+  },
+  {
+    "question": "Which of these is a main group element?",
+    "choices": ["Sodium", "Iron", "Copper", "Nickel"],
+    "correctAnswer": "Sodium"
+  },
+  {
+    "question": "Which of the following is used as a catalyst in the Haber process?",
+    "choices": ["Iron", "Platinum", "Nickel", "Copper"],
+    "correctAnswer": "Iron"
+  },
+  {
+    "question": "Which of these elements is the most electronegative?",
+    "choices": ["Fluorine", "Oxygen", "Chlorine", "Nitrogen"],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "question": "Which of the following is a strong electrolyte?",
+    "choices": ["NaCl", "CH3COOH", "C6H12O6", "NH3"],
+    "correctAnswer": "NaCl"
+  },
+  {
+    "question": "Which of the following ions is responsible for acidity in aqueous solution?",
+    "choices": ["OH−", "H+", "Na+", "Cl−"],
+    "correctAnswer": "H+"
+  },
+  {
+    "question": "Which of these is a secondary alcohol?",
+    "choices": ["CH3CH(OH)CH3", "CH3OH", "CH3CH2OH", "C2H5OH"],
+    "correctAnswer": "CH3CH(OH)CH3"
+  },
+  {
+    "question": "Which of these processes is used to extract metals from their ores?",
+    "choices": ["Electrolysis", "Filtration", "Distillation", "Crystallization"],
+    "correctAnswer": "Electrolysis"
+  },
+  {
+    "question": "Which of these compounds is amphoteric?",
+    "choices": ["Al(OH)3", "NaOH", "HCl", "KCl"],
+    "correctAnswer": "Al(OH)3"
+  },
+  {
+    "question": "Which of these gases is used in the preparation of ammonia?",
+    "choices": ["Nitrogen and Hydrogen", "Oxygen and Hydrogen", "Carbon dioxide and Hydrogen", "Nitrogen and Oxygen"],
+    "correctAnswer": "Nitrogen and Hydrogen"
+  },
+  {
+    "question": "Which of the following is used as a fuel in rockets?",
+    "choices": ["Liquid hydrogen", "Methane", "Propane", "Butane"],
+    "correctAnswer": "Liquid hydrogen"
+  },
+  {
+    "question": "Which of these is a Lewis acid?",
+    "choices": ["BF3", "NH3", "H2O", "CH4"],
+    "correctAnswer": "BF3"
+  },
+  {
+    "question": "Which of these is a chemical property of matter?",
+    "choices": ["Density", "Flammability", "Volume", "Mass"],
+    "correctAnswer": "Flammability"
+  },
+  {
+    "question": "Which of these elements has the lowest ionization energy?",
+    "choices": ["Cesium", "Lithium", "Sodium", "Potassium"],
+    "correctAnswer": "Cesium"
+  },
+  {
+    "question": "Which of these molecules is nonpolar?",
+    "choices": ["CO2", "H2O", "NH3", "HF"],
+    "correctAnswer": "CO2"
+  },
+  {
+    "question": "Which of these reactions is an example of neutralization?",
+    "choices": ["HCl + NaOH → NaCl + H2O", "H2 + O2 → H2O", "C + O2 → CO2", "CH4 + 2O2 → CO2 + 2H2O"],
+    "correctAnswer": "HCl + NaOH → NaCl + H2O"
+  },
+  {
+    "question": "Which of the following is a hydrocarbon?",
+    "choices": ["CH4", "CH3OH", "H2O", "CO2"],
+    "correctAnswer": "CH4"
+  },
+  {
+    "question": "Which of these compounds is basic in nature?",
+    "choices": ["NaOH", "HCl", "H2SO4", "CH3COOH"],
+    "correctAnswer": "NaOH"
+  },
+  {
+    "question": "Which of these is a halogenated hydrocarbon used as refrigerant?",
+    "choices": ["CCl2F2", "CH4", "C2H6", "H2O"],
+    "correctAnswer": "CCl2F2"
+  },
+  {
+    "question": "Which of these elements is required for the synthesis of thyroid hormones?",
+    "choices": ["Iodine", "Iron", "Calcium", "Potassium"],
+    "correctAnswer": "Iodine"
+  },
+  {
+    "question": "Which of the following is used to prevent tooth decay?",
+    "choices": ["Fluoride", "Chloride", "Bromide", "Iodide"],
+    "correctAnswer": "Fluoride"
+  },
+  {
+    "question": "Which of these compounds is used as an antiseptic?",
+    "choices": ["Iodine solution", "NaCl", "KNO3", "CaCO3"],
+    "correctAnswer": "Iodine solution"
+  },
+  {
+    "question": "Which of these is a common laboratory oxidizing agent?",
+    "choices": ["Potassium permanganate", "Sodium hydroxide", "Hydrochloric acid", "Ammonia"],
+    "correctAnswer": "Potassium permanganate"
+  },
+  {
+    "question": "Which of these is used in the manufacture of glass?",
+    "choices": ["SiO2", "Al2O3", "CaO", "NaCl"],
+    "correctAnswer": "SiO2"
+  },
+  {
+    "question": "Which of the following compounds is insoluble in water?",
+    "choices": ["BaSO4", "NaCl", "KNO3", "MgSO4"],
+    "correctAnswer": "BaSO4"
+  },
+  {
+    "question": "Which of the following is a common fuel in cars?",
+    "choices": ["Petrol", "Methanol", "Ethanol", "Acetone"],
+    "correctAnswer": "Petrol"
+  },
+  {
+    "question": "Which of the following is used as a preservative in food?",
+    "choices": ["Sodium benzoate", "Sodium chloride", "Sodium hydroxide", "Sodium carbonate"],
+    "correctAnswer": "Sodium benzoate"
+  },
+  {
+    "question": "Which of the following compounds is an aldehyde?",
+    "choices": ["CH3CHO", "CH3COOH", "CH3OH", "C2H6"],
+    "correctAnswer": "CH3CHO"
+  },
+  {
+    "question": "Which of these elements is essential for blood clotting?",
+    "choices": ["Calcium", "Sodium", "Potassium", "Magnesium"],
+    "correctAnswer": "Calcium"
+  },
+  {
+    "question": "Which of these is used as a solvent in organic chemistry?",
+    "choices": ["Ethanol", "Water", "Salt solution", "Sugar solution"],
+    "correctAnswer": "Ethanol"
+  },
+  {
+    "question": "Which of these compounds is an ether?",
+    "choices": ["CH3OCH3", "CH3OH", "CH3COOH", "CH4"],
+    "correctAnswer": "CH3OCH3"
+  },
+  {
+    "question": "Which of the following is a synthetic polymer?",
+    "choices": ["Nylon", "Cellulose", "Starch", "DNA"],
+    "correctAnswer": "Nylon"
+  },
+  {
+    "question": "Which of these compounds is formed when an acid reacts with a carbonate?",
+    "choices": ["Salt, water, and carbon dioxide", "Salt only", "Water only", "Gas only"],
+    "correctAnswer": "Salt, water, and carbon dioxide"
+  },
+  {
+    "question": "Which of these compounds is an example of a ketone?",
+    "choices": ["CH3COCH3", "CH3CHO", "CH3OH", "C2H6"],
+    "correctAnswer": "CH3COCH3"
+  },
+  {
+    "question": "Which of these gases is most soluble in water?",
+    "choices": ["Ammonia", "Oxygen", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Ammonia"
+  },
+  {
+    "question": "Which of these elements is essential for the formation of hemoglobin?",
+    "choices": ["Iron", "Calcium", "Sodium", "Potassium"],
+    "correctAnswer": "Iron"
+  },
+  {
+    "question": "Which of these is a nonmetal?",
+    "choices": ["Sulfur", "Sodium", "Calcium", "Iron"],
+    "correctAnswer": "Sulfur"
+  },
+  {
+    "question": "Which of these compounds is used as baking soda?",
+    "choices": ["NaHCO3", "NaOH", "NaCl", "KCl"],
+    "correctAnswer": "NaHCO3"
+  },
+  {
+    "question": "Which of the following is used as a laboratory drying agent for gases?",
+    "choices": ["CaCl2", "NaCl", "KCl", "MgCl2"],
+    "correctAnswer": "CaCl2"
+  },
+  {
+    "question": "Which of the following is an example of a neutral molecule?",
+    "choices": ["CO2", "Na+", "Cl−", "OH−"],
+    "correctAnswer": "CO2"
+  },
+  {
+    "question": "Which of the following is used in the production of fertilizers?",
+    "choices": ["Ammonia", "Methane", "Ethanol", "Acetic acid"],
+    "correctAnswer": "Ammonia"
+  },
+  {
+    "question": "Which of these compounds is an organic acid?",
+    "choices": ["CH3COOH", "HCl", "H2SO4", "NaOH"],
+    "correctAnswer": "CH3COOH"
+  },
+  {
+    "question": "Which of these compounds is formed during photosynthesis?",
+    "choices": ["Glucose", "CO2", "O2", "Water"],
+    "correctAnswer": "Glucose"
+  },
+  {
+    "question": "Which of these compounds is commonly used in fireworks?",
+    "choices": ["KNO3", "NaCl", "NaOH", "KCl"],
+    "correctAnswer": "KNO3"
+  },
+  {
+    "question": "Which of the following compounds is used as table salt?",
+    "choices": ["NaCl", "KCl", "NaOH", "CaCO3"],
+    "correctAnswer": "NaCl"
+  },
+  {
+    "question": "Which of these gases is released when an acid reacts with a carbonate?",
+    "choices": ["CO2", "O2", "H2", "N2"],
+    "correctAnswer": "CO2"
+  },
+  {
+    "question": "Which of these elements is a halogen?",
+    "choices": ["Fluorine", "Oxygen", "Nitrogen", "Sodium"],
+    "correctAnswer": "Fluorine"
+  },
+  {
+    "question": "Which of these compounds is used in disinfectants?",
+    "choices": ["Chlorine solution", "Sodium chloride", "Water", "Ammonia"],
+    "correctAnswer": "Chlorine solution"
+  },
+  {
+    "question": "Which of these compounds is used as a food additive to prevent oxidation?",
+    "choices": ["Ascorbic acid", "Citric acid", "Sodium hydroxide", "Sodium chloride"],
+    "correctAnswer": "Ascorbic acid"
+  },
+  {
+    "question": "Which of the following is a common laboratory acid used for titration?",
+    "choices": ["HCl", "NaOH", "KCl", "CaCO3"],
+    "correctAnswer": "HCl"
+  },
+  {
+    "question": "Which of these compounds is used as an antifreeze?",
+    "choices": ["Ethylene glycol", "Methanol", "Ethanol", "Water"],
+    "correctAnswer": "Ethylene glycol"
+  },
+  {
+    "question": "Which of these elements is used in balloons due to its low density?",
+    "choices": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+    "correctAnswer": "Helium"
+  },
+  {
+    "question": "Which of these compounds is used in the production of paper?",
+    "choices": ["Cellulose", "Starch", "Nylon", "Polyethylene"],
+    "correctAnswer": "Cellulose"
+  },
+  {
+    "question": "Which of these elements is essential for healthy bones?",
+    "choices": ["Calcium", "Sodium", "Potassium", "Chlorine"],
+    "correctAnswer": "Calcium"
+  },
+  {
+    "question": "Which of these compounds is used as a sweetener?",
+    "choices": ["Aspartame", "NaCl", "NaOH", "KCl"],
+    "correctAnswer": "Aspartame"
+  },
+  {
+    "question": "Which of these compounds is an example of a carbohydrate?",
+    "choices": ["Glucose", "CH4", "CH3OH", "C2H5OH"],
+    "correctAnswer": "Glucose"
+  },
+  {
+    "question": "Which of these elements is required for the formation of chlorophyll?",
+    "choices": ["Magnesium", "Iron", "Calcium", "Potassium"],
+    "correctAnswer": "Magnesium"
+  },
+  {
+    "question": "Which of these is used in the manufacture of explosives?",
+    "choices": ["Nitroglycerin", "NaCl", "KCl", "H2O"],
+    "correctAnswer": "Nitroglycerin"
+  },
+  {
+    "question": "Which of these is an example of a halogenated organic compound?",
+    "choices": ["CH3Cl", "CH4", "C2H6", "C2H4"],
+    "correctAnswer": "CH3Cl"
+  },
+  {
+    "question": "Which of these compounds is used as a preservative in canned foods?",
+    "choices": ["Sodium benzoate", "NaOH", "KCl", "CaCO3"],
+    "correctAnswer": "Sodium benzoate"
+  },
+  {
+    "question": "Which of these elements is required for the production of thyroid hormones?",
+    "choices": ["Iodine", "Iron", "Calcium", "Potassium"],
+    "correctAnswer": "Iodine"
+  }
+
+
+
+  ],
+  "Biology": [
+    {
+      "question": "What is the main function of the ribosomes in a cell?",
+      "choices": ["Energy production", "Protein synthesis", "DNA replication", "Cell division"],
+      "correctAnswer": "Protein synthesis"
+    },
+    {
+      "question": "Which of the following is responsible for the transport of oxygen in the blood?",
+      "choices": ["Platelets", "White blood cells", "Red blood cells", "Plasma"],
+      "correctAnswer": "Red blood cells"
+    },
+    {
+      "question": "Which process converts glucose into energy in the presence of oxygen?",
+      "choices": ["Photosynthesis", "Fermentation", "Respiration", "Transpiration"],
+      "correctAnswer": "Respiration"
+    },
+    {
+      "question": "What is the process by which plants make their own food?",
+      "choices": ["Transpiration", "Respiration", "Photosynthesis", "Digestion"],
+      "correctAnswer": "Photosynthesis"
+    },
+    {
+      "question": "Which of the following structures is found in both plant and animal cells?",
+      "choices": ["Chloroplast", "Cell wall", "Mitochondrion", "Vacuole"],
+      "correctAnswer": "Mitochondrion"
+    },
+    {
+      "question": "Which type of blood cell is involved in immune response?",
+      "choices": ["Red blood cell", "White blood cell", "Platelet", "Plasma"],
+      "correctAnswer": "White blood cell"
+    },
+    {
+      "question": "What structure in plant cells contains chlorophyll?",
+      "choices": ["Vacuole", "Mitochondrion", "Nucleus", "Chloroplast"],
+      "correctAnswer": "Chloroplast"
+    },
+  {
+    "question": "What is the basic unit of life?",
+    "choices": ["Atom", "Molecule", "Cell", "Tissue"],
+    "correctAnswer": "Cell"
+  },
+  {
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "choices": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "DNA stands for:",
+    "choices": ["Deoxyribonucleic acid", "Deoxyribose nucleic acid", "Dicarboxy nucleic acid", "Deoxynucleotide acid"],
+    "correctAnswer": "Deoxyribonucleic acid"
+  },
+  {
+    "question": "Which process do plants use to make food?",
+    "choices": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Which part of the plant cell contains chlorophyll?",
+    "choices": ["Mitochondria", "Chloroplast", "Nucleus", "Ribosome"],
+    "correctAnswer": "Chloroplast"
+  },
+  {
+    "question": "Which blood cells help in fighting infections?",
+    "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma cells"],
+    "correctAnswer": "White blood cells"
+  },
+  {
+    "question": "Which system of the body is responsible for transporting nutrients and oxygen?",
+    "choices": ["Digestive system", "Respiratory system", "Circulatory system", "Excretory system"],
+    "correctAnswer": "Circulatory system"
+  },
+  {
+    "question": "What is the process by which cells divide to form two identical daughter cells?",
+    "choices": ["Meiosis", "Mitosis", "Binary fission", "Budding"],
+    "correctAnswer": "Mitosis"
+  },
+  {
+    "question": "Which type of reproduction involves two parents?",
+    "choices": ["Asexual reproduction", "Sexual reproduction", "Binary fission", "Budding"],
+    "correctAnswer": "Sexual reproduction"
+  },
+  {
+    "question": "Which organ in the human body produces insulin?",
+    "choices": ["Liver", "Pancreas", "Kidney", "Gallbladder"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "question": "Which macromolecule is the main source of energy for the body?",
+    "choices": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+    "correctAnswer": "Carbohydrates"
+  },
+  {
+    "question": "Which organ is responsible for filtering blood and producing urine?",
+    "choices": ["Liver", "Kidney", "Lungs", "Spleen"],
+    "correctAnswer": "Kidney"
+  },
+  {
+    "question": "Which part of the brain controls balance and coordination?",
+    "choices": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+    "correctAnswer": "Cerebellum"
+  },
+  {
+    "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+    "choices": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctAnswer": "Vitamin D"
+  },
+  {
+    "question": "What is the primary function of red blood cells?",
+    "choices": ["Fighting infections", "Clotting blood", "Transporting oxygen", "Digesting food"],
+    "correctAnswer": "Transporting oxygen"
+  },
+  {
+    "question": "Which gas is released during photosynthesis?",
+    "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Oxygen"
+  },
+  {
+    "question": "Which part of the plant absorbs water and minerals from the soil?",
+    "choices": ["Stem", "Leaves", "Roots", "Flowers"],
+    "correctAnswer": "Roots"
+  },
+  {
+    "question": "Which blood group is known as the universal donor?",
+    "choices": ["A", "B", "AB", "O"],
+    "correctAnswer": "O"
+  },
+  {
+    "question": "Which blood group is known as the universal recipient?",
+    "choices": ["A", "B", "AB", "O"],
+    "correctAnswer": "AB"
+  },
+  {
+    "question": "Which of the following is a nitrogenous base in DNA?",
+    "choices": ["Adenine", "Glucose", "Fructose", "Glycerol"],
+    "correctAnswer": "Adenine"
+  },
+  {
+    "question": "Which organelle is responsible for protein synthesis?",
+    "choices": ["Ribosome", "Mitochondria", "Nucleus", "Golgi apparatus"],
+    "correctAnswer": "Ribosome"
+  },
+  {
+    "question": "Which blood component helps in clotting?",
+    "choices": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+    "correctAnswer": "Platelets"
+  },
+  {
+    "question": "Which organ is part of both the digestive and endocrine systems?",
+    "choices": ["Liver", "Pancreas", "Kidney", "Stomach"],
+    "correctAnswer": "Pancreas"
+  },
+  {
+    "question": "Which system of the body regulates hormones?",
+    "choices": ["Nervous system", "Endocrine system", "Respiratory system", "Circulatory system"],
+    "correctAnswer": "Endocrine system"
+  },
+  {
+    "question": "Which part of the neuron receives signals from other neurons?",
+    "choices": ["Axon", "Dendrite", "Cell body", "Myelin sheath"],
+    "correctAnswer": "Dendrite"
+  },
+  {
+    "question": "Which part of the neuron sends signals to other neurons?",
+    "choices": ["Axon", "Dendrite", "Cell body", "Synapse"],
+    "correctAnswer": "Axon"
+  },
+  {
+    "question": "Which process results in the formation of gametes?",
+    "choices": ["Mitosis", "Meiosis", "Fertilization", "Budding"],
+    "correctAnswer": "Meiosis"
+  },
+  {
+    "question": "Which organ system is responsible for defense against pathogens?",
+    "choices": ["Immune system", "Digestive system", "Respiratory system", "Circulatory system"],
+    "correctAnswer": "Immune system"
+  },
+  {
+    "question": "Which macromolecule stores genetic information?",
+    "choices": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+    "correctAnswer": "Nucleic acids"
+  },
+  {
+    "question": "Which type of blood vessel carries blood away from the heart?",
+    "choices": ["Veins", "Arteries", "Capillaries", "Lymphatics"],
+    "correctAnswer": "Arteries"
+  },
+  {
+    "question": "Which type of blood vessel carries blood toward the heart?",
+    "choices": ["Veins", "Arteries", "Capillaries", "Lymphatics"],
+    "correctAnswer": "Veins"
+  },
+  {
+    "question": "Which organ in humans stores bile?",
+    "choices": ["Liver", "Gallbladder", "Pancreas", "Stomach"],
+    "correctAnswer": "Gallbladder"
+  },
+  {
+    "question": "Which part of the human ear detects sound vibrations?",
+    "choices": ["Cochlea", "Eardrum", "Auditory canal", "Semicircular canals"],
+    "correctAnswer": "Cochlea"
+  },
+  {
+    "question": "Which part of the eye controls the amount of light entering it?",
+    "choices": ["Lens", "Cornea", "Iris", "Retina"],
+    "correctAnswer": "Iris"
+  },
+  {
+    "question": "Which structure carries oxygen-rich blood from the lungs to the heart?",
+    "choices": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+    "correctAnswer": "Pulmonary vein"
+  },
+  {
+    "question": "Which structure carries oxygen-poor blood from the heart to the lungs?",
+    "choices": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+    "correctAnswer": "Pulmonary artery"
+  },
+  {
+    "question": "Which part of the digestive system absorbs most nutrients?",
+    "choices": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+    "correctAnswer": "Small intestine"
+  },
+  {
+    "question": "Which part of the digestive system absorbs water and forms feces?",
+    "choices": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+    "correctAnswer": "Large intestine"
+  },
+  {
+    "question": "Which type of muscle is involuntary and found in the walls of internal organs?",
+    "choices": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Striated muscle"],
+    "correctAnswer": "Smooth muscle"
+  },
+  {
+    "question": "Which type of muscle is voluntary and attached to bones?",
+    "choices": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Striated muscle"],
+    "correctAnswer": "Skeletal muscle"
+  },
+  {
+    "question": "Which type of muscle is found only in the heart?",
+    "choices": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Striated muscle"],
+    "correctAnswer": "Cardiac muscle"
+  },
+  {
+    "question": "Which process converts glucose into energy in cells?",
+    "choices": ["Photosynthesis", "Respiration", "Fermentation", "Transpiration"],
+    "correctAnswer": "Respiration"
+  },
+  {
+    "question": "Which part of the cell controls cell activities?",
+    "choices": ["Mitochondria", "Ribosome", "Nucleus", "Golgi apparatus"],
+    "correctAnswer": "Nucleus"
+  },
+  {
+    "question": "Which substance makes up the cell wall in plants?",
+    "choices": ["Chitin", "Cellulose", "Peptidoglycan", "Lignin"],
+    "correctAnswer": "Cellulose"
+  },
+  {
+    "question": "Which part of the cell is responsible for packaging and transporting proteins?",
+    "choices": ["Endoplasmic reticulum", "Golgi apparatus", "Ribosome", "Lysosome"],
+    "correctAnswer": "Golgi apparatus"
+  },
+  {
+    "question": "Which part of the cell contains digestive enzymes?",
+    "choices": ["Lysosome", "Peroxisome", "Mitochondria", "Ribosome"],
+    "correctAnswer": "Lysosome"
+  },
+  {
+    "question": "Which organelle is involved in photosynthesis in plant cells?",
+    "choices": ["Mitochondria", "Chloroplast", "Ribosome", "Golgi apparatus"],
+    "correctAnswer": "Chloroplast"
+  },
+  {
+    "question": "Which of the following is a decomposer in ecosystems?",
+    "choices": ["Fungi", "Grass", "Rabbit", "Lion"],
+    "correctAnswer": "Fungi"
+  },
+  {
+    "question": "Which trophic level consists of primary consumers?",
+    "choices": ["Herbivores", "Carnivores", "Producers", "Decomposers"],
+    "correctAnswer": "Herbivores"
+  },
+  {
+    "question": "Which trophic level consists of producers?",
+    "choices": ["Herbivores", "Carnivores", "Producers", "Decomposers"],
+    "correctAnswer": "Producers"
+  },
+  {
+    "question": "Which organism is an example of a carnivore?",
+    "choices": ["Lion", "Cow", "Rabbit", "Grasshopper"],
+    "correctAnswer": "Lion"
+  },
+  {
+    "question": "Which process releases carbon dioxide into the atmosphere?",
+    "choices": ["Photosynthesis", "Respiration", "Transpiration", "Nitrogen fixation"],
+    "correctAnswer": "Respiration"
+  },
+  {
+    "question": "Which process removes carbon dioxide from the atmosphere?",
+    "choices": ["Photosynthesis", "Respiration", "Combustion", "Decomposition"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Which process releases oxygen into the atmosphere?",
+    "choices": ["Respiration", "Photosynthesis", "Decomposition", "Fermentation"],
+    "correctAnswer": "Photosynthesis"
+  },
+  {
+    "question": "Which biomolecule is a major component of cell membranes?",
+    "choices": ["Protein", "Lipid", "Carbohydrate", "Nucleic acid"],
+    "correctAnswer": "Lipid"
+  },
+  {
+    "question": "Which biomolecule is used for long-term energy storage in animals?",
+    "choices": ["Carbohydrates", "Lipids", "Proteins", "Nucleic acids"],
+    "correctAnswer": "Lipids"
+  },
+  {
+    "question": "Which biomolecule is the main structural component of hair and nails?",
+    "choices": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
+    "correctAnswer": "Proteins"
+  },
+  {
+    "question": "Which of the following is an example of an ecosystem?",
+    "choices": ["Forest", "Cell", "Organ", "Tissue"],
+    "correctAnswer": "Forest"
+  },
+  {
+    "question": "Which of these animals lays eggs?",
+    "choices": ["Mammals", "Reptiles", "Humans", "Elephants"],
+    "correctAnswer": "Reptiles"
+  },
+  {
+    "question": "Which of these animals gives birth to live young?",
+    "choices": ["Birds", "Mammals", "Reptiles", "Amphibians"],
+    "correctAnswer": "Mammals"
+  },
+  {
+    "question": "Which of these is an example of a vertebrate?",
+    "choices": ["Fish", "Worm", "Insect", "Mollusk"],
+    "correctAnswer": "Fish"
+  },
+  {
+    "question": "Which of these is an example of an invertebrate?",
+    "choices": ["Fish", "Frog", "Worm", "Bird"],
+    "correctAnswer": "Worm"
+  },
+  {
+    "question": "Which type of plant produces flowers?",
+    "choices": ["Gymnosperms", "Angiosperms", "Ferns", "Mosses"],
+    "correctAnswer": "Angiosperms"
+  },
+  {
+    "question": "Which type of plant does not produce flowers?",
+    "choices": ["Gymnosperms", "Angiosperms", "Fruits", "Vegetables"],
+    "correctAnswer": "Gymnosperms"
+  },
+  {
+    "question": "Which part of a flower contains the male reproductive cells?",
+    "choices": ["Stigma", "Anther", "Petal", "Sepal"],
+    "correctAnswer": "Anther"
+  },
+  {
+    "question": "Which part of a flower contains the female reproductive cells?",
+    "choices": ["Stigma", "Ovary", "Anther", "Petal"],
+    "correctAnswer": "Ovary"
+  },
+  {
+    "question": "Which process is responsible for seed formation?",
+    "choices": ["Fertilization", "Germination", "Pollination", "Photosynthesis"],
+    "correctAnswer": "Fertilization"
+  },
+  {
+    "question": "Which process is responsible for pollen transfer?",
+    "choices": ["Pollination", "Fertilization", "Germination", "Respiration"],
+    "correctAnswer": "Pollination"
+  },
+  {
+    "question": "Which type of symmetry does a starfish exhibit?",
+    "choices": ["Bilateral", "Radial", "Asymmetrical", "Spherical"],
+    "correctAnswer": "Radial"
+  },
+  {
+    "question": "Which type of symmetry does a human exhibit?",
+    "choices": ["Bilateral", "Radial", "Asymmetrical", "Spherical"],
+    "correctAnswer": "Bilateral"
+  },
+  {
+    "question": "Which of the following organisms perform nitrogen fixation?",
+    "choices": ["Rhizobium", "Fungi", "Algae", "Protozoa"],
+    "correctAnswer": "Rhizobium"
+  }
+
+
+  ],
+  "Economics": [
+    {
+      "question": "What does GDP stand for?",
+      "choices": ["Gross Domestic Product", "General Domestic Product", "Gross Direct Profit", "General Debt Payment"],
+      "correctAnswer": "Gross Domestic Product"
+    },
+    {
+      "question": "Which of the following is a characteristic of a monopoly market structure?",
+      "choices": ["Multiple firms", "One dominant firm", "Price competition", "Free entry of firms"],
+      "correctAnswer": "One dominant firm"
+    },
+    {
+      "question": "The law of demand states that:",
+      "choices": ["As price increases, demand increases", "As price decreases, demand decreases", "As price increases, demand decreases", "As price increases, demand remains constant"],
+      "correctAnswer": "As price increases, demand decreases"
+    },
+    {
+      "question": "Which of the following is an example of a public good?",
+      "choices": ["National defense", "Private education", "Household appliances", "Personal services"],
+      "correctAnswer": "National defense"
+    },
+    {
+      "question": "What is the basic principle of Keynesian economics?",
+      "choices": ["Supply creates its own demand", "Government intervention can stabilize the economy", "Prices are determined by market forces", "Individuals act rationally to maximize utility"],
+      "correctAnswer": "Government intervention can stabilize the economy"
+    },
+    {
+      "question": "Which of the following is an example of a consumer good?",
+      "choices": ["Machinery", "Electricity", "Food", "Raw materials"],
+      "correctAnswer": "Food"
+    },
+    {
+      "question": "What type of economy is characterized by private ownership and minimal government interference?",
+      "choices": ["Market economy", "Command economy", "Traditional economy", "Mixed economy"],
+      "correctAnswer": "Market economy"
+    },
+    
+  {
+    "question": "What is the study of how people use scarce resources to satisfy unlimited wants?",
+    "choices": ["Sociology", "Economics", "Psychology", "Anthropology"],
+    "correctAnswer": "Economics"
+  },
+  {
+    "question": "Which of the following is a factor of production?",
+    "choices": ["Money", "Labor", "Demand", "Price"],
+    "correctAnswer": "Labor"
+  },
+  {
+    "question": "What is the basic economic problem?",
+    "choices": ["Scarcity of resources", "High inflation", "Unemployment", "Deficit spending"],
+    "correctAnswer": "Scarcity of resources"
+  },
+  {
+    "question": "Which type of economy is based on tradition and customs?",
+    "choices": ["Market economy", "Command economy", "Traditional economy", "Mixed economy"],
+    "correctAnswer": "Traditional economy"
+  },
+  {
+    "question": "Which type of economy allows private individuals to make most economic decisions?",
+    "choices": ["Market economy", "Command economy", "Traditional economy", "Mixed economy"],
+    "correctAnswer": "Market economy"
+  },
+  {
+    "question": "Which type of economy is controlled by the government?",
+    "choices": ["Market economy", "Command economy", "Traditional economy", "Mixed economy"],
+    "correctAnswer": "Command economy"
+  },
+  {
+    "question": "Which type of economy combines elements of market and command economies?",
+    "choices": ["Market economy", "Command economy", "Traditional economy", "Mixed economy"],
+    "correctAnswer": "Mixed economy"
+  },
+  {
+    "question": "What is demand?",
+    "choices": ["Quantity of a good consumers are willing to buy at various prices", "Quantity of a good producers supply", "Government regulation", "Total revenue"],
+    "correctAnswer": "Quantity of a good consumers are willing to buy at various prices"
+  },
+  {
+    "question": "What is supply?",
+    "choices": ["Quantity of a good consumers are willing to buy", "Quantity of a good producers are willing to sell", "Market equilibrium", "Price control"],
+    "correctAnswer": "Quantity of a good producers are willing to sell"
+  },
+  {
+    "question": "The law of demand states that:",
+    "choices": ["As price rises, demand rises", "As price rises, demand falls", "As price falls, supply falls", "Demand is constant"],
+    "correctAnswer": "As price rises, demand falls"
+  },
+  {
+    "question": "The law of supply states that:",
+    "choices": ["As price rises, supply rises", "As price rises, supply falls", "As price falls, demand rises", "Supply is constant"],
+    "correctAnswer": "As price rises, supply rises"
+  },
+  {
+    "question": "What is equilibrium price?",
+    "choices": ["Price at which quantity demanded equals quantity supplied", "Price at which demand exceeds supply", "Price set by government", "Highest possible price"],
+    "correctAnswer": "Price at which quantity demanded equals quantity supplied"
+  },
+  {
+    "question": "What is elasticity in economics?",
+    "choices": ["Measure of responsiveness of demand or supply to changes in price", "Government tax policy", "Monetary policy tool", "Budget allocation"],
+    "correctAnswer": "Measure of responsiveness of demand or supply to changes in price"
+  },
+  {
+    "question": "Which of the following is an example of a renewable resource?",
+    "choices": ["Coal", "Oil", "Sunlight", "Natural gas"],
+    "correctAnswer": "Sunlight"
+  },
+  {
+    "question": "Which of the following is a non-renewable resource?",
+    "choices": ["Solar energy", "Wind energy", "Coal", "Water"],
+    "correctAnswer": "Coal"
+  },
+  {
+    "question": "What is inflation?",
+    "choices": ["Increase in the general price level", "Decrease in the general price level", "Stability of prices", "Increase in unemployment"],
+    "correctAnswer": "Increase in the general price level"
+  },
+  {
+    "question": "What is deflation?",
+    "choices": ["Decrease in the general price level", "Increase in prices", "Government spending", "Monetary expansion"],
+    "correctAnswer": "Decrease in the general price level"
+  },
+  {
+    "question": "Which index measures the general price level of goods and services?",
+    "choices": ["GDP", "CPI", "GNP", "PPI"],
+    "correctAnswer": "CPI"
+  },
+  {
+    "question": "What does GDP stand for?",
+    "choices": ["Gross Domestic Product", "General Domestic Price", "Government Debt Payment", "Global Development Plan"],
+    "correctAnswer": "Gross Domestic Product"
+  },
+  {
+    "question": "Which of the following is an example of a public good?",
+    "choices": ["Roads", "Bread", "Shirts", "Cars"],
+    "correctAnswer": "Roads"
+  },
+  {
+    "question": "What is opportunity cost?",
+    "choices": ["Cost of the next best alternative foregone", "Total expenditure", "Market price", "Government tax"],
+    "correctAnswer": "Cost of the next best alternative foregone"
+  },
+  {
+    "question": "Which branch of economics studies individual markets and decision-making?",
+    "choices": ["Macroeconomics", "Microeconomics", "International economics", "Development economics"],
+    "correctAnswer": "Microeconomics"
+  },
+  {
+    "question": "Which branch of economics studies the economy as a whole?",
+    "choices": ["Macroeconomics", "Microeconomics", "Labour economics", "Environmental economics"],
+    "correctAnswer": "Macroeconomics"
+  },
+  {
+    "question": "What is unemployment?",
+    "choices": ["People without jobs who are willing and able to work", "People with jobs", "Population growth", "Government spending"],
+    "correctAnswer": "People without jobs who are willing and able to work"
+  },
+  {
+    "question": "Which type of unemployment occurs when workers do not have skills required by the job?",
+    "choices": ["Frictional", "Structural", "Cyclical", "Seasonal"],
+    "correctAnswer": "Structural"
+  },
+  {
+    "question": "Which type of unemployment occurs due to seasonal variations?",
+    "choices": ["Frictional", "Structural", "Cyclical", "Seasonal"],
+    "correctAnswer": "Seasonal"
+  },
+  {
+    "question": "Which type of unemployment occurs due to downturns in the economy?",
+    "choices": ["Frictional", "Structural", "Cyclical", "Seasonal"],
+    "correctAnswer": "Cyclical"
+  },
+  {
+    "question": "Which type of unemployment occurs temporarily when people move between jobs?",
+    "choices": ["Frictional", "Structural", "Cyclical", "Seasonal"],
+    "correctAnswer": "Frictional"
+  },
+  {
+    "question": "What is a budget deficit?",
+    "choices": ["Government expenditure exceeds revenue", "Government revenue exceeds expenditure", "Balance between revenue and expenditure", "Total national debt"],
+    "correctAnswer": "Government expenditure exceeds revenue"
+  },
+  {
+    "question": "What is a budget surplus?",
+    "choices": ["Government expenditure exceeds revenue", "Government revenue exceeds expenditure", "Balance between revenue and expenditure", "Total national debt"],
+    "correctAnswer": "Government revenue exceeds expenditure"
+  },
+  {
+    "question": "Which type of tax is levied on income?",
+    "choices": ["Sales tax", "Income tax", "Property tax", "Excise duty"],
+    "correctAnswer": "Income tax"
+  },
+  {
+    "question": "Which type of tax is levied on goods and services?",
+    "choices": ["Income tax", "Sales tax", "Property tax", "Inheritance tax"],
+    "correctAnswer": "Sales tax"
+  },
+  {
+    "question": "Which type of market has many buyers and sellers selling identical products?",
+    "choices": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "correctAnswer": "Perfect competition"
+  },
+  {
+    "question": "Which type of market has only one seller?",
+    "choices": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "correctAnswer": "Monopoly"
+  },
+  {
+    "question": "Which type of market has few sellers dominating the market?",
+    "choices": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "correctAnswer": "Oligopoly"
+  },
+  {
+    "question": "Which type of market has many sellers but differentiated products?",
+    "choices": ["Perfect competition", "Monopoly", "Oligopoly", "Monopolistic competition"],
+    "correctAnswer": "Monopolistic competition"
+  },
+  {
+    "question": "Which economic system allows free markets with minimal government intervention?",
+    "choices": ["Capitalism", "Socialism", "Communism", "Mixed economy"],
+    "correctAnswer": "Capitalism"
+  },
+  {
+    "question": "Which economic system emphasizes government ownership of resources?",
+    "choices": ["Capitalism", "Socialism", "Free market", "Traditional economy"],
+    "correctAnswer": "Socialism"
+  },
+  {
+    "question": "What is the central bank of a country responsible for?",
+    "choices": ["Printing money and controlling monetary policy", "Collecting taxes", "Producing goods", "Setting fiscal policy"],
+    "correctAnswer": "Printing money and controlling monetary policy"
+  },
+  {
+    "question": "Which policy involves government spending and taxation?",
+    "choices": ["Monetary policy", "Fiscal policy", "Trade policy", "Exchange rate policy"],
+    "correctAnswer": "Fiscal policy"
+  },
+  {
+    "question": "Which policy involves controlling money supply and interest rates?",
+    "choices": ["Monetary policy", "Fiscal policy", "Trade policy", "Price control"],
+    "correctAnswer": "Monetary policy"
+  },
+  {
+    "question": "What is trade balance?",
+    "choices": ["Difference between exports and imports", "Total exports only", "Total imports only", "Government revenue"],
+    "correctAnswer": "Difference between exports and imports"
+  },
+  {
+    "question": "What is a tariff?",
+    "choices": ["Tax on imports or exports", "Government subsidy", "Interest rate", "Exchange rate control"],
+    "correctAnswer": "Tax on imports or exports"
+  },
+  {
+    "question": "What is globalization?",
+    "choices": ["Integration of markets, trade, and culture across countries", "Government regulation of markets", "Local trade only", "Production of domestic goods only"],
+    "correctAnswer": "Integration of markets, trade, and culture across countries"
+  },
+  {
+    "question": "Which measure shows the average price level of goods and services in an economy?",
+    "choices": ["GDP", "CPI", "Unemployment rate", "Budget deficit"],
+    "correctAnswer": "CPI"
+  },
+  {
+    "question": "Which measure shows the total output of goods and services in a country?",
+    "choices": ["GDP", "CPI", "Trade balance", "Inflation rate"],
+    "correctAnswer": "GDP"
+  },
+  {
+    "question": "Which sector of the economy includes farming, mining, and fishing?",
+    "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+    "correctAnswer": "Primary"
+  },
+  {
+    "question": "Which sector of the economy includes manufacturing and industry?",
+    "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+    "correctAnswer": "Secondary"
+  },
+  {
+    "question": "Which sector of the economy provides services like banking, education, and healthcare?",
+    "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+    "correctAnswer": "Tertiary"
+  },
+  {
+    "question": "Which sector of the economy involves information and research?",
+    "choices": ["Primary", "Secondary", "Tertiary", "Quaternary"],
+    "correctAnswer": "Quaternary"
+  },
+  {
+    "question": "What is a monopoly?",
+    "choices": ["Market with one seller", "Market with many sellers", "Government-controlled market", "Market with identical products"],
+    "correctAnswer": "Market with one seller"
+  },
+  {
+    "question": "What is a cartel?",
+    "choices": ["Group of firms controlling prices or production", "A government subsidy program", "A type of tax", "An economic policy"],
+    "correctAnswer": "Group of firms controlling prices or production"
+  },
+  {
+    "question": "Which type of unemployment is considered natural in a growing economy?",
+    "choices": ["Frictional", "Structural", "Cyclical", "Seasonal"],
+    "correctAnswer": "Frictional"
+  },
+  {
+    "question": "What is the purpose of a minimum wage?",
+    "choices": ["To ensure workers earn a basic standard of living", "To reduce unemployment", "To control inflation", "To increase government revenue"],
+    "correctAnswer": "To ensure workers earn a basic standard of living"
+  },
+  {
+    "question": "What is a recession?",
+    "choices": ["Period of declining economic activity", "Period of rapid economic growth", "High inflation", "High employment"],
+    "correctAnswer": "Period of declining economic activity"
+  },
+  {
+    "question": "What is a depression in economics?",
+    "choices": ["Severe and prolonged recession", "Mild economic slowdown", "High inflation period", "High employment period"],
+    "correctAnswer": "Severe and prolonged recession"
+  },
+  {
+    "question": "Which of the following is an example of a price control?",
+    "choices": ["Price ceiling", "Subsidy", "Tax", "Interest rate"],
+    "correctAnswer": "Price ceiling"
+  },
+  {
+    "question": "Which of the following encourages production of certain goods by the government?",
+    "choices": ["Subsidy", "Tax", "Tariff", "Price floor"],
+    "correctAnswer": "Subsidy"
+  },
+  {
+    "question": "Which of the following reduces the quantity demanded of goods?",
+    "choices": ["Tax", "Subsidy", "Grant", "Price ceiling"],
+    "correctAnswer": "Tax"
+  },
+  {
+    "question": "What is barter?",
+    "choices": ["Exchange of goods without using money", "Use of currency for trade", "Government taxation", "Market equilibrium"],
+    "correctAnswer": "Exchange of goods without using money"
+  },
+  {
+    "question": "Which of the following is a function of money?",
+    "choices": ["Medium of exchange", "Store of value", "Unit of account", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which type of market is characterized by few large sellers and high barriers to entry?",
+    "choices": ["Oligopoly", "Monopoly", "Perfect competition", "Monopolistic competition"],
+    "correctAnswer": "Oligopoly"
+  },
+  {
+    "question": "What is a quota?",
+    "choices": ["Limit on quantity of imports", "Tax on goods", "Subsidy for production", "Interest rate control"],
+    "correctAnswer": "Limit on quantity of imports"
+  },
+  {
+    "question": "Which term refers to the overall level of prices in an economy?",
+    "choices": ["Inflation", "GDP", "Unemployment", "Balance of trade"],
+    "correctAnswer": "Inflation"
+  },
+  {
+    "question": "Which is a primary goal of macroeconomic policy?",
+    "choices": ["Price stability", "Full employment", "Economic growth", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which economic indicator measures the total output per person?",
+    "choices": ["GDP per capita", "CPI", "Unemployment rate", "Trade balance"],
+    "correctAnswer": "GDP per capita"
+  },
+  {
+    "question": "Which term refers to total imports minus total exports?",
+    "choices": ["Balance of trade", "Trade deficit", "Trade surplus", "Gross national product"],
+    "correctAnswer": "Balance of trade"
+  },
+  {
+    "question": "Which is a tool of monetary policy?",
+    "choices": ["Interest rates", "Government spending", "Taxation", "Subsidies"],
+    "correctAnswer": "Interest rates"
+  },
+  {
+    "question": "Which is a tool of fiscal policy?",
+    "choices": ["Taxation", "Interest rates", "Money supply", "Open market operations"],
+    "correctAnswer": "Taxation"
+  }
+
+
+
+
+
+
+  ],
+  "Government": [
+    {
+      "question": "What is the primary function of the judiciary?",
+      "choices": ["To make laws", "To enforce laws", "To interpret laws", "To amend laws"],
+      "correctAnswer": "To interpret laws"
+    },
+    {
+      "question": "In a democracy, what ensures the protection of individual rights?",
+      "choices": ["Constitutional framework", "Military dictatorship", "One-party system", "Centralized government"],
+      "correctAnswer": "Constitutional framework"
+    },
+    {
+      "question": "Which of the following is a characteristic of a federal system of government?",
+      "choices": ["Centralized power", "Unicameral legislature", "Division of powers between national and state governments", "Authoritarian rule"],
+      "correctAnswer": "Division of powers between national and state governments"
+    },
+    {
+      "question": "Who is responsible for interpreting the Constitution in Nigeria?",
+      "choices": ["The Executive", "The Legislature", "The Judiciary", "The President"],
+      "correctAnswer": "The Judiciary"
+    },
+    {
+      "question": "Which of the following is a feature of a parliamentary system of government?",
+      "choices": ["The head of government is separate from the head of state", "The legislature is elected by the people", "The prime minister is elected by parliament", "There is no opposition party"],
+      "correctAnswer": "The prime minister is elected by parliament"
+    },
+    {
+      "question": "What does the term 'separation of powers' mean?",
+      "choices": ["The judiciary controls the legislature", "The government is divided into three branches", "The executive branch is not accountable", "The people are not represented in government"],
+      "correctAnswer": "The government is divided into three branches"
+    },
+    
+  {
+    "question": "What is government?",
+    "choices": ["A system of rules", "An organization that exercises authority over a community", "A political party", "A social club"],
+    "correctAnswer": "An organization that exercises authority over a community"
+  },
+  {
+    "question": "Which type of government is ruled by one person?",
+    "choices": ["Democracy", "Monarchy", "Oligarchy", "Anarchy"],
+    "correctAnswer": "Monarchy"
+  },
+  {
+    "question": "Which type of government is ruled by a small group of people?",
+    "choices": ["Democracy", "Monarchy", "Oligarchy", "Anarchy"],
+    "correctAnswer": "Oligarchy"
+  },
+  {
+    "question": "Which type of government is ruled by the people?",
+    "choices": ["Monarchy", "Oligarchy", "Democracy", "Dictatorship"],
+    "correctAnswer": "Democracy"
+  },
+  {
+    "question": "Which type of government has no recognized authority or ruler?",
+    "choices": ["Democracy", "Anarchy", "Monarchy", "Oligarchy"],
+    "correctAnswer": "Anarchy"
+  },
+  {
+    "question": "What is a constitution?",
+    "choices": ["A political party", "A set of fundamental laws that govern a country", "A type of government", "An international treaty"],
+    "correctAnswer": "A set of fundamental laws that govern a country"
+  },
+  {
+    "question": "Which of the following is a function of government?",
+    "choices": ["Maintaining law and order", "Providing public services", "Defending the nation", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is democracy?",
+    "choices": ["Government by the people", "Government by a king", "Government by the army", "Government by a single leader"],
+    "correctAnswer": "Government by the people"
+  },
+  {
+    "question": "Which form of democracy allows citizens to vote directly on laws?",
+    "choices": ["Representative democracy", "Direct democracy", "Monarchy", "Oligarchy"],
+    "correctAnswer": "Direct democracy"
+  },
+  {
+    "question": "Which form of democracy elects representatives to make laws?",
+    "choices": ["Direct democracy", "Representative democracy", "Monarchy", "Dictatorship"],
+    "correctAnswer": "Representative democracy"
+  },
+  {
+    "question": "What is a federal system of government?",
+    "choices": ["Government where powers are divided between central and regional authorities", "Government ruled by one person", "Government ruled by the people directly", "Government with no authority"],
+    "correctAnswer": "Government where powers are divided between central and regional authorities"
+  },
+  {
+    "question": "What is a unitary system of government?",
+    "choices": ["Government with central authority controlling the whole nation", "Government ruled by one person", "Government where power is divided", "Government by a small group"],
+    "correctAnswer": "Government with central authority controlling the whole nation"
+  },
+  {
+    "question": "Which branch of government makes laws?",
+    "choices": ["Executive", "Legislature", "Judiciary", "Military"],
+    "correctAnswer": "Legislature"
+  },
+  {
+    "question": "Which branch of government enforces laws?",
+    "choices": ["Executive", "Legislature", "Judiciary", "Legislative council"],
+    "correctAnswer": "Executive"
+  },
+  {
+    "question": "Which branch of government interprets laws?",
+    "choices": ["Executive", "Legislature", "Judiciary", "Monarchy"],
+    "correctAnswer": "Judiciary"
+  },
+  {
+    "question": "What is separation of powers?",
+    "choices": ["Division of government into executive, legislature, and judiciary", "Government controlled by one person", "Government where people vote directly", "Government without laws"],
+    "correctAnswer": "Division of government into executive, legislature, and judiciary"
+  },
+  {
+    "question": "What is the rule of law?",
+    "choices": ["Law applies only to rulers", "Law applies equally to all citizens", "Law can be ignored by government", "Law is determined by tradition"],
+    "correctAnswer": "Law applies equally to all citizens"
+  },
+  {
+    "question": "What is sovereignty?",
+    "choices": ["Authority of a state to govern itself", "Government ruled by a monarch", "Power shared by many nations", "Absence of government"],
+    "correctAnswer": "Authority of a state to govern itself"
+  },
+  {
+    "question": "Which is an example of a constitutional monarchy?",
+    "choices": ["United Kingdom", "Saudi Arabia", "North Korea", "Cuba"],
+    "correctAnswer": "United Kingdom"
+  },
+  {
+    "question": "Which is an example of a dictatorship?",
+    "choices": ["North Korea", "United States", "Canada", "India"],
+    "correctAnswer": "North Korea"
+  },
+  {
+    "question": "What is an election?",
+    "choices": ["Process of selecting leaders through voting", "Making laws", "Judicial review", "Government budget planning"],
+    "correctAnswer": "Process of selecting leaders through voting"
+  },
+  {
+    "question": "What is a political party?",
+    "choices": ["Organization that contests elections to gain political power", "A branch of government", "A public service institution", "An international organization"],
+    "correctAnswer": "Organization that contests elections to gain political power"
+  },
+  {
+    "question": "Which of the following is a fundamental right?",
+    "choices": ["Right to life", "Right to vote", "Right to education", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is civil service?",
+    "choices": ["Permanent professional branches of government administration", "Political party members", "Judges only", "Military officers"],
+    "correctAnswer": "Permanent professional branches of government administration"
+  },
+  {
+    "question": "What is the function of the legislature?",
+    "choices": ["Make laws", "Enforce laws", "Interpret laws", "Provide education"],
+    "correctAnswer": "Make laws"
+  },
+  {
+    "question": "What is the function of the executive?",
+    "choices": ["Make laws", "Enforce laws", "Interpret laws", "Control elections"],
+    "correctAnswer": "Enforce laws"
+  },
+  {
+    "question": "What is the function of the judiciary?",
+    "choices": ["Make laws", "Enforce laws", "Interpret laws", "Manage elections"],
+    "correctAnswer": "Interpret laws"
+  },
+  {
+    "question": "What is a referendum?",
+    "choices": ["Direct vote by citizens on a specific issue", "Election of a president", "Making laws in parliament", "Judicial decision"],
+    "correctAnswer": "Direct vote by citizens on a specific issue"
+  },
+  {
+    "question": "Which type of democracy allows citizens to participate directly in decision-making?",
+    "choices": ["Direct democracy", "Representative democracy", "Monarchy", "Oligarchy"],
+    "correctAnswer": "Direct democracy"
+  },
+  {
+    "question": "Which type of democracy allows citizens to elect representatives?",
+    "choices": ["Direct democracy", "Representative democracy", "Monarchy", "Oligarchy"],
+    "correctAnswer": "Representative democracy"
+  },
+  {
+    "question": "What is impeachment?",
+    "choices": ["Process of charging a public official with misconduct", "Election of a leader", "Judicial review", "Passing a law"],
+    "correctAnswer": "Process of charging a public official with misconduct"
+  },
+  {
+    "question": "What is bureaucracy?",
+    "choices": ["Administrative system governing any large institution", "Political party", "Judicial council", "Legislature committee"],
+    "correctAnswer": "Administrative system governing any large institution"
+  },
+  {
+    "question": "What is a bill?",
+    "choices": ["Proposed law presented to legislature for approval", "Executive order", "Judicial ruling", "Government regulation"],
+    "correctAnswer": "Proposed law presented to legislature for approval"
+  },
+  {
+    "question": "What is a veto?",
+    "choices": ["Power of president to reject a bill", "Power of legislature to pass law", "Judicial review", "Election of officials"],
+    "correctAnswer": "Power of president to reject a bill"
+  },
+  {
+    "question": "What is a coalition government?",
+    "choices": ["Government formed by alliance of multiple parties", "Government ruled by one party", "Military government", "Government without legislature"],
+    "correctAnswer": "Government formed by alliance of multiple parties"
+  },
+  {
+    "question": "What is an oligarchy?",
+    "choices": ["Government ruled by a few people", "Government ruled by the people", "Government ruled by one person", "Government without authority"],
+    "correctAnswer": "Government ruled by a few people"
+  },
+  {
+    "question": "What is a monarchy?",
+    "choices": ["Government ruled by a king or queen", "Government ruled by citizens", "Government ruled by army", "Government without laws"],
+    "correctAnswer": "Government ruled by a king or queen"
+  },
+  {
+    "question": "What is a republic?",
+    "choices": ["Government where people elect representatives", "Government ruled by king", "Government ruled by a few", "Government without laws"],
+    "correctAnswer": "Government where people elect representatives"
+  },
+  {
+    "question": "What is civic responsibility?",
+    "choices": ["Duties of citizens such as voting and obeying laws", "Rights of citizens only", "Government duties", "Judicial powers"],
+    "correctAnswer": "Duties of citizens such as voting and obeying laws"
+  },
+  {
+    "question": "What is federalism?",
+    "choices": ["Division of powers between national and state governments", "Government ruled by one person", "Government without laws", "Government ruled by citizens directly"],
+    "correctAnswer": "Division of powers between national and state governments"
+  },
+  {
+    "question": "What is the role of opposition in government?",
+    "choices": ["Critique government policies", "Propose alternatives", "Hold government accountable", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is an authoritarian government?",
+    "choices": ["Government with strong central power and limited political freedoms", "Government ruled by citizens", "Government ruled by small group", "Government without authority"],
+    "correctAnswer": "Government with strong central power and limited political freedoms"
+  },
+  {
+    "question": "Which is a function of local government?",
+    "choices": ["Provide basic services like water, sanitation, and roads", "Make international treaties", "Control military", "Regulate national trade"],
+    "correctAnswer": "Provide basic services like water, sanitation, and roads"
+  },
+  {
+    "question": "What is judicial review?",
+    "choices": ["Power of courts to examine laws and actions for constitutionality", "Process of electing representatives", "Executive decision-making", "Legislative process"],
+    "correctAnswer": "Power of courts to examine laws and actions for constitutionality"
+  },
+  {
+    "question": "Which principle ensures no branch of government becomes too powerful?",
+    "choices": ["Separation of powers", "Federalism", "Sovereignty", "Civil rights"],
+    "correctAnswer": "Separation of powers"
+  },
+  {
+    "question": "What is a constitutionally protected right?",
+    "choices": ["Right guaranteed by the constitution", "Government privilege", "Executive power", "Tax exemption"],
+    "correctAnswer": "Right guaranteed by the constitution"
+  },
+  {
+    "question": "What is a plebiscite?",
+    "choices": ["Direct vote of the electorate on an important public question", "Election of a president", "Legislative vote", "Judicial decision"],
+    "correctAnswer": "Direct vote of the electorate on an important public question"
+  },
+  {
+    "question": "Which of these is a democratic principle?",
+    "choices": ["Majority rule", "Free and fair elections", "Protection of minority rights", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is a civil society?",
+    "choices": ["Organizations outside of government that represent citizens' interests", "Government agencies", "Political parties only", "Judiciary"],
+    "correctAnswer": "Organizations outside of government that represent citizens' interests"
+  },
+  {
+    "question": "What is accountability in government?",
+    "choices": ["Government being responsible to the people for its actions", "Government making laws", "Judiciary enforcing law", "Political campaigns"],
+    "correctAnswer": "Government being responsible to the people for its actions"
+  },
+  {
+    "question": "What is a public policy?",
+    "choices": ["Plan of action adopted by government to solve problems", "Election procedure", "Judicial ruling", "Political party manifesto"],
+    "correctAnswer": "Plan of action adopted by government to solve problems"
+  },
+  {
+    "question": "What is a referendum used for?",
+    "choices": ["Allow citizens to vote directly on a law or issue", "Elect a president", "Pass a bill in legislature", "Judicial review"],
+    "correctAnswer": "Allow citizens to vote directly on a law or issue"
+  },
+  {
+    "question": "What is a coalition?",
+    "choices": ["Alliance of political parties to form government", "Opposition party", "Executive branch", "Judiciary"],
+    "correctAnswer": "Alliance of political parties to form government"
+  },
+  {
+    "question": "What is a manifesto?",
+    "choices": ["Public declaration of policies by a political party", "Law passed by legislature", "Executive order", "Judicial ruling"],
+    "correctAnswer": "Public declaration of policies by a political party"
+  },
+  {
+    "question": "What is governance?",
+    "choices": ["Process of decision-making and implementation in government", "Election process", "Judicial process", "Legislative session"],
+    "correctAnswer": "Process of decision-making and implementation in government"
+  },
+  {
+    "question": "Which type of democracy ensures citizens can vote regularly and freely?",
+    "choices": ["Liberal democracy", "Authoritarianism", "Oligarchy", "Monarchy"],
+    "correctAnswer": "Liberal democracy"
+  },
+  {
+    "question": "Which is a key feature of a democratic government?",
+    "choices": ["Citizen participation", "Rule of law", "Protection of rights", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which of the following is an example of a local government official?",
+    "choices": ["Mayor", "President", "Prime Minister", "Chief Justice"],
+    "correctAnswer": "Mayor"
+  },
+  {
+    "question": "Which government system allows states or regions to have their own laws?",
+    "choices": ["Federal system", "Unitary system", "Monarchy", "Oligarchy"],
+    "correctAnswer": "Federal system"
+  },
+  {
+    "question": "What is political power?",
+    "choices": ["Ability to influence or control government policies and actions", "Social influence only", "Economic influence only", "Judicial authority only"],
+    "correctAnswer": "Ability to influence or control government policies and actions"
+  }
+
+
+
+
+
+
+  
+  ]
+}
+
+

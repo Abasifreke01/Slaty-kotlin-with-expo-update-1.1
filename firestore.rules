@@ -1,0 +1,207 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /* ================================
+       🔐 Helper Functions
+       ================================ */
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function getRole() {
+      return get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role;
+    }
+
+    function isTutor() {
+      return isSignedIn() && getRole() == "tutor";
+    }
+
+    function isStudent() {
+      return isSignedIn() && getRole() == "student";
+    }
+
+
+    /* ================================
+       👤 USERS
+       ================================ */
+    match /users/{userId} {
+
+      allow create: if isSignedIn();
+
+      allow read: if isSignedIn(); // Allow listing tutors and viewing profiles
+
+      allow update, delete:
+        if isSignedIn() && request.auth.uid == userId;
+
+      /* ---- Results (Students only) ---- */
+      match /results/{resultId} {
+        allow read, create, update, delete:
+          if isSignedIn() &&
+             request.auth.uid == userId &&
+             isStudent();
+      }
+    }
+
+
+    /* ================================
+       📘 SUBJECTS
+       ================================ */
+    match /subjects/{subjectId} {
+
+      allow read: if isSignedIn();
+
+      // Tutors only
+      allow write: if isTutor();
+
+      match /questions/{questionId} {
+        allow read: if isSignedIn();
+        allow write: if isTutor();
+      }
+    }
+
+
+    /* ================================
+        TASKS (NEW)
+       ================================ */
+    match /task/{taskId} {
+      allow create: if isSignedIn();
+      allow read: if isSignedIn();
+      allow update: if isSignedIn() && (
+        // Allow accepting a task (transition from pending to accepted)
+        (resource.data.status == 'pending' && request.resource.data.status == 'accepted') ||
+        // Allow completing a task (only by the tutor who accepted it)
+        (resource.data.status == 'accepted' && 
+         request.resource.data.status == 'completed' && 
+         resource.data.acceptedBy == request.auth.uid)
+      );
+    }
+
+    match /tasks/{taskId} {
+      allow create: if isSignedIn();
+      allow read: if isSignedIn();
+      allow update: if isSignedIn() && (
+        (resource.data.status == 'pending' && request.resource.data.status == 'accepted') ||
+        (resource.data.status == 'accepted' && 
+         request.resource.data.status == 'completed' && 
+         resource.data.acceptedBy == request.auth.uid)
+      );
+    }
+
+
+    /* ================================
+       📝 TESTS
+       ================================ */
+    match /tests/{testId} {
+
+      allow read: if isSignedIn();
+
+      allow create:
+        if isTutor() &&
+           request.resource.data.tutorId == request.auth.uid;
+
+      allow update, delete:
+        if isTutor() &&
+           resource.data.tutorId == request.auth.uid;
+    }
+
+
+    /* ================================
+       🌐 COMMUNITIES
+       ================================ */
+    match /communities/{communityId} {
+
+      allow read, create, update: if isSignedIn(); // Allow updating unread counts and snippets
+
+      allow delete:
+        if isSignedIn() &&
+           request.auth.uid == resource.data.ownerId;
+
+      match /messages/{messageId} {
+        allow read, create: if isSignedIn();
+      }
+    }
+
+
+    /* ================================
+       💬 PRIVATE CHATS
+       ================================ */
+    match /privateChats/{chatId} {
+      allow read: if isSignedIn(); // Allow checking if chat exists
+      allow update: if isSignedIn() && request.auth.uid in resource.data.participants;
+      allow create: if isSignedIn() && request.auth.uid in request.resource.data.participants;
+
+      match /messages/{messageId} {
+        allow read: if isSignedIn(); // Broaden read for messages, restricted by chat participants logic in app
+        allow create: if isSignedIn() && request.auth.uid == request.resource.data.senderId;
+      }
+    }
+
+
+    /* ================================
+       📥 REQUESTS
+       ================================ */
+    match /requests/{requestId} {
+
+      allow read: if isSignedIn();
+
+      allow create:
+        if isSignedIn() &&
+           request.auth.uid == request.resource.data.userId;
+    }
+
+
+    /* ================================
+       💳 PAYMENTS (ALL PAYMENTS)
+       ================================ */
+    match /payments/{paymentId} {
+
+      // User can read their own payment
+      allow read:
+        if isSignedIn() &&
+           request.auth.uid == resource.data.userId;
+
+      // ❌ Clients can NEVER write payments
+      allow write: if false;
+    }
+
+
+    /* ================================
+       🎓 CLASSES (BROWSER LINKS)
+       ================================ */
+    match /classes/{token} {
+
+      // Anyone (browser or app) can read if class not expired
+      allow read:
+        if resource.data.expiresAt > request.time.toMillis();
+
+      // ❌ No client writes
+      // Backend (Admin SDK) bypasses rules
+      allow write: if false;
+    }
+
+
+    /* ================================
+       🎥 LIVE VIDEO CLASSES & ROOMS (MULTI-DEVICE)
+       ================================ */
+    match /live_classes/{classId} {
+      allow read, create, update: if isSignedIn();
+    }
+
+    match /live_rooms/{roomCode}/{document=**} {
+      allow read, write: if isSignedIn();
+    }
+
+
+    /* ================================
+       📨 LEGACY MESSAGES
+       ================================ */
+    match /messages/{messageId} {
+
+      allow read, write:
+        if isSignedIn() &&
+           (request.auth.uid == resource.data.senderId ||
+            request.auth.uid == resource.data.receiverId);
+    }
+  }
+}

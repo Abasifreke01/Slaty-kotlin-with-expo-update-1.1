@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "461836331622",
+    "project_id": "slaty-b383b",
+    "storage_bucket": "slaty-b383b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461836331622:android:af1cc9b9474fdef3655ba7",
+        "android_client_info": {
+          "package_name": "com.AbasifrekeEyo.slaty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461836331622-i7ftdrv0qk23rc4s66o5up7k966k9n53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AbasifrekeEyo.slaty",
+            "certificate_hash": "c38f9085052b01e0dee37bfe9bec7cd867c7e352"
+          }
+        },
+        {
+          "client_id": "461836331622-u0mmepcuaqg6nppl1d69p5p1b5o4ij29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AbasifrekeEyo.slaty",
+            "certificate_hash": "0fb9a6467c882129eda7d02935ff07f9061f8246"
+          }
+        },
+        {
+          "client_id": "461836331622-8p0k91ea8f7dk12s5jd6dupe25sffv3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmYKjuVdz6Fzz3fxT9jztPsppZCt-3Lzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461836331622-8p0k91ea8f7dk12s5jd6dupe25sffv3n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461836331622-7i0p6894hvlc8ba0hin1vqscvh0a92gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AbasifrekeEyo.slaty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

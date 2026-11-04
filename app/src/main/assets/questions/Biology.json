@@ -1,0 +1,3795 @@
+[
+    {
+        "subject": "Biology",
+        "question": "What type of fruit is formed from a single flower having several free carpels?",
+        "options": {
+            "option1": "multiple fruit",
+            "option2": "Simple fruit",
+            "option3": "Aggregate fruit",
+            "option4": "Dehiscent fruit",
+            "option5": "Indehiscent fruit"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "A 28g soil sample was heated to a constant weight of 24g. When further heated to red hot and cooled, it weighed 18g. What is the percentage of humus in the soil?",
+        "options": {
+            "option1": "22.2",
+            "option2": "55.6",
+            "option3": "75.0",
+            "option4": "25.9",
+            "option5": "35.7"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following diseases is NOT caused by a virus?",
+        "options": {
+            "option1": "Rinderpest",
+            "option2": "Maize rust",
+            "option3": "Newcastle disease",
+            "option4": "Swine fever",
+            "option5": "Cassava mosaic disease"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "A centipede differs from a millipede by its",
+        "options": {
+            "option1": "colour",
+            "option2": "numerous abdominal segments",
+            "option3": "paired legs on each abdominal segment",
+            "option4": "poison claws",
+            "option5": "cylindrical body"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "An organism having one pair of identical genes is",
+        "options": {
+            "option1": "a heterozygote",
+            "option2": "a hybrid",
+            "option3": "an allelomorph",
+            "option4": "a homozygote",
+            "option5": "a diploid"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Plants which can survive in places where the water supply is limited are",
+        "options": {
+            "option1": "bryophytes",
+            "option2": "mesophytes",
+            "option3": "xerophytes",
+            "option4": "hydrophytes",
+            "option5": "pteridophytes"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Banana, plantain and pineapple can be grouped together because they",
+        "options": {
+            "option1": "produce small seeds",
+            "option2": "are multiple fruits",
+            "option3": "produce suckers",
+            "option4": "have runners",
+            "option5": "have bulbils"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "One disease NOT caused directly by bacteria is",
+        "options": {
+            "option1": "malaria",
+            "option2": "tuberculosis",
+            "option3": "pneumonia",
+            "option4": "tetanus",
+            "option5": "cholera"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In what order do the following structures develop during the metamorphosis of the toad? 1. External gills 2. Internal gills 3. Forelimbs 4. Hind limbs 5. Mouth.",
+        "options": {
+            "option1": "1 2 3 4 5",
+            "option2": "1 5 2 4 3",
+            "option3": "1 3 4 5",
+            "option4": "5 3 4 1 2",
+            "option5": "5 4 3 2 1"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The dental formula i 3/3: c 1/1: pm 4/4: m 2/3 = 42 represents that of a",
+        "options": {
+            "option1": "rabbit",
+            "option2": "full grown man",
+            "option3": "young child",
+            "option4": "dog",
+            "option5": "sheep"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements is NOT true of insectivorous plants?",
+        "options": {
+            "option1": "They obtain part of their food by trapping and feeding on insects",
+            "option2": "They attract insects simply because of pollination.",
+            "option3": "They can grow in soils poor in nitrogenous salts.",
+            "option4": "They can supplement the nitrogen supply by feeding on insects",
+            "option5": "Examples include butterworts, sundews and pitcher plants."
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of these worms is beneficial to man?",
+        "options": {
+            "option1": "Hookworm",
+            "option2": "Tapeworm",
+            "option3": "Roundworm",
+            "option4": "Earthworm",
+            "option5": "Guinea worm"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Starting from the skull end, the vertebrae are arranged in the following order:",
+        "options": {
+            "option1": "axis, atlas, cervical, thoracic and lumbar",
+            "option2": "atlas, cervical, axis, thoracic and lumbar",
+            "option3": "atlas, axis, thoracic, cervical and lumbar",
+            "option4": "atlas, axis, cervical, thoracic and lumbar",
+            "option5": "atlas, thoracic, cervical, axis and lumbar"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following diseases could be exclusively associated with a river basin?",
+        "options": {
+            "option1": "Malaria",
+            "option2": "Syphilis",
+            "option3": "Onchocerciasis",
+            "option4": "Cholera",
+            "option5": "Poliomyelitis"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following represents the evolutionary sequence in these plants? 1. Flowering plants, 2. Ferns, 3. Mosses, 4. Algae, 5. Conifers.",
+        "options": {
+            "option1": "2 → 1 → 4 → 3 → 5",
+            "option2": "5 → 4 → 3 → 2 → 1",
+            "option3": "2 → 4 → 5 → 1 → 3",
+            "option4": "3 → 2 → 4 → 5 → 1",
+            "option5": "4 → 3 → 2 → 5 → 1"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following will NOT allow osmosis to take place?",
+        "options": {
+            "option1": "pig’s bladder",
+            "option2": "Cellophane",
+            "option3": "Parchment paper",
+            "option4": "Transparent polythene",
+            "option5": "Cow’s bladder"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements on the mammalian circulatory system is NOT true?",
+        "options": {
+            "option1": "Blood in the pulmonary artery is richer in oxygen content than blood in the pulmonary vein",
+            "option2": "The blood in the hepatic portal vein is the richest in food substances.",
+            "option3": "Blood flow is controlled by valves in the veins",
+            "option4": "Arteries are generally thicker and larger than veins.",
+            "option5": "Fibrin helps in the formation of blood clot."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In a positive phototropic response of a coleoptile, the region of greatest curvature is brought about by the",
+        "options": {
+            "option1": "movement of auxins away from the region of curvature",
+            "option2": "even distribution of auxins in all parts of the coleoptile",
+            "option3": "inhibition of growth by auxins in the region of smaller curvature",
+            "option4": "concentration of auxins in the region of curvature",
+            "option5": "absence of auxins in the coleoptile"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The tuber of cassava is NOT a stem tuber because it",
+        "options": {
+            "option1": "is distended with food reserve",
+            "option2": "has an aerial shoot portion",
+            "option3": "has other structures that could be called roots",
+            "option4": "lacks axillary buds",
+            "option5": "has a bark over its stored food"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The function of the ossicles (malleus, incus and stapes) in the mammalian ear is the",
+        "options": {
+            "option1": "transmission of vibrations",
+            "option2": "regulation of pressures",
+            "option3": "support of the inner ear",
+            "option4": "maintenance of balance during motion",
+            "option5": "secretion of oil"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following instruments is used for determining turbidity of water?",
+        "options": {
+            "option1": "Thermometer",
+            "option2": "Secchi Disc",
+            "option3": "Rain gauge",
+            "option4": "Hygrometer",
+            "option5": "Wind vane"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is NOT a characteristic of monocot plants?",
+        "options": {
+            "option1": "occurrence of secondary thickening",
+            "option2": "Parallel venation",
+            "option3": "Scattered vascular bundles",
+            "option4": "Floral parts arranged in threes",
+            "option5": "Perianth is usually insignificant"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which sequence represents the correct order of organisms in a food chain? 1. Toad, 2. Mucuna, 3. Grasshopper, 4. Snake, 5. Hawk.",
+        "options": {
+            "option1": "5 4 1 3 2",
+            "option2": "1 2 3 4 5",
+            "option3": "2 1 3 4 5",
+            "option4": "2 3 1 5 4",
+            "option5": "2 3 1 4 5"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In Rhizopus, carbohydrate is stored in the form of",
+        "options": {
+            "option1": "glucose",
+            "option2": "paramylon",
+            "option3": "glycogen",
+            "option4": "starch",
+            "option5": "oil"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements about the rate of transpiration is INCORRECT?",
+        "options": {
+            "option1": "dependent on temperature",
+            "option2": "affected by changes in light intensity",
+            "option3": "unaffected by humidity",
+            "option4": "dependent on air movement",
+            "option5": "affected by availability of water"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "‘Jointed skeleton’ is absent in the",
+        "options": {
+            "option1": "cockroach",
+            "option2": "spider",
+            "option3": "millipede",
+            "option4": "snail",
+            "option5": "dragonfly"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements about the definition of man is Incorrect?",
+        "options": {
+            "option1": "Man has more molars than incisors",
+            "option2": "Man has no diastema",
+            "option3": "Man has the same number of teeth on upper and lower jaws",
+            "option4": "Man has a total of thirty-two teeth",
+            "option5": "Man has a total of six molars"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "When a Spirogyra cell is immersed in a salt solution more concentrated than its cell sap, it",
+        "options": {
+            "option1": "remains unchanged",
+            "option2": "takes up water and bursts",
+            "option3": "absorbs a little water",
+            "option4": "loses water and shrivels",
+            "option5": "becomes turgid"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Urea is produced in the",
+        "options": {
+            "option1": "liver",
+            "option2": "ladder",
+            "option3": "spleen",
+            "option4": "kidneys",
+            "option5": "gall bladder"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "What is the genetic ratio of the F2 generation if members of the F1 generation are allowed to self-pollinate?",
+        "options": {
+            "option1": "1 tall: 3 short",
+            "option2": "3 tall: 1 short",
+            "option3": "1 tall: 1 short",
+            "option4": "4 shorts: 0 tall",
+            "option5": "4 tall: 0 short"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The path taken by glucose from the ileum to the heart is",
+        "options": {
+            "option1": "ileum → hepatic portal vein → hepatic artery → vena cava → heart",
+            "option2": "ileum → hepatic portal artery → hepatic artery → vena cava → heart",
+            "option3": "ileum → hepatic portal vein → vena cava → heart",
+            "option4": "ileum → hepatic vein → vena cava → heart",
+            "option5": "ileum → hepatic portal vein → hepatic vein → vena cava → heart"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The mouth part of the housefly are adapted for",
+        "options": {
+            "option1": "lapping and sponging",
+            "option2": "sucking and chewing",
+            "option3": "piercing and sucking",
+            "option4": "chewing and lapping",
+            "option5": "biting and chewing"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The male toad differs from the female by having",
+        "options": {
+            "option1": "vocal sacs",
+            "option2": "shorter hind limbs",
+            "option3": "longer fore limbs",
+            "option4": "bulging eyes",
+            "option5": "nictitating membrane"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Mosses, liverworts and ferns can be grouped together because they",
+        "options": {
+            "option1": "are all aquatic plants",
+            "option2": "all grow in deserts",
+            "option3": "are seedless plants",
+            "option4": "have undifferentiated plant bodies",
+            "option5": "all produce colourless flowers"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Spirogyra and Mucor can be grouped together as Thallophyta because",
+        "options": {
+            "option1": "they are unicellular organisms",
+            "option2": "their spores could be dispersed by wind",
+            "option3": "they are capable of living independent lives",
+            "option4": "they reproduce sexually only",
+            "option5": "their bodies are made up of thallus and filaments alternatively"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following invertebrates does NOT possess antennae?",
+        "options": {
+            "option1": "Centipede",
+            "option2": "Crustacean",
+            "option3": "Millipede",
+            "option4": "Insect",
+            "option5": "Spider"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is INCORRECT? The prothallus of a fern",
+        "options": {
+            "option1": "is a flattened heart-shaped structure",
+            "option2": "is green because its cells contain chloroplasts",
+            "option3": "is the dominant plant",
+            "option4": "bears the sexual organs",
+            "option5": "is attached to the ground by numerous rhizoids"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following cell constituents is NOT common in both plants and animals?",
+        "options": {
+            "option1": "Mitochondria",
+            "option2": "Chloroplasts",
+            "option3": "Ribosomes",
+            "option4": "Golgi apparatus",
+            "option5": "Vacuoles"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The character-producing factors in living organisms are",
+        "options": {
+            "option1": "chromomeres",
+            "option2": "alleles",
+            "option3": "chromatids",
+            "option4": "chromosomes",
+            "option5": "genes"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "A mixture of mercurous and mercuric nitrates is added to a food substance. A white precipitate is formed which on gentle heating turns red. The food substance is",
+        "options": {
+            "option1": "protein",
+            "option2": "oil",
+            "option3": "carbohydrate",
+            "option4": "fat",
+            "option5": "fatty acid"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The mammalian organ through which nourishment and oxygen diffuse into a developing embryo is called",
+        "options": {
+            "option1": "amnion",
+            "option2": "chorion",
+            "option3": "umbilical cord",
+            "option4": "oviduct",
+            "option5": "placenta"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Osmosis can be defined as the movement of",
+        "options": {
+            "option1": "molecules from solution of high concentration to low concentration",
+            "option2": "molecules from solution of low concentration to high concentration",
+            "option3": "water from solution of high concentration to low concentration",
+            "option4": "water across a semi-permeable membrane from solution of low concentration to high concentration",
+            "option5": "water across a semi-permeable membrane from solution of high concentration to low concentration"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements is NOT true of enzymes? They",
+        "options": {
+            "option1": "are proteins",
+            "option2": "need cofactors to activate them",
+            "option3": "are sensitive to hydrogen ion concentration",
+            "option4": "are specific in their action",
+            "option5": "can withstand high temperatures"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "The dorsal and anal fins of fish are used for",
+        "options": {
+            "option1": "upward movements",
+            "option2": "controlling rolling movements",
+            "option3": "downward movements",
+            "option4": "steering",
+            "option5": "buoyancy"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Exoskeleton is NOT found in the",
+        "options": {
+            "option1": "maggot",
+            "option2": "mosquito larva",
+            "option3": "earthworm",
+            "option4": "caterpillar",
+            "option5": "termite"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Blood clotting is initiated by",
+        "options": {
+            "option1": "leucocytes",
+            "option2": "platelets",
+            "option3": "haemolymph",
+            "option4": "haemoglobin",
+            "option5": "erythrocytes"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Pepsin is a digestive enzyme which breaks",
+        "options": {
+            "option1": "cellulose into glucose molecules",
+            "option2": "carbohydrates into simple sugars",
+            "option3": "protein into peptones",
+            "option4": "fats into glycerol and fatty acids",
+            "option5": "sucrose into glucose and fructose"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Anaerobic respiration in yeast produces",
+        "options": {
+            "option1": "carbon dioxide and ethanol",
+            "option2": "carbon dioxide and water",
+            "option3": "carbon dioxide and oxygen",
+            "option4": "carbon dioxide and glucose",
+            "option5": "ethanol and water"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Underground stems which grow horizontally through the soil are",
+        "options": {
+            "option1": "bulbs",
+            "option2": "rhizomes",
+            "option3": "runners",
+            "option4": "corms",
+            "option5": "stolons"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "A man with a normal haemoglobin (AA) marries a woman who has sickle-cell haemoglobin (SS). They have a child who has sickle-cell trait. Which of the following genotypes could be associated with the child’s haemoglobin?",
+        "options": {
+            "option1": "AA",
+            "option2": "OO",
+            "option3": "AO",
+            "option4": "AS",
+            "option5": "SS"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In a Biuret test, some protein was mixed with sodium hydroxide solution. Which of the following chemicals should be added to the mixture for a positive result?",
+        "options": {
+            "option1": "Mercurous nitrate",
+            "option2": "Copper sulfate",
+            "option3": "Mercuric nitrate",
+            "option4": "Sodium carbonate",
+            "option5": "Ammonium hydroxide"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The removal of a man’s pancreas by surgical operation can affect only the digestion of",
+        "options": {
+            "option1": "starch",
+            "option2": "starch, protein and fats",
+            "option3": "oils and fats",
+            "option4": "proteins",
+            "option5": "carbohydrate and fats"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The parts used by tapeworm to fasten itself to the host’s intestine are the",
+        "options": {
+            "option1": "neck and suckers",
+            "option2": "hooks and suckers",
+            "option3": "rostellum and suckers",
+            "option4": "young proglottis and neck",
+            "option5": "rostellum, hooks and suckers"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following types of vertebrate occur in equal numbers in the rabbit, rat and man?",
+        "options": {
+            "option1": "Caudal",
+            "option2": "Thoracic",
+            "option3": "Lumbar",
+            "option4": "Cervical",
+            "option5": "Sacral"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements is NOT true of the piliferous layer of a root? It",
+        "options": {
+            "option1": "has a very thin cuticle",
+            "option2": "is the outermost layer of the cortex",
+            "option3": "may bear root hairs",
+            "option4": "breaks down as the root ages",
+            "option5": "is replaced by cork in old roots"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "A flowering plant is monoecious if",
+        "options": {
+            "option1": "the androecium is found on one plant",
+            "option2": "the gynoecium is monocarpous",
+            "option3": "it produces essential organs",
+            "option4": "the gynoecium and androecium are on the same plant",
+            "option5": "the flowers are unisexual"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "How many nuclei are found in a pollen tube during fertilization?",
+        "options": {
+            "option1": "2",
+            "option2": "3",
+            "option3": "5",
+            "option4": "6",
+            "option5": "7"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is NOT a waste product of plants?",
+        "options": {
+            "option1": "Tannins",
+            "option2": "Oxygen",
+            "option3": "Carbon dioxide",
+            "option4": "Sap",
+            "option5": "Alkaloids"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "If an animal is very active and has good muscular control, it is likely to have well-developed",
+        "options": {
+            "option1": "olfactory lobes",
+            "option2": "cerebral hemispheres",
+            "option3": "optic lobes",
+            "option4": "cerebellum",
+            "option5": "spinal cord"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following adaptations is NOT concerned with the flight of birds?",
+        "options": {
+            "option1": "Streamlined shape",
+            "option2": "Presence of powerful muscles",
+            "option3": "Reduced body weight",
+            "option4": "Broad sternum",
+            "option5": "Webbed feet"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "The transect method can be used in ecology to show the",
+        "options": {
+            "option1": "number of plants and animals in a habitat",
+            "option2": "population of a plant species",
+            "option3": "distribution of organisms along a line",
+            "option4": "heights of trees in a section of a forest",
+            "option5": "number of young plants across a forest"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Asexual reproduction does NOT occur in",
+        "options": {
+            "option1": "Mucor, Spirogyra and Paramecium",
+            "option2": "Penicillium, Paramecium and Amoeba",
+            "option3": "Mucor, Rhizopus and Penicillium",
+            "option4": "Amoeba, Spirogyra and Mucor",
+            "option5": "Rhizopus, Ascaris and Amoeba"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Fehling’s solution will readily change colour from blue to a reddish colour when it is",
+        "options": {
+            "option1": "mixed with sugar solution in the cold",
+            "option2": "warmed or heated by itself",
+            "option3": "mixed with reducing sugar in the cold",
+            "option4": "warmed or heated with a complex solution",
+            "option5": "warmed with a solution of reducing sugar"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Normally the flow of blood is NEVER from",
+        "options": {
+            "option1": "artery to arterioles",
+            "option2": "arterioles to capillaries",
+            "option3": "capillaries to venules",
+            "option4": "arterioles to the artery",
+            "option5": "venules to the vein"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Heat produced in tissue respiration in plants is",
+        "options": {
+            "option1": "a chemical form of energy",
+            "option2": "the only form of energy",
+            "option3": "the main form of energy",
+            "option4": "a useful form of energy",
+            "option5": "a waste form of energy"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "The axial skeleton of a mammal does not include the bones of the",
+        "options": {
+            "option1": "skull",
+            "option2": "tail",
+            "option3": "limbs",
+            "option4": "back",
+            "option5": "neck"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following sequences represents the process of blood clotting?",
+        "options": {
+            "option1": "4, 3, 2, 1",
+            "option2": "4, 3, 1, 2",
+            "option3": "3, 1, 4, 2",
+            "option4": "1, 2, 3, 4",
+            "option5": "3, 1, 2, 4"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Green plants are important in the ecosystem because they are",
+        "options": {
+            "option1": "primary consumers",
+            "option2": "producers",
+            "option3": "decomposers",
+            "option4": "secondary consumers",
+            "option5": "scavengers"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "An anemometer is an instrument for measuring",
+        "options": {
+            "option1": "relative humidity",
+            "option2": "altitude",
+            "option3": "wind speed",
+            "option4": "turbidity",
+            "option5": "salinity"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is NOT regarded as a pollutant on land or in the air?",
+        "options": {
+            "option1": "Noise",
+            "option2": "Smoke",
+            "option3": "Sulphur dioxide",
+            "option4": "Carbon monoxide",
+            "option5": "Nitrogen"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following groups of factors is completely abiotic?",
+        "options": {
+            "option1": "salinity, tide, plankton, turbidity",
+            "option2": "Temperature, pH, soil insect",
+            "option3": "Wind, altitude, humidity, light",
+            "option4": "Conifers, winds, pH, rainfall",
+            "option5": "Soil, water, bacteria, salinity"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following lists of diseases, their causes and transmission is CORRECT?",
+        "options": {
+            "option1": "Cholera, virus, severe diarrhea, infected water",
+            "option2": "Malaria, protozoan, high fever, contact with infected person",
+            "option3": "Syphilis, virus, venereal disease, sexual intercourse",
+            "option4": "Smallpox, virus, skin with blister, close contact with infected person",
+            "option5": "Sleeping sickness, bacteria, tiredness, headaches and dozing, tsetse fly bite"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Erosion can be reduced along a slope by",
+        "options": {
+            "option1": "ridging across slope",
+            "option2": "ridging up slope",
+            "option3": "ridging down slope",
+            "option4": "crop rotation",
+            "option5": "bush fallowing system"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "If a handful of soil is shaken with water and left to settle, the soil particles will settle from light to heavy particles as follows:",
+        "options": {
+            "option1": "humus, clay, silt, sand, stones",
+            "option2": "humus, silt, clay, sand, stones",
+            "option3": "humus, clay silt, stones, sand",
+            "option4": "humus, sand, silt, clay, stones",
+            "option5": "clay, humus, silt, sand, stones"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Denitrifying bacteria in nature liberate gaseous nitrogen directly from",
+        "options": {
+            "option1": "ammonium salts",
+            "option2": "soil nitrates",
+            "option3": "thunderstorms",
+            "option4": "soil nitrites",
+            "option5": "plant and animal proteins"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Leaching is",
+        "options": {
+            "option1": "washing away of humus from the soil surface",
+            "option2": "reduction of soil aeration by pressure",
+            "option3": "soil erosion by means other than rainfall",
+            "option4": "loss of organic matter due to exposure to direct sunlight",
+            "option5": "washing out of chalk and limestone from upper layers of soil by heavy rains"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The process of soil erosion is usually from",
+        "options": {
+            "option1": "rill sheet gully",
+            "option2": "gully rill sheet",
+            "option3": "sheet gully rill",
+            "option4": "sheet rill gully",
+            "option5": "rill gully sheet"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "In Spirogyra, the pyrenoid",
+        "options": {
+            "option1": "excretes waste products",
+            "option2": "is suspended by cytoplasmic strands",
+            "option3": "is mainly used for respiration",
+            "option4": "usually contains starch",
+            "option5": "makes the plant slimy to touch"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In which of the following groups of animals are flagella and cilia found?",
+        "options": {
+            "option1": "Flatworms",
+            "option2": "Annelids",
+            "option3": "Coelenterates",
+            "option4": "Protozoa",
+            "option5": "Nematodes"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is seed bearing?",
+        "options": {
+            "option1": "Mosses",
+            "option2": "Whistling pine",
+            "option3": "Algal filaments",
+            "option4": "Liverwort",
+            "option5": "Fern fronds"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Each of the following is an arthropod EXCEPT the",
+        "options": {
+            "option1": "crab",
+            "option2": "spider",
+            "option3": "snail",
+            "option4": "millipede",
+            "option5": "cockroach"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "In fish, the sense organs which detect movements in the water are located within the",
+        "options": {
+            "option1": "gills",
+            "option2": "operculum",
+            "option3": "nostrils",
+            "option4": "median fins",
+            "option5": "lateral line"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "Euglena is an autotrophic organism because it",
+        "options": {
+            "option1": "has flagella",
+            "option2": "has plant and animal features",
+            "option3": "is found in water",
+            "option4": "can manufacture its food",
+            "option5": "moves fast"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is NOT true of Mucor? It",
+        "options": {
+            "option1": "contains chlorophyll",
+            "option2": "grows saprophytically",
+            "option3": "bears spores in sporangium",
+            "option4": "consists of hyphae",
+            "option5": "reproduces by conjugation"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Bryophytes are different from flowers because they",
+        "options": {
+            "option1": "live in moist habitats",
+            "option2": "are small plants",
+            "option3": "reproduce sexually and asexually",
+            "option4": "have small leaves",
+            "option5": "have no vascular tissues"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "At what stage in the life history of a toad is its mode of breathing similar to that of a fish?",
+        "options": {
+            "option1": "Tadpole stage",
+            "option2": "External gill stage",
+            "option3": "Adult stage",
+            "option4": "Internal gill stage",
+            "option5": "Larval stage"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In lower plants like mosses, the structure which performs the functions of roots of higher plants is called",
+        "options": {
+            "option1": "root hairs",
+            "option2": "rootlets",
+            "option3": "hyphae",
+            "option4": "rhizoids",
+            "option5": "thalli"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In an angiosperm leaf, the xylem is",
+        "options": {
+            "option1": "beside the phloem",
+            "option2": "surrounded by the phloem",
+            "option3": "above the phloem",
+            "option4": "around the phloem",
+            "option5": "in separate bundles from the phloem"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "A group of similar cells performing the same function is",
+        "options": {
+            "option1": "an organ",
+            "option2": "a system",
+            "option3": "a tissue",
+            "option4": "an organelle",
+            "option5": "an enzyme"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is common to a dicotyledonous stem and a monocotyledonous root?",
+        "options": {
+            "option1": "Medullary rays",
+            "option2": "Central pith",
+            "option3": "Wide cortex",
+            "option4": "Narrow cortex",
+            "option5": "Pericyclic fibres"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following represents the sequence of protein hydrolysis? 1. Polypeptides 2. Amino acids 3. Proteins 4. Peptones",
+        "options": {
+            "option1": "3 → 1 → 2 → 4",
+            "option2": "3 → 2 → 4 → 1",
+            "option3": "3 → 4 → 2 → 1",
+            "option4": "3 → 4 → 1 → 2",
+            "option5": "3 → 1 → 4 → 2"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "A food substance which produces red coloration with Sudan III contains",
+        "options": {
+            "option1": "protein",
+            "option2": "sugar",
+            "option3": "starch",
+            "option4": "cellulose",
+            "option5": "fat"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "If calcium is deficient in food this may cause",
+        "options": {
+            "option1": "anaemia",
+            "option2": "retarded growth",
+            "option3": "sterility",
+            "option4": "goitre",
+            "option5": "beri-beri"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Partially digested food ready to leave the stomach is referred to as",
+        "options": {
+            "option1": "chyme",
+            "option2": "curd",
+            "option3": "glycogen",
+            "option4": "paste",
+            "option5": "roughage"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The function of lymph nodes is to",
+        "options": {
+            "option1": "supply oxygen",
+            "option2": "filter out bacteria",
+            "option3": "form red blood",
+            "option4": "supply amino acids",
+            "option5": "supply simple sugars"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The vein which returns blood from the head and arms to the heart is called",
+        "options": {
+            "option1": "aorta",
+            "option2": "inferior vena cava",
+            "option3": "superior vena cava",
+            "option4": "pulmonary vein",
+            "option5": "pulmonary artery"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Blood platelets are important because they",
+        "options": {
+            "option1": "are amoeboid and nucleated",
+            "option2": "produce antitoxins",
+            "option3": "produce antibodies",
+            "option4": "digest harmful bacteria",
+            "option5": "release thrombin for blood clotting"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Biology",
+        "question": "If a child can receive blood from all donors, he belongs to the blood group",
+        "options": {
+            "option1": "O",
+            "option2": "A",
+            "option3": "B",
+            "option4": "AB",
+            "option5": "AS"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following events does NOT occur during anaerobic respiration of glucose?",
+        "options": {
+            "option1": "Muscle cells produce lactic acid",
+            "option2": "Carbon dioxide is produced",
+            "option3": "Milk bacteria produce lactic acid",
+            "option4": "Energy is not produced",
+            "option5": "Germinating seeds produce alcohol"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Identify which of the following are characteristics of the vertebrate respiratory surface 1. Moist 2. Vascularized 3. Semipermeable 4. Freely permeable 5. Dry",
+        "options": {
+            "option1": "1, 2, 3",
+            "option2": "1, 2, 5",
+            "option3": "2, 3, 5",
+            "option4": "2, 4, 5",
+            "option5": "1, 3, 5"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In mammals, the function of the sebaceous gland is to",
+        "options": {
+            "option1": "produce sweat",
+            "option2": "secrete sodium",
+            "option3": "secrete water",
+            "option4": "produce an oily substance",
+            "option5": "manufacture vitamin D for the skin"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following organs regulates the amount of amino acids and glucose in the body?",
+        "options": {
+            "option1": "Kidney",
+            "option2": "Liver",
+            "option3": "Pancreas",
+            "option4": "Spleen",
+            "option5": "Stomach"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The main function of the structure labelled 2 is to",
+        "options": {
+            "option1": "protect the inner parts of the seed",
+            "option2": "nourish the embryo and the growing parts",
+            "option3": "keep the inner parts moist",
+            "option4": "maintain the shape of the seed"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Gestation in mammals is the period",
+        "options": {
+            "option1": "required for growth after birth",
+            "option2": "between the formation of the foetus and birth",
+            "option3": "of development from zygote to birth",
+            "option4": "before the formation of the zygote"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "If a woman who is a carrier of sickle cell trait (AS) married a man who is a sickler (SS) and they had four children, how many of them would be normal?",
+        "options": {
+            "option1": "Three",
+            "option2": "Two",
+            "option3": "One",
+            "option4": "None"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is an example of discontinuous variation?",
+        "options": {
+            "option1": "Skin coloration",
+            "option2": "Left-handedness",
+            "option3": "Body weight",
+            "option4": "Height"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The hormone which regulates the amount of glucose in the blood is called",
+        "options": {
+            "option1": "adrenalin",
+            "option2": "auxin",
+            "option3": "insulin",
+            "option4": "thyroxine"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "An instrument that can be used to demonstrate phototropism and geotropism in plants is the",
+        "options": {
+            "option1": "auxanometer",
+            "option2": "potometer",
+            "option3": "klinostat",
+            "option4": "photometer"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "In an ecosystem, animals which feed directly on plants are called",
+        "options": {
+            "option1": "secondary consumers",
+            "option2": "primary consumers",
+            "option3": "producers",
+            "option4": "predators"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "In an agricultural ecosystem, the biotic component consists of",
+        "options": {
+            "option1": "crops, pest and beneficial insects",
+            "option2": "crops, temperature and humidity",
+            "option3": "pests, beneficial insects and water",
+            "option4": "crops, water and soil"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of these diseases CANNOT be prevented by immunization?",
+        "options": {
+            "option1": "Poliomyelitis",
+            "option2": "Tuberculosis",
+            "option3": "Cholera",
+            "option4": "Onchocerciasis"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following ecological factors are common to both terrestrial and aquatic habitats?",
+        "options": {
+            "option1": "Rainfall, temperature, light and wind",
+            "option2": "Salinity, rainfall, temperature and light",
+            "option3": "Tides, wind, rainfall and altitude",
+            "option4": "pH, salinity, rainfall and humidity"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In a community, bacteria and fungi are referred to as",
+        "options": {
+            "option1": "producers",
+            "option2": "decomposers",
+            "option3": "scavengers",
+            "option4": "consumers"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The swollen shoot disease of cocoa tree is caused by a",
+        "options": {
+            "option1": "virus",
+            "option2": "fungus",
+            "option3": "bacterium",
+            "option4": "protozoan"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "A large percentage of tropical soils tend to be acidic because they",
+        "options": {
+            "option1": "contain large quantities of potash",
+            "option2": "contain large quantities of lime",
+            "option3": "lose a high proportion of their organic matter to running water",
+            "option4": "lose lime and potash from the top soil through rain action"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The following are methods of soil conservation EXCEPT",
+        "options": {
+            "option1": "contour terracing",
+            "option2": "strip cropping",
+            "option3": "contour ploughing",
+            "option4": "mixed grazing"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Samples of different soil types are packed in glass tubes whose lower ends are plugged with cotton wool. If these tubes are suspended in a trough of water, water will rise highest after a few hours in",
+        "options": {
+            "option1": "sand",
+            "option2": "loam",
+            "option3": "clay",
+            "option4": "humus"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The function of endoplasmic reticulum is",
+        "options": {
+            "option1": "protein synthesis",
+            "option2": "intracellular transport of materials",
+            "option3": "digestion and destruction of foreign bodies",
+            "option4": "production of energy from glucose"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following features of Euglena is found only in animals?",
+        "options": {
+            "option1": "Paramylum granules",
+            "option2": "Flagellum",
+            "option3": "Pellicle",
+            "option4": "Pyrenoid"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "An organism found on a bare rock surface has features of algae and fungi. The organism is",
+        "options": {
+            "option1": "an epiphyte",
+            "option2": "a lichen",
+            "option3": "a bryophyte",
+            "option4": "a fern"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "In a plant exhibiting alternation of generations, the diploid multicellular stage is known as",
+        "options": {
+            "option1": "gametophyte",
+            "option2": "spermatophyte",
+            "option3": "holophyte",
+            "option4": "sporophyte"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "A characteristic that distinguishes bryophytes from flowering plants is the",
+        "options": {
+            "option1": "possession of true stems and leaves",
+            "option2": "ability to reproduce asexually",
+            "option3": "absence of vascular tissues",
+            "option4": "ability to grow in moist habitats"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "A good example of a diploblastic organism is",
+        "options": {
+            "option1": "Amoeba",
+            "option2": "Hydra",
+            "option3": "Earthworm",
+            "option4": "Roundworm"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The function of the clitellum in the earthworm is to",
+        "options": {
+            "option1": "aid digestion",
+            "option2": "prevent desiccation",
+            "option3": "assist locomotion",
+            "option4": "secrete cocoon"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The crayfish is an arthropod because",
+        "options": {
+            "option1": "its body consists of a cephalothorax and an abdomen",
+            "option2": "it has a pair each of antennae and antennules",
+            "option3": "every segment of its body carries a pair of appendages",
+            "option4": "its body is covered with an exoskeleton made of chitin"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The hypha of Rhizopus is said to be coenocytic because it",
+        "options": {
+            "option1": "does not contain chlorophyll",
+            "option2": "has no cross walls",
+            "option3": "is vacuolated",
+            "option4": "stores oil globules"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "In most true ferns, sporangia are grouped into",
+        "options": {
+            "option1": "indusium",
+            "option2": "fronds",
+            "option3": "prothalli",
+            "option4": "sori"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In the reproduction of mosses, water is essential because",
+        "options": {
+            "option1": "they live in moist habitats",
+            "option2": "they cannot reproduce without water",
+            "option3": "the male gametes must swim to fertilize the ovum",
+            "option4": "they produce spores"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "In tapeworm, the two structures that run through the length of the body are the",
+        "options": {
+            "option1": "nerve cord and the excretory duct",
+            "option2": "sperm duct and the nerve cord",
+            "option3": "genital pore and the excretory duct",
+            "option4": "sperm duct and the genital pore"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is NOT a characteristic of snails?",
+        "options": {
+            "option1": "Bilateral symmetry",
+            "option2": "Chitinous exoskeleton",
+            "option3": "Muscular foot",
+            "option4": "Soft unsegmented body in a mantle"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "In the life history of a butterfly, destruction of crops is caused by the",
+        "options": {
+            "option1": "maggot",
+            "option2": "nymph",
+            "option3": "caterpillar",
+            "option4": "pupa"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The correct sequence of tissues in the anatomy of a young dicotyledonous stem from the inside to the outside is",
+        "options": {
+            "option1": "pith, phloem, cambium, xylem, parenchyma, collenchyma and epidermis",
+            "option2": "xylem, phloem, cambium, cortex, endodermis, collenchyma and epidermis",
+            "option3": "pith, xylem, cambium, phloem, collenchyma, parenchyma and epidermis",
+            "option4": "phloem, xylem, cambium, cortex, endodermis, collenchyma and epidermis"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Secondary thickening is initiated in a dicotyledonous stem by the",
+        "options": {
+            "option1": "xylem parenchyma",
+            "option2": "secondary phloem",
+            "option3": "endodermis",
+            "option4": "cambium"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In demonstrating the importance of mineral elements in plants, the culture bottle must be darkened to",
+        "options": {
+            "option1": "prevent algal growth in culture solution",
+            "option2": "allow root growth",
+            "option3": "prevent breakdown of mineral elements",
+            "option4": "prevent photosynthesis in the root"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The vitamin which is important in the formation of the retina pigments is",
+        "options": {
+            "option1": "vitamin A",
+            "option2": "vitamin B",
+            "option3": "vitamin C",
+            "option4": "vitamin D"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following lists of organs is directly involved in nutrition?",
+        "options": {
+            "option1": "Oesophagus, bronchus, stomach, pancreas and anus",
+            "option2": "Spleen, pharynx, duodenum, jejunum and rectum",
+            "option3": "Teeth, oesophagus, ileum, lungs and large intestine",
+            "option4": "Salivary gland, liver, stomach, villi and colon"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In the standard experiment to show that oxygen is given off during photosynthesis, sodium bicarbonate is used to",
+        "options": {
+            "option1": "neutralize the acid in water",
+            "option2": "supply mineral salts to water plant",
+            "option3": "supply carbon dioxide for photosynthesis",
+            "option4": "kill micro-organisms in water"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "One cubic centimeter of lymph is richer than an equal volume of blood",
+        "options": {
+            "option1": "erythrocytes",
+            "option2": "leucocytes",
+            "option3": "amino acid",
+            "option4": "glucose"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The oxidative part of the respiration process takes place in the",
+        "options": {
+            "option1": "mitochondria",
+            "option2": "ribosomes",
+            "option3": "endoplasmic reticulum",
+            "option4": "Golgi bodies"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Fatigue of leg muscles may occur after riding many kilometers on a bicycle because of",
+        "options": {
+            "option1": "insufficient glucose",
+            "option2": "excess carbon dioxide",
+            "option3": "excess protein",
+            "option4": "insufficient oxygen"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The function of the loop of Henle is to",
+        "options": {
+            "option1": "increase the flow of urine",
+            "option2": "concentrate amino acids in the kidney tissue",
+            "option3": "concentrate sodium chloride in the medulla of the kidney",
+            "option4": "increase the volume of urine"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The function of ribosomes in cells is",
+        "options": {
+            "option1": "protein synthesis",
+            "option2": "starch synthesis",
+            "option3": "transport of materials",
+            "option4": "lipid storage"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following structures is common to Euglena, white blood cell and Amoeba?",
+        "options": {
+            "option1": "Vacuole",
+            "option2": "Cell wall",
+            "option3": "Cilia",
+            "option4": "Cell membrane"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The term ‘Thallophyta’ refers to",
+        "options": {
+            "option1": "ferns and mosses",
+            "option2": "algae and fungi",
+            "option3": "mosses and liverworts",
+            "option4": "fungi and ferns"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The following organisms are hermaphrodites EXCEPT",
+        "options": {
+            "option1": "snail",
+            "option2": "taenia",
+            "option3": "schistosoma",
+            "option4": "earthworm"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Parasitic forms are NOT found among",
+        "options": {
+            "option1": "platyhelminthes",
+            "option2": "nematodes",
+            "option3": "molluscs",
+            "option4": "annelids"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following sets of organisms represents the correct trend from simple to complex structural organization? 1 Mollusca 2 Platyhelminthes 3 Nematoda 4 Protozoa",
+        "options": {
+            "option1": "4 1 2 3",
+            "option2": "4 3 2 1",
+            "option3": "4 2 1 3",
+            "option4": "4 2 3 1"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Spirogyra, Euglena and Chlamydomonas share many characteristics EXCEPT",
+        "options": {
+            "option1": "nutrition",
+            "option2": "reproduction",
+            "option3": "mobility",
+            "option4": "irritability"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The prothallus of a fern is equivalent to the gametophyte generation of a moss because it",
+        "options": {
+            "option1": "is inconspicuous",
+            "option2": "has rhizoids",
+            "option3": "bears sexual organs",
+            "option4": "is multicellular"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "What is the function of trichocyst in Paramecium?",
+        "options": {
+            "option1": "Movement",
+            "option2": "Defence",
+            "option3": "Excretion",
+            "option4": "Reproduction"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The long and coiled intestine of a young tadpole is an adaptation to its",
+        "options": {
+            "option1": "herbivorous diet",
+            "option2": "carnivorous diet",
+            "option3": "aquatic habitat",
+            "option4": "insectivorous habit"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Lung hooks are used for respiration in",
+        "options": {
+            "option1": "spiders",
+            "option2": "insects",
+            "option3": "millipedes",
+            "option4": "snails"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Insects and millipedes have many features in common EXCEPT",
+        "options": {
+            "option1": "exoskeleton",
+            "option2": "jointed appendages",
+            "option3": "compound eyes",
+            "option4": "segmented body"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The major function of the swim-bladder in fishes is",
+        "options": {
+            "option1": "breathing",
+            "option2": "buoyancy",
+            "option3": "swimming",
+            "option4": "diving"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following statements gives the BEST description of bark?",
+        "options": {
+            "option1": "Tissues outside the vascular cambium",
+            "option2": "Cork-like tissues found only in stems",
+            "option3": "Brown tissues never found in primary growth",
+            "option4": "Cork-like tissues of old trees"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In the transverse section of the leaf of maize, vascular bundles are arranged in",
+        "options": {
+            "option1": "a row",
+            "option2": "one circle",
+            "option3": "alternate positions",
+            "option4": "two circles"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "If an animal has diastema, it would NOT possess",
+        "options": {
+            "option1": "incisors",
+            "option2": "canines",
+            "option3": "premolars",
+            "option4": "molars"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "If the gall bladder of a mammal is damaged, which of the following will be most seriously affected?",
+        "options": {
+            "option1": "Glycolysis",
+            "option2": "Digestion of starch",
+            "option3": "Digestion of fats and oils",
+            "option4": "Digestion of proteins"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following will be first digested if ingested at the same time?",
+        "options": {
+            "option1": "Cooked beans",
+            "option2": "Cooked rice",
+            "option3": "Cod liver oil",
+            "option4": "Roasted beef"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "If the phloem of a healthy plant is killed by heat treatment, the",
+        "options": {
+            "option1": "upward movement of salts will cease",
+            "option2": "food manufacture in the leaves will accumulate",
+            "option3": "whole plant will die immediately",
+            "option4": "leaves of the plant will become yellow"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "In the mammalian respiratory system, exchange of gases occurs in the",
+        "options": {
+            "option1": "lungs",
+            "option2": "bronchi",
+            "option3": "bronchioles",
+            "option4": "alveoli"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The main waste products formed in plants are",
+        "options": {
+            "option1": "alkaloids, tannins and resins",
+            "option2": "water, alkaloids and carbon dioxide",
+            "option3": "water, carbon dioxide and oxygen"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "In the kidney, the malpighian corpuscle is located in the",
+        "options": {
+            "option1": "medulla",
+            "option2": "helium",
+            "option3": "cortex",
+            "option4": "pelvis"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The skin, through the sweat glands, functions as",
+        "options": {
+            "option1": "an excretory organ",
+            "option2": "a respiratory organ",
+            "option3": "a sensory organ",
+            "option4": "a protective organ"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Parenchyma cells serve as supporting tissue when they",
+        "options": {
+            "option1": "contain chloroplasts",
+            "option2": "have crystals",
+            "option3": "become flaccid",
+            "option4": "become turgid"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Taxism differs from tropism because",
+        "options": {
+            "option1": "the whole organism is affected",
+            "option2": "it is a directional movement",
+            "option3": "it is a response to multi-directional stimuli",
+            "option4": "part of the organism is affected"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "A dry dehiscent fruit which breaks up into one-seeded parts is a",
+        "options": {
+            "option1": "schizocarp",
+            "option2": "capsule",
+            "option3": "follicle",
+            "option4": "legume"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Air spaces are characteristic of seeds or fruits dispersed by",
+        "options": {
+            "option1": "birds",
+            "option2": "water",
+            "option3": "wind",
+            "option4": "explosive mechanism"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "In vegetative propagation, which of the following requires part of another plant to develop?",
+        "options": {
+            "option1": "Scion",
+            "option2": "Bulb",
+            "option3": "Rhizome",
+            "option4": "Sucker"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of these plant groups are normally propagated by asexual means?",
+        "options": {
+            "option1": "Banana, yam, pineapple and cassava",
+            "option2": "Yam, cassava, rubber and banana",
+            "option3": "Yam, cassava, orange and banana",
+            "option4": "Banana, cassava, coffee and pineapple"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "In a mammal, the placenta performs functions similar to those of the",
+        "options": {
+            "option1": "lungs, kidneys and digestive system",
+            "option2": "lungs, heart and nervous system",
+            "option3": "liver, intestines and reproductive system",
+            "option4": "intestines, heart and digestive system"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The radicle of a bean seedling grows most rapidly in the region",
+        "options": {
+            "option1": "of the root tip",
+            "option2": "just above the root tip",
+            "option3": "just around the root tip",
+            "option4": "just below the root tip"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The main function of the choroid is",
+        "options": {
+            "option1": "protection of the eyeball",
+            "option2": "transmission of light",
+            "option3": "supply of nutrients to tissues of the eye",
+            "option4": "converging light"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "What part of the central nervous system is concerned with answering an examination question?",
+        "options": {
+            "option1": "Cerebrum",
+            "option2": "Cerebellum",
+            "option3": "Medulla oblongata",
+            "option4": "Spinal cord"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "If a dark-skinned woman (Bb) marries an albino man (bb) and they have four children, how many of the children will be dark-skinned?",
+        "options": {
+            "option1": "3",
+            "option2": "2",
+            "option3": "1",
+            "option4": "0"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "A red-colored flower when crossed with a white-colored one produced pink flowers. This is an example of",
+        "options": {
+            "option1": "complete dominance",
+            "option2": "blending inheritance",
+            "option3": "interaction of genes",
+            "option4": "back crossing"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The turbidity of a pond can be measured using the",
+        "options": {
+            "option1": "anaemometer",
+            "option2": "secchi disc",
+            "option3": "theodolite",
+            "option4": "hydrometer"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The most important substances necessary for the maintenance of life are carbon, oxygen",
+        "options": {
+            "option1": "hydrogen, soil and enzymes",
+            "option2": "hydrogen, salt and water",
+            "option3": "nitrogen, salt and soil",
+            "option4": "nitrogen, salt and water"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "If an organism obtains its food by means of haustoria, it is said to be",
+        "options": {
+            "option1": "holophytic",
+            "option2": "heterophytic",
+            "option3": "saprophytic",
+            "option4": "parasitic"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following relationships involves only one organism?",
+        "options": {
+            "option1": "saprophytism",
+            "option2": "commensalism",
+            "option3": "parasitism",
+            "option4": "symbiosis"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following has the greatest influence on the distribution of animals in marine and fresh water habitats?",
+        "options": {
+            "option1": "pH",
+            "option2": "salinity",
+            "option3": "water current",
+            "option4": "turbidity"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of these groups of animals is likely to be found in fresh water?",
+        "options": {
+            "option1": "Blood worm, pond skater and scorpion",
+            "option2": "Blood worm, pond skater and dragonfly larva",
+            "option3": "Pond skater, scorpion and dragonfly larva",
+            "option4": "Pond skater, blood worm and ant-lion"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "One of the characteristics of plants in the savanna is the",
+        "options": {
+            "option1": "possession of thin, smooth barks",
+            "option2": "possession of large tap roots",
+            "option3": "production of seedlings on mother plant",
+            "option4": "possession of thick, flaky barks"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following diseases can be contracted in areas with fast flowing rivers?",
+        "options": {
+            "option1": "Schistosomiasis",
+            "option2": "Elephantiasis",
+            "option3": "Syphilis",
+            "option4": "Onchocerciasis"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following causes pollution?",
+        "options": {
+            "option1": "Consumption of canned drinks",
+            "option2": "The addition of fertilizer to farmland",
+            "option3": "Respiration of living organisms",
+            "option4": "Burning of refuse"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The mineral nutrient that is most bound to the soil is",
+        "options": {
+            "option1": "phosphorus",
+            "option2": "calcium",
+            "option3": "iron",
+            "option4": "potassium"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The mineral nutrient that easily gets leached out of the soil is",
+        "options": {
+            "option1": "phosphorus",
+            "option2": "calcium",
+            "option3": "magnesium",
+            "option4": "nitrate"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Most commercial fertilizers are rich in salts of",
+        "options": {
+            "option1": "sodium, iron and calcium",
+            "option2": "nitrogen, phosphorus and potassium",
+            "option3": "iron, copper and nitrogen",
+            "option4": "calcium, sodium and phosphorus"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Dead plants and animals are decomposed by bacteria and fungi into",
+        "options": {
+            "option1": "butterfly",
+            "option2": "grasshopper",
+            "option3": "mosquito",
+            "option4": "housefly"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "When a virus is placed in a non-living medium it",
+        "options": {
+            "option1": "becomes dehydrated",
+            "option2": "forms spores",
+            "option3": "forms flagella",
+            "option4": "becomes crystallized"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "A characteristic of the phylum coelenterate is that",
+        "options": {
+            "option1": "most of them are marine",
+            "option2": "they possess a gut with a single opening",
+            "option3": "they possess numerous pores on their body",
+            "option4": "they are bilaterally symmetrical"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "A multinucleate body without internal cell boundaries is characteristic of",
+        "options": {
+            "option1": "bryophytes",
+            "option2": "fungi",
+            "option3": "algae",
+            "option4": "gymnosperms"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Double fertilization is a unique feature of",
+        "options": {
+            "option1": "angiosperms",
+            "option2": "bryophytes",
+            "option3": "pteridophytes",
+            "option4": "algae"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following phyla have members with both internal and external segmentation?",
+        "options": {
+            "option1": "Platyhelminthes",
+            "option2": "Nematoda",
+            "option3": "Algae",
+            "option4": "Mollusca"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Mineral salts can be absorbed into the roots by",
+        "options": {
+            "option1": "osmosis only",
+            "option2": "osmosis and diffusion",
+            "option3": "diffusion and active transport",
+            "option4": "imbibition only"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is a common characteristic of crustaceans?",
+        "options": {
+            "option1": "Possession of a pair of antennae",
+            "option2": "Possession of two pairs of antennae",
+            "option3": "Each segment has a pair of walking legs",
+            "option4": "Four pairs of walking legs on the cephalothorax"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "The pedipalpi in spiders are used for",
+        "options": {
+            "option1": "grasping",
+            "option2": "walking",
+            "option3": "feeling",
+            "option4": "web spinning"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The body of a snail is divided into head",
+        "options": {
+            "option1": "thorax and abdomen",
+            "option2": "visceral mass and abdomen",
+            "option3": "thorax and foot",
+            "option4": "visceral mass and foot"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "The lumbar vertebra when compared with a thoracic vertebra has a",
+        "options": {
+            "option1": "longer neural spine",
+            "option2": "wider neural canal",
+            "option3": "thicker centrum",
+            "option4": "shorter transverse process"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Wind-pollinated flowers usually have",
+        "options": {
+            "option1": "rough pollen grains",
+            "option2": "sticky stigmas",
+            "option3": "small and short stigmas",
+            "option4": "long styles"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "The components of castor oil seed and the maize grain are similar EXCEPT for the",
+        "options": {
+            "option1": "number of cotyledons",
+            "option2": "location of the embryo",
+            "option3": "number of radicles",
+            "option4": "number of plumules"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "A corm differs from a bulb in that",
+        "options": {
+            "option1": "its stem is the main food storage organ",
+            "option2": "it has a flattened disc-shaped stem",
+            "option3": "buds are absent in the axils of the leaves",
+            "option4": "adventitious roots are present"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Exponential increase in the population of an organism is a characteristic feature of",
+        "options": {
+            "option1": "binary fission",
+            "option2": "sexual reproduction",
+            "option3": "budding",
+            "option4": "vegetative propagation"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The irreversible life process by which new protoplasm is added to increase the size and weight of an organism can be termed",
+        "options": {
+            "option1": "anabolism",
+            "option2": "catabolism",
+            "option3": "growth",
+            "option4": "development"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Fruit enlargement can be induced by spraying young ovary with",
+        "options": {
+            "option1": "cytokinin, abscisic acid and ethylene",
+            "option2": "gibberellin, ethylene and abscisic acid",
+            "option3": "auxin, abscisic acid and ethylene",
+            "option4": "auxin, cytokinin and gibberellin"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "A fundamental similarity between nervous and hormonal system is that both",
+        "options": {
+            "option1": "involve chemical transmission",
+            "option2": "have widespread effects",
+            "option3": "shed chemicals into the bloodstream",
+            "option4": "evoke rapid responses"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "The region that controls most of the unconscious processes of a mammalian body is the",
+        "options": {
+            "option1": "cerebellum",
+            "option2": "cerebrum",
+            "option3": "spinal cord",
+            "option4": "medulla oblongata"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "During cell division, the two strands of chromosomes are joined at a point called",
+        "options": {
+            "option1": "spindle",
+            "option2": "chromatid",
+            "option3": "centromere",
+            "option4": "aster"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "When the two alleles present in an organism are of the same type, the genotype is described as",
+        "options": {
+            "option1": "heterozygous",
+            "option2": "heterogamous",
+            "option3": "homozygous",
+            "option4": "homologous"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "If parents with blood groups AB and OO produce six children",
+        "options": {
+            "option1": "three of them will have group B",
+            "option2": "two of them will have group A",
+            "option3": "all the offspring will have group O",
+            "option4": "none of them will have group A"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is a sex-linked character?",
+        "options": {
+            "option1": "Sickle-cell anaemia",
+            "option2": "Tongue rolling",
+            "option3": "Skin color",
+            "option4": "Color blindness"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "In an ecosystem, the LEAST efficient energy transfer link is from",
+        "options": {
+            "option1": "producers to primary consumers",
+            "option2": "sun to producers",
+            "option3": "primary consumers to secondary consumers",
+            "option4": "secondary consumers to decomposers"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Lichen is an example of",
+        "options": {
+            "option1": "a saprophytic organism",
+            "option2": "a symbiotic association",
+            "option3": "an epiphytic plant",
+            "option4": "a carnivorous plant"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "A physiological adaptation of plants to the problem of excessive water loss is",
+        "options": {
+            "option1": "reduction in the number of stomata",
+            "option2": "reversal of the normal stomatal rhythm",
+            "option3": "possession of shallow roots",
+            "option4": "possession of waxy cuticle"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the ways of controlling bilharzia can result in pollution?",
+        "options": {
+            "option1": "Clearing water weeds on which the snails feed",
+            "option2": "Treating infected people with drugs",
+            "option3": "Preventing contamination of water by infected urine and feces",
+            "option4": "Applying chemicals to kill the snails"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following diseases can be caused by a bacterium?",
+        "options": {
+            "option1": "ringworm",
+            "option2": "poliomyelitis",
+            "option3": "malaria",
+            "option4": "syphilis"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Biology",
+        "question": "Which of the following is a dangerous product of coal burning?",
+        "options": {
+            "option1": "sulphur dioxide",
+            "option2": "carbon dioxide",
+            "option3": "carbon",
+            "option4": "nitrogen"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Biology",
+        "question": "5g of oven dried soil was heated in a furnace for 24 hours, after cooling, it weighed 4.8g. What is the amount of humus in the soil?",
+        "options": {
+            "option1": "40.0g per 100g dry soil",
+            "option2": "4.4g per 100g dry soil",
+            "option3": "4.0g per 100g dry soil",
+            "option4": "0.4g per 100g dry soil"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Biology",
+        "question": "Most irrigated lands often become unproductive in later years because of",
+        "options": {
+            "option1": "loss of fertility",
+            "option2": "increase in salinity",
+            "option3": "soil erosion",
+            "option4": "loss of water"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Biology",
+        "question": "Farmers practice crop rotation because it",
+        "options": {
+            "option1": "helps to prevent soil erosion",
+            "option2": "allows two crops to be planted at the same time",
+            "option3": "helps to conserve soil fertility",
+            "option4": "is an alternative to shifting cultivation"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If M represents the median and D the mode of the measurements 5, 9, 3, 5, 8 then (M,D) is",
+        "options": {
+            "option1": "(6,5)",
+            "option2": "(5,8)",
+            "option3": "(5,7)",
+            "option4": "(5,5)",
+            "option5": "(7,5)"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A construction company is owned by two partners X and Y and it is agreed that their profit will be divided in the ratio 4:5. At the end of the year, Y received #5,000 more than X. What is the total profit of the company for the year?",
+        "options": {
+            "option1": "#20,000.00",
+            "option2": "#25,000.00",
+            "option3": "#30,000.00",
+            "option4": "#15,000.00",
+            "option5": "#45,000.00"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Given a regular hexagon, calculate each interior angle of the hexagon.",
+        "options": {
+            "option1": "60°",
+            "option2": "30°",
+            "option3": "120°",
+            "option4": "45°",
+            "option5": "135°"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solve the following equations: 4x – 3 = 3x + y = 2y + 5x – 12.",
+        "options": {
+            "option1": "4x=5, y=2",
+            "option2": "x=2, y=5",
+            "option3": "x=-2, y=-5",
+            "option4": "x=5, y=-2",
+            "option5": "x=-5, y=-2"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If x = 1 is a root of the equation x³ – 2x² – 5x + 6, find the other roots.",
+        "options": {
+            "option1": "-3 and 2",
+            "option2": "-2 and 2",
+            "option3": "3 and -2",
+            "option4": "1 and 3",
+            "option5": "-3 and 1"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If x is jointly proportional to the cube of y and the fourth power of z. In what ratio is x increased or decreased when y is halved and z is doubled?",
+        "options": {
+            "option1": "4:1 increase",
+            "option2": "2:1 increase",
+            "option3": "1:4 decrease",
+            "option4": "1:1 no change",
+            "option5": "3:4 decrease"
+        },
+        "correctOption": "option2"
+    },
+    
+    {
+            "subject": "Mathematics",
+            "question": "Given that cos z = L, where z is an acute angle, find an expression for cos z + sec z - cosec z / (sec z + tan z):",
+            "options": {
+                "option1": "1 - L",
+                "option2": "L^2 - √(1 - L^2)",
+                "option3": "-L - √(1 - L^2) / (1 + L)",
+                "option4": "√(L - 1)",
+                "option5": "L - (L^2 - 1) / (L + √(1 - L^2)) + √(1 - L^2) / (1 + √(1 - L^2))"
+            },
+            "correctOption": "option1"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "If 0.0000152 x 0.00042 = A x 10^B, where 1 ≤ A < 10, find A and B.",
+            "options": {
+                "option1": "A = 9, B = 6.38",
+                "option2": "A = 6.38, B = -9",
+                "option3": "A = 6.38, B = 9",
+                "option4": "A = 6.38, B = -1",
+                "option5": "A = 6.38, B = 1"
+            },
+            "correctOption": "option3"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "If x + 2 and x - 1 are factors of the expression lx + 2kx^2 + 24, find the values of l and k.",
+            "options": {
+                "option1": "l = -6, k = -9",
+                "option2": "l = -2, k = 1",
+                "option3": "l = -2, k = -1",
+                "option4": "l = 0, k = 1",
+                "option5": "l = 6, k = 0"
+            },
+            "correctOption": "option2"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "Make T the subject of the equation: av = 3(2V + T)/(1 - V) - a2T.",
+            "options": {
+                "option1": "3av/(1 - v)",
+                "option2": "2v(1 - v)^2 - a^2v^2/(2a^2v^2 - (1 - v)^2)",
+                "option3": "2v(1 - v)^2 + a^3v^2/(2a^2v^2 + (1 - v)^2)",
+                "option4": "2v(1 - v)^2 - a^4v^3/(2a^3v^3 - (1 - v)^3)",
+                "option5": "2v(1 - v)^3 - a^4v^3/(2a^3v^3) + (1 - v)"
+            },
+            "correctOption": "option1"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "The value of (0.303)³ – (0.02)³ is:",
+            "options": {
+                "option1": "0.019",
+                "option2": "0.0019",
+                "option3": "0.00019",
+                "option4": "0.000019",
+                "option5": "0.000035"
+            },
+            "correctOption": "option1"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "y varies partly as the square of x and partly as the inverse of the square root of x. Write down the expression for y if y = 2 when x = 1 and y = 6 when x = 4.",
+            "options": {
+                "option1": "y = 10x² + 5/2",
+                "option2": "y = x² + 1/(3√x)",
+                "option3": "y = x² + 1",
+                "option4": "y = 10(x² + 1)/(3√x)",
+                "option5": "y = 10(x² + 1)/√x"
+            },
+            "correctOption": "option1"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "Simplify (x – 7) / (x² – 9) * (x² – 3x) / (x² - 49):",
+            "options": {
+                "option1": "x / (x - 3)(x + 7)",
+                "option2": "(x + 3)(x + 7) / x",
+                "option3": "x / (x - 3)(x - 7)",
+                "option4": "x / (x + 3)(x + 7)",
+                "option5": "x / (x + 4)(x + 7)"
+            },
+            "correctOption": "option3"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "The lengths of the sides of a right-angled triangle are (3x + 1) cm, (3x - 1) cm, and x cm. Find the value of x.",
+            "options": {
+                "option1": "2",
+                "option2": "6",
+                "option3": "18",
+                "option4": "12",
+                "option5": "0"
+            },
+            "correctOption": "option2"
+    },
+    {
+            "subject": "Mathematics",
+            "question": "The scores of a set of final year students in the first semester examination are 41, 29, 55, 21, 47, 70, 70, 40, 43, 56, 73, 23, 50, 50. Find the median of the scores.",
+            "options": {
+                "option1": "47",
+                "option2": "48.5",
+                "option3": "50",
+                "option4": "48",
+                "option5": "49"
+            },
+            "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The scores of 16 students in a Mathematics test are 65, 65, 55, 60, 60, 65, 60, 70, 75, 70, 65, 70, 60, 65, 65, 70. What is the sum of the median and modal scores?",
+        "options": {
+            "option1": "125",
+            "option2": "130",
+            "option3": "140",
+            "option4": "150",
+            "option5": "137.5"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The letters of the word MATRICULATION are cut and put into a box. One letter is drawn at random from the box. Find the probability of drawing a vowel.",
+        "options": {
+            "option1": "2/13",
+            "option2": "5/13",
+            "option3": "6/13",
+            "option4": "8/13",
+            "option5": "4/13"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Correct each of the numbers 59.81789 and 0.0746829 to three significant figures and multiply them, giving your answer to three significant figures.",
+        "options": {
+            "option1": "4.46",
+            "option2": "4.48",
+            "option3": "4.47",
+            "option4": "4.49",
+            "option5": "4.50"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a rod of length 250 cm is measured as 255 cm longer in error, what is the percentage error in measurement?",
+        "options": {
+            "option1": "55",
+            "option2": "10",
+            "option3": "5",
+            "option4": "4",
+            "option5": "2"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If (2/3)ⁿ (3/4)ⁿ = 256/729, find the values of m and n.",
+        "options": {
+            "option1": "m=4, n=2",
+            "option2": "m=-4, n=-2",
+            "option3": "m=-4, n=2",
+            "option4": "m=4, n=-2",
+            "option5": "m=-2, n=4"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Without using tables, find the numerical value of log₇(49) + log₇(1/7).",
+        "options": {
+            "option1": "1",
+            "option2": "2",
+            "option3": "3",
+            "option4": "7",
+            "option5": "0"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Factorize completely 81a⁴ – 16b⁴.",
+        "options": {
+            "option1": "(3a + 2b)(2a – 3b)(9a² + 4b²)",
+            "option2": "(3a - 2b)(2a – 3b)(4a² - 9b²)",
+            "option3": "(3a - 2b)(3a – 2b)(9a² + 4b²)",
+            "option4": "(3a - 2b)(2a – 3b)(9a² + 4b²)",
+            "option5": "(3a - 2b)(2a – 3b)(9a² - 4b²)"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "One interior angle of a convex hexagon is 170° and each of the remaining interior angles is equal to x°. Find x.",
+        "options": {
+            "option1": "120°",
+            "option2": "110°",
+            "option3": "105°",
+            "option4": "102°",
+            "option5": "100°"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "On a square paper of length 2.524375 cm is inscribed a square diagram of length 0.524375 cm. Find the area of the paper not covered by the diagram, correct to 3 significant figures.",
+        "options": {
+            "option1": "6.00 cm²",
+            "option2": "6.10 cm²",
+            "option3": "6.0 cm²",
+            "option4": "6.09 cm²",
+            "option5": "4.00 cm²"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If f(x) = (1 + x - 1) / (x - 1) find f(1-x).",
+        "options": {
+            "option1": "1/x + 1/(x+2)",
+            "option2": "x + 1/(2x - 1)",
+            "option3": "-1/x - 1/(x-2)",
+            "option4": "-1/x + 1/(x² - 1)"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Simplify (2/3 – 1/5) – (1/3 of 2/5) - (1/1/2)",
+        "options": {
+            "option1": "1/7",
+            "option2": "7",
+            "option3": "1/3",
+            "option4": "3",
+            "option5": "1/5"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If 263 + 441 = 714, what number base has been used?",
+        "options": {
+            "option1": "12",
+            "option2": "11",
+            "option3": "10",
+            "option4": "9",
+            "option5": "8"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "0.00014323 / 1.940000 = k x 10^n where 1 ≤ k < 10 and n is a whole number. The values of k and n are?",
+        "options": {
+            "option1": "7.381 and -11",
+            "option2": "2.34 and 10",
+            "option3": "3.87 and 2",
+            "option4": "7.831 and -11",
+            "option5": "5.41 and -2"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "P sold his bicycle to Q at a profit of 10%. Q sold it to R for #209 at a loss of 5%. How much did the bicycle cost P?",
+        "options": {
+            "option1": "#200",
+            "option2": "#196",
+            "option3": "#180",
+            "option4": "#205",
+            "option5": "#150"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the price of oranges was raised by 1/2k per orange, the number of oranges customer can buy for #2.40 will be less by 16. What is the present price of an orange?",
+        "options": {
+            "option1": "21/2 k",
+            "option2": "31/2 k",
+            "option3": "51/2 k",
+            "option4": "20 k",
+            "option5": "211/2 k"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A man invested a total of #50,000 in two companies. If these companies pay dividends of 6% and 8% respectively, how much did he invest at 8% if the total yield is #3,700?",
+        "options": {
+            "option1": "#15,000",
+            "option2": "#29,600",
+            "option3": "#21,400",
+            "option4": "#27,800",
+            "option5": "#35,000"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Thirty boys and x girls sat for a test. The mean of the boys’ scores and that of the girls were respectively 6 and 8. Find x if the total score was 468.",
+        "options": {
+            "option1": "38",
+            "option2": "24",
+            "option3": "36",
+            "option4": "22",
+            "option5": "41"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The cost of production of an article is made up as follows: Labour #70, Power #15, Materials #30, Miscellaneous #5. Find the angle of the sector representing labour in a pie chart.",
+        "options": {
+            "option1": "210°",
+            "option2": "105°",
+            "option3": "175°",
+            "option4": "150°",
+            "option5": "90°"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Bola chooses at random a number between 1 and 300. What is the probability that the number is divisible by 4?",
+        "options": {
+            "option1": "1/3",
+            "option2": "1/4",
+            "option3": "1/5",
+            "option4": "4/300",
+            "option5": "1/300"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find without using logarithm tables, the value of Log3(27) – Log1/4(64) / Log3(1/81)",
+        "options": {
+            "option1": "7/4",
+            "option2": "-7/4",
+            "option3": "-3/2",
+            "option4": "7/3",
+            "option5": "-1/4"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A variable point P(x, y) traces a graph in a two-dimensional plane. (0, -3) is one position of P. If x increases by 1 unit, y increases by 4 units. The equation of the graph is?",
+        "options": {
+            "option1": "-3 = y + 4/x + 1",
+            "option2": "4y = -3 + x",
+            "option3": "y/x = -3/4",
+            "option4": "y + 3 = 4x",
+            "option5": "4y = x + 3"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A trader in a country where their currency ‘MONT’ (M) is in base five bought 103(5) oranges at M14(5) each. If he sold the oranges at M24(5) each, what will be his gain?",
+        "options": {
+            "option1": "M103(5)",
+            "option2": "M1030(5)",
+            "option3": "M102(5)",
+            "option4": "M2002(5)",
+            "option5": "M3032(5)"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Rationalize (5√5 - 7√5) / (√7 - √5)",
+        "options": {
+            "option1": "-2√35",
+            "option2": "4√7 - 6√5",
+            "option3": "-√35",
+            "option4": "4√7 - 8√5",
+            "option5": "√35"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Simplify 3^n – 3^(n - 1) / (3^3 x 3^n - 27 x 3^(n - 1))",
+        "options": {
+            "option1": "1",
+            "option2": "0",
+            "option3": "1/27",
+            "option4": "3^n - 3^(n - 1)",
+            "option5": "2/27"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "p varies directly as the square of q and inversely as r. If p = 36 when q = 3 and r = p, find p when q = 5 and r = 2.",
+        "options": {
+            "option1": "72",
+            "option2": "100",
+            "option3": "90",
+            "option4": "200",
+            "option5": "125"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Factorise 6x² – 14x - 12.",
+        "options": {
+            "option1": "2(x + 3)(3x - 2)",
+            "option2": "6(x - 2)(x + 1)",
+            "option3": "2(x - 3)(3x + 2)",
+            "option4": "6(x + 2)(x - 1)",
+            "option5": "(3x + 4)(2x + 3)"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A straight line y = mx meets the curve y = x² – 12x + 40 in two distinct points. If one of them is (5, 5), find the other.",
+        "options": {
+            "option1": "(5, 6)",
+            "option2": "(8, 8)",
+            "option3": "(8, 5)",
+            "option4": "(7, 7)",
+            "option5": "(7, 5)"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Given the equations 2x + 3y = 1 and y = x - 2y = 11, find (x + y).",
+        "options": {
+            "option1": "5",
+            "option2": "-3",
+            "option3": "8",
+            "option4": "2",
+            "option5": "-2"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Tunde and Shola can do a piece of work in 18 days. Tunde can do it alone in x days, whilst Shola takes 15 days longer to do it alone. Which of the following equations is satisfied by x?",
+        "options": {
+            "option1": "x² - 5x - 18 = 0",
+            "option2": "x² - 20x + 360 = 0",
+            "option3": "x² - 21x - 270 = 0",
+            "option4": "2x² + 42x - 190 = 0",
+            "option5": "3x² - 31x + 150 = 0"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If f(x) = 2(x - 3)² + 3(x - 3) - 4 and g(y) = √5 + y, find g(f(3)) and g(f(4)).",
+        "options": {
+            "option1": "3 and 4",
+            "option2": "-3 and 4",
+            "option3": "-3 and -4",
+            "option4": "3 and -4",
+            "option5": "0 and √5"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The quadratic equation whose roots are 1 - √13 and 1 + √13 is:",
+        "options": {
+            "option1": "x² + (1 - √13)x + (1 + √13) = 0",
+            "option2": "x² + (1 - √13)x + (1 - √13) = 0",
+            "option3": "x² + 2x + 12 = 0",
+            "option4": "x² - 2x + 12 = 0",
+            "option5": "x² - 2x - 12 = 0"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find a factor which is common to all three binomial expressions 4a² - 9b², a³ + 27b³, (4a + 6b)².",
+        "options": {
+            "option1": "4a + 6b",
+            "option2": "4a - 6b",
+            "option3": "2a + 3b",
+            "option4": "2a - 3b",
+            "option5": "none"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The sides of a triangle are (x + 4) cm, x cm, and (x - 4) cm respectively. If the cosine of the largest angle is 1/5, find the value of x.",
+        "options": {
+            "option1": "24 cm",
+            "option2": "20 cm",
+            "option3": "28 cm",
+            "option4": "88/7 cm",
+            "option5": "0 cm"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If a = 2x/(1 - x) and b = (1 + x)/(1 - x), then a² - b² in the simplest form is:",
+        "options": {
+            "option1": "(3x + 1)/(x - 1)",
+            "option2": "(3x² - 1)/(x - 1)²",
+            "option3": "(3x² + 1)/(1 - x)²",
+            "option4": "(5x² - 1)/(1 - x)²",
+            "option5": "(5x² - 2x - 1)/(1 - x)²"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Simplify (1 + 1)(x + 2)/(x + 1).",
+        "options": {
+            "option1": "(x² - 1)(x + 2)",
+            "option2": "x²(x + 2)/(x + 1)",
+            "option3": "x² - (x + 2)",
+            "option4": "2x(x + 2)",
+            "option5": "2x(x + 2)/(x + 1)"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A right circular cone has a base radius r cm and a vertical angle θ. What is the height of the cone?",
+        "options": {
+            "option1": "r tan θ cm",
+            "option2": "r sin θ cm",
+            "option3": "r cot θ cm",
+            "option4": "r cos θ cm",
+            "option5": "r cosec θ cm"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Two fair dice are rolled. What is the probability that both show the same number of points?",
+        "options": {
+            "option1": "1/36",
+            "option2": "7/36",
+            "option3": "1/2",
+            "option4": "1/3",
+            "option5": "1/6"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The larger value of y for which (y - 1)² = 4y - 7 is:",
+        "options": {
+            "option1": "2",
+            "option2": "4",
+            "option3": "6",
+            "option4": "7",
+            "option5": "8"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Arrange the following numbers in ascending order of magnitude: 6/7, 13/15, 0.865.",
+        "options": {
+            "option1": "6/7 < 0.865 < 13/15",
+            "option2": "6/7 < 13/15 < 0.865",
+            "option3": "13/15 < 6/7 < 0.865",
+            "option4": "13/15 < 0.865 < 6/7",
+            "option5": "0.865 < 6/7 < 13/15"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A sum of money was invested at 8% per annum simple interest. If after 4 years the money amounts to #330.00, find the amount originally invested.",
+        "options": {
+            "option1": "#180.00",
+            "option2": "#165.00",
+            "option3": "#150.00",
+            "option4": "#200.00",
+            "option5": "#250.00"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In the equation below, solve for x if all the numbers are in base 2: 11/x = 1000/(x + 101).",
+        "options": {
+            "option1": "101",
+            "option2": "11",
+            "option3": "110",
+            "option4": "111",
+            "option5": "10"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "List all integers satisfying the inequality -2 < 2x - 6 < 4.",
+        "options": {
+            "option1": "2, 3, 4, 5",
+            "option2": "2, 3, 4",
+            "option3": "2, 5",
+            "option4": "3, 4, 5",
+            "option5": "4, 5"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find correct to two decimal places: 100 + 1/100 + 3/1000 + 27/10000.",
+        "options": {
+            "option1": "100.02",
+            "option2": "1000.02",
+            "option3": "100.22",
+            "option4": "100.01",
+            "option5": "100.51"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Simplify: 1/2 + 1/2 + 1/(4 + 1/5).",
+        "options": {
+            "option1": "¾",
+            "option2": "-1/3",
+            "option3": "169/190",
+            "option4": "13/15",
+            "option5": "121/169"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If three numbers p, q, r are in the ratio 6:4:5, find the value of (3q - q)/(4q + r).",
+        "options": {
+            "option1": "3/2",
+            "option2": "2/3",
+            "option3": "2",
+            "option4": "3",
+            "option5": "18"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Without using tables, evaluate Log2(4) + Log4(2) - Log2(55).",
+        "options": {
+            "option1": "½",
+            "option2": "1/5",
+            "option3": "0",
+            "option4": "5",
+            "option5": "2"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "John gives one third of his money to Janet who has #105.00. He then finds that his money is reduced to one-fourth of what Janet now has. Find how much money John had at first.",
+        "options": {
+            "option1": "#45.00",
+            "option2": "#48.00",
+            "option3": "#52.00",
+            "option4": "#58.00",
+            "option5": "#60.00"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find x if Log9(x) = 1.5.",
+        "options": {
+            "option1": "72.0",
+            "option2": "27.0",
+            "option3": "36.0",
+            "option4": "3.5",
+            "option5": "24.5"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Write h in terms of: a = b(1 - ch)(1 - dh).",
+        "options": {
+            "option1": "h = (a - b)",
+            "option2": "h = (a + b)/(ad - bc)",
+            "option3": "h = (ad - bc)",
+            "option4": "h = (1 - b)(a - b)(d - bc)",
+            "option5": "h = (b - a)/(ad - bc)"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "221/2% of the Nigerian Naira is equal to 171/10% of a foreign currency M. What is the conversion rate of M to the Naira?",
+        "options": {
+            "option1": "1M = 15/57N",
+            "option2": "1M = 211/57N",
+            "option3": "1M = 118/57N",
+            "option4": "1M = 381/4N",
+            "option5": "1M = 3843/4N"
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the values of p for which the equation x² - (p - 2)x + 2p + 1 = 0 has equal roots.",
+        "options": {
+            "option1": "(0, 12)",
+            "option2": "(1, 2)",
+            "option3": "(21, 0)",
+            "option4": "(4, 5)",
+            "option5": "(3, 4)"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If e^x = 1 + x + x²/12 + x³/1.2.3 + ..., find 1/e^(1/2).",
+        "options": {
+            "option1": "1 - x + x² - x³ + ...",
+            "option2": "1 + x + x² + x³/2 + ...",
+            "option3": "1 + x + x² - x³ + ...",
+            "option4": "1 - x + x² - x³ + ...",
+            "option5": "1 + x³ + x³ - x⁴ + ..."
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Simplify (4√3 + 4√2)(4√3 - 4√2)(3√ + √2).",
+        "options": {
+            "option1": "0",
+            "option2": "4√3 + 4√2",
+            "option3": "(4√2 - 4√3)(√3 + √2)",
+            "option4": "√3 + √2",
+            "option5": "1"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a restaurant, the cost of providing a particular type of food is partly constant and partly inversely proportional to the number of people. If the cost per head for 100 people is 30k and the cost for 40 people is 60k, find the cost for 50 people.",
+        "options": {
+            "option1": "15k",
+            "option2": "45k",
+            "option3": "20k",
+            "option4": "50k",
+            "option5": "40k"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The factors of 9 - (x² - 3x - 1)² are:",
+        "options": {
+            "option1": "-(x - 4)(x + 1)(x - 1)(x - 2)",
+            "option2": "(x - 4)(x - 1)(x - 1)(x + 2)",
+            "option3": "-(x - 2)(x + 1)(x + 2)(x + 4)",
+            "option4": "(x - 4)(x - 3)(x - 2)(x + 1)",
+            "option5": "(x - 2)(x + 2)(x - 1)(x + 1)"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If 3^(2y) - 6(3^y) = 27, find y.",
+        "options": {
+            "option1": "3",
+            "option2": "-1",
+            "option3": "2",
+            "option4": "-3",
+            "option5": "1"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Factorize abx² + 8y - 4bx - 2axy.",
+        "options": {
+            "option1": "(ax - 4)(bx - 2y)",
+            "option2": "(ax + b)(x - 8y)",
+            "option3": "(ax - 2y)(by - 4)",
+            "option4": "(abx - 4)(x - 2y)",
+            "option5": "(bx - 4)(ax - 2y)"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "At what real value of x do the curves whose equations are y = x³ + x and y = x² + 1 intersect?",
+        "options": {
+            "option1": "-2",
+            "option2": "2",
+            "option3": "-1",
+            "option4": "0",
+            "option5": "1"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the quadratic function 3x² - 7x + R is a perfect square, find R.",
+        "options": {
+            "option1": "49/24",
+            "option2": "49/3",
+            "option3": "49/6",
+            "option4": "49/12",
+            "option5": "49/36"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solve the following equation: 2/(2r - 1) - 5/3 = 1/(r + 2).",
+        "options": {
+            "option1": "(-1, 5/2)",
+            "option2": "(-1, -5/2)",
+            "option3": "(5/2, 1)",
+            "option4": "(2, 1)",
+            "option5": "(1, 2)"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solve for (x,y) in the equations 2x + y = 4; x² + xy = -12.",
+        "options": {
+            "option1": "(6, -8); (-2, 8)",
+            "option2": "(3, -4); (-1, 4)",
+            "option3": "(8, -4); (-1, 4)",
+            "option4": "(-8, 6); (8, -2)",
+            "option5": "(-4, 3); (4, -1)"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Solve the simultaneous equations: 2x - 3y + 10 = 10, x - 6y = 5.",
+        "options": {
+            "option1": "x = 21/2, y = 31/3",
+            "option2": "x = 31/2, y = 21/3",
+            "option3": "x = 21/4, y = 3",
+            "option4": "x = 31/2, y = 21/5",
+            "option5": "x = 21/2, y = 21/3"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If f(x - 2) = 4x² + x + 7, find f(1).",
+        "options": {
+            "option1": "12",
+            "option2": "27",
+            "option3": "7",
+            "option4": "46",
+            "option5": "17"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In ΔXYZ, XY = 13cm, YZ = 9cm, XZ = 11cm and ∠XYZ = θ. Find cos(θ).",
+        "options": {
+            "option1": "4/39",
+            "option2": "43/39",
+            "option3": "209/286",
+            "option4": "1/6",
+            "option5": "43/78"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the hypotenuse of a right angle isosceles triangle is 2, what is the length of each of the other sides?",
+        "options": {
+            "option1": "√2",
+            "option2": "1/√2",
+            "option3": "2√2",
+            "option4": "1",
+            "option5": "2 - 1"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If two fair coins are tossed, what is the probability of getting at least one head?",
+        "options": {
+            "option1": "1/4",
+            "option2": "1/2",
+            "option3": "1",
+            "option4": "2/3",
+            "option5": "3/4"
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The ratio of the length of two similar rectangular blocks is 2:3. If the volume of the larger block is 351 cm³, then the volume of the other block is:",
+        "options": {
+            "option1": "234.00 cm³",
+            "option2": "526.50 cm³",
+            "option3": "166.00 cm³",
+            "option4": "729.75 cm³",
+            "option5": "104.00 cm³"
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "The bearing of a bird on a tree from a hunter on the ground is N72°E. What is the bearing of the hunter from the bird?",
+        "options": {
+            "option1": "S180°W",
+            "option2": "S72°W",
+            "option3": "S72°E",
+            "option4": "S270°E",
+            "option5": "S270°W"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Without using tables, calculate the value of 1 + sec(230°).",
+        "options": {
+            "option1": "21/3",
+            "option2": "2",
+            "option3": "11/3",
+            "option4": "3/4",
+            "option5": "3/7"
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "What is the probability that a number chosen at random from the integers between 1 and 10 inclusive is either a prime or a multiple of 3?",
+        "options": {
+            "option1": "7/10",
+            "option2": "3/5",
+            "option3": "4/5",
+            "option4": "1/2",
+            "option5": "3/10"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the area of a regular hexagon inscribed in a circle of radius 8 cm.",
+        "options": {
+            "option1": "16√3 cm²",
+            "option2": "96√3 cm²",
+            "option3": "192.3 cm²",
+            "option4": "16 cm²",
+            "option5": "32 cm²"
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Evaluate (212)3 - (121)3 + (222)3.",
+        "options": {
+            "option1": "(313)3",
+            "option2": "(1000)3",
+            "option3": "(1020)3",
+            "option4": "(1222)3",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If Musa scored 75 in Biology instead of 57, what was his total mark?",
+        "options": {
+            "option1": "282",
+            "option2": "240",
+            "option3": "222",
+            "option4": "210",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Divide the L.C.M. of 48, 64 and 80 by their H.C.F.",
+        "options": {
+            "option1": "20",
+            "option2": "30",
+            "option3": "48",
+            "option4": "60",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the smallest number by which 252 can be multiplied to obtain a perfect square.",
+        "options": {
+            "option1": "2",
+            "option2": "3",
+            "option3": "5",
+            "option4": "7",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option4"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the reciprocal of (2/3) + (1/2) + (1/3).",
+        "options": {
+            "option1": "4/5",
+            "option2": "5/4",
+            "option3": "2/5",
+            "option4": "6/7",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Three boys shared some oranges. The first received 1/3 of the oranges, the second received 2/3 of the remainder, if the third boy received the remaining 12 oranges. How many oranges did they share?",
+        "options": {
+            "option1": "60",
+            "option2": "54",
+            "option3": "48",
+            "option4": "42",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If P = 18, Q = 21, R = -6 and S = -4 calculate (P - Q) + S^2.",
+        "options": {
+            "option1": "-11/216",
+            "option2": "11/216",
+            "option3": "-43/115",
+            "option4": "41/116",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option5"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Simplify 0.03 x 4 x 0.00064 / (0.48 x 0.012).",
+        "options": {
+            "option1": "3.6 x 10²",
+            "option2": "36 x 10²",
+            "option3": "3.6 x 10³",
+            "option4": "3.6 x 10⁴",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Udoh deposited #150.00 in the bank. At the end of 5 years the simple interest on the principal was #55.00. At what rate per annum was the interest paid?",
+        "options": {
+            "option1": "11%",
+            "option2": "71/3%",
+            "option3": "5%",
+            "option4": "31/2%",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio 2:3:5 respectively. If Bisi got 5, how many were shared out?",
+        "options": {
+            "option1": "15",
+            "option2": "25",
+            "option3": "30",
+            "option4": "50",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "An open rectangular box externally measures 4m x 3m x 4m. Find the total cost of painting the box externally if it costs #2.00 to paint one square metre.",
+        "options": {
+            "option1": "#96.00",
+            "option2": "#112.00",
+            "option3": "#136.00",
+            "option4": "#160.00",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "In a pie chart drawn to represent the distribution of 900 students admitted in a university in 1979, what is the angle subtended at the centre by Anambra (185 students)?",
+        "options": {
+            "option1": "50°",
+            "option2": "65°",
+            "option3": "74°",
+            "option4": "88°",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the median of the numbers 89, 141, 130, 161, 120, 131, 131, 100, 108 and 119.",
+        "options": {
+            "option1": "131",
+            "option2": "125",
+            "option3": "123",
+            "option4": "120",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the probability that a number selected at random from 40 to 50 is a prime.",
+        "options": {
+            "option1": "3/11",
+            "option2": "5/11",
+            "option3": "3/10",
+            "option4": "4/11",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Convert 241 in base 5 to base 8.",
+        "options": {
+            "option1": "718",
+            "option2": "1078",
+            "option3": "1768",
+            "option4": "2418",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Find the least length of a rod which can be cut into exactly equal strips, each of either 40cm or 48cm in length.",
+        "options": {
+            "option1": "120cm",
+            "option2": "240cm",
+            "option3": "360cm",
+            "option4": "480cm",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option2"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A rectangular lawn has an area of 1815 square yards. If its length is 50 meters, find its width in metres (1 meter = 1.1 yards).",
+        "options": {
+            "option1": "39.93",
+            "option2": "35.00",
+            "option3": "33.00",
+            "option4": "30.00",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "Reduce each number to two significant figures and then evaluate (0.02174 x 1.2047) / 0.023789.",
+        "options": {
+            "option1": "0.8",
+            "option2": "0.9",
+            "option3": "1.1",
+            "option4": "1.2",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option1"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "A train moves from P to Q at an average speed of 90 km/hr and immediately returns from O to P through the same route and at an average speed of 45 km/h. Find the average speed for the entire journey.",
+        "options": {
+            "option1": "55.00 km/hr",
+            "option2": "60.00 km/hr",
+            "option3": "67.50 km/hr",
+            "option4": "75.00 km/hr",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option3"
+    },
+    {
+        "subject": "Mathematics",
+        "question": "If the length of a square is increased by 20% while its width is decreased by 20% to form a rectangle, what is the ratio of the area of the rectangle to the area of the square?",
+        "options": {
+            "option1": "6.5",
+            "option2": "25.24",
+            "option3": "5.6",
+            "option4": "24.25",
+            "option5": "None of the options match."
+        },
+        "correctOption": "option3"
+    }
+]

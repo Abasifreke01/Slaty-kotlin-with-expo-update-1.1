@@ -1,0 +1,6 @@
+{
+  "name": "Slaty",
+  "description": "Tutoring and e-learning platform connecting students and tutors for interactive live classes, tasks, test prep, and study communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
